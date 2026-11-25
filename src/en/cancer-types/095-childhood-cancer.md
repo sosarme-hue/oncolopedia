@@ -1,11 +1,12 @@
 ---
 title: Childhood cancer
-desc: Cancer in children and teenagers is rare and very different from adult cancer. Today more than 8 in 10 are cured in Europe, thanks to collaborative trials and specialist units.
+desc: Cancer in children and teenagers is rare and very different from adult cancer. In Europe more than 8 in 10 survive five years, with large differences by type, thanks to collaborative trials and specialist units.
 health: si
 grupo: Children and other
 img: t-cancer-infantil.jpg
 img_alt: Children receiving chemotherapy in hospital
 img_pie: Children receiving chemotherapy in hospital.
+updated: 2026-11-25
 ---
 ## At a glance
 

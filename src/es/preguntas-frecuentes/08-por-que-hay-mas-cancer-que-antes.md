@@ -2,6 +2,7 @@
 title: ¿Por qué hay más cáncer que antes?
 desc: El número de casos aumenta, pero el riesgo de morir por cáncer a cada edad disminuye. Las razones son el envejecimiento, el diagnóstico precoz y algunos hábitos.
 health: si
+updated: 2026-11-25
 ---
 ## Más casos, menos mortalidad por edad
 
@@ -24,4 +25,4 @@ Ver también: [El Código Europeo contra el Cáncer](../../prevencion-y-cribado/
 
 1. Bray F, et al. Global cancer statistics 2022. *CA Cancer J Clin*. 2024;74:229-263. [doi:10.3322/caac.21834](https://doi.org/10.3322/caac.21834)
 2. Santucci C, et al. European cancer mortality predictions for the year 2024 with focus on colorectal cancer. *Ann Oncol*. 2024;35:308-316.
-3. SEOM. Las cifras del cáncer en España. [seom.org](https://seom.org/)
+3. SEOM y REDECAN. Las cifras del cáncer en España 2025. [seom.org](https://www.seom.org/images/LAS_CIFRAS_DMC2025.pdf)

@@ -1,12 +1,13 @@
 ---
 title: Metástasis cerebrales
-desc: Los tumores cerebrales más frecuentes, procedentes de cánceres de pulmón, mama, melanoma o riñón. La radiocirugía y los fármacos que atraviesan la barrera del cerebro han mejorado mucho su control.
+desc: Los tumores cerebrales más frecuentes, procedentes de cánceres de pulmón, mama, melanoma o riñón. La radiocirugía y, en tumores con ciertas alteraciones, fármacos que atraviesan la barrera del cerebro permiten controlarlas mejor en parte de los pacientes.
 health: si
 grupo: Ojo y sistema nervioso
 img: t-metastasis-cerebrales.jpg
 img_alt: Resonancia magnética cerebral con metástasis
 img_pie: Resonancia magnética cerebral con metástasis.
 medicapedia: metastasis-cerebral
+updated: 2026-11-25
 ---
 ## En resumen
 

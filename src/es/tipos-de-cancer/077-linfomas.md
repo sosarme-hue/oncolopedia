@@ -1,12 +1,13 @@
 ---
 title: Linfomas
-desc: Cánceres del sistema linfático, con más de 80 tipos. Se dividen en linfoma de Hodgkin y no Hodgkin, indolentes o agresivos; muchos se curan y otros se controlan durante años.
+desc: Cánceres del sistema linfático, con más de 80 tipos. Se dividen en linfoma de Hodgkin y no Hodgkin, indolentes o agresivos; el pronóstico depende mucho del tipo: algunos se curan con frecuencia y otros se controlan durante años.
 health: si
 grupo: Sangre: leucemias, linfomas y mieloma
 img: t-linfomas.jpg
 img_alt: Linfomas al microscopio
 img_pie: Linfomas al microscopio.
 medicapedia: linfoma
+updated: 2026-11-25
 ---
 ## En resumen
 

@@ -7,6 +7,7 @@ img: t-cancer-colorrectal.jpg
 img_alt: Cáncer colorrectal al microscopio
 img_pie: Cáncer colorrectal al microscopio.
 medicapedia: cancer-colorrectal
+updated: 2026-11-25
 ---
 ## En resumen
 
@@ -15,7 +16,7 @@ medicapedia: cancer-colorrectal
 | **Frecuencia** | 1,9 millones de casos al año en el mundo; unos 44.000 en España (el más frecuente en conjunto) |
 | **Quién** | Sobre todo a partir de los 50 años, pero en aumento en menores de 50 |
 | **Origen** | Casi siempre un **pólipo adenomatoso** que tarda 10-15 años en malignizarse |
-| **Prevención** | Cribado con test de sangre oculta en heces cada 2 años (50-69 años en España) y colonoscopia |
+| **Prevención** | Cribado con test de sangre oculta en heces cada 2 años (50-74 años en España desde 2026, con implantación progresiva) y colonoscopia |
 | **Factores de riesgo** | Carne procesada y roja, alcohol, tabaco, obesidad, sedentarismo, antecedentes familiares |
 | **Tratamiento** | Cirugía; quimioterapia, radioterapia, terapias dirigidas e inmunoterapia |
 | **Supervivencia** | Alrededor del 65 % a cinco años; más del 90 % en estadio I |
@@ -53,7 +54,7 @@ En España es el cáncer más diagnosticado si se cuentan ambos sexos (unos 44.0
 
 El cribado reduce la **incidencia** (al quitar pólipos) y la **mortalidad**:
 
-- **Test de sangre oculta en heces inmunológico (FIT)** cada dos años entre 50 y 69 años (programas autonómicos en España; la UE recomienda hasta los 74). Se hace en casa con un pequeño tubo. Si es positivo, se hace una **colonoscopia**.
+- **Test de sangre oculta en heces inmunológico (FIT)** cada dos años. La Orden SND/356/2026 amplió el cribado nacional de **50-69 a 50-74 años**; las comunidades tienen hasta cinco años para empezar a invitar al grupo de 70 a 74, así que de momento la edad de invitación depende de cada una. Se hace en casa con un pequeño tubo. Si es positivo, se hace una **colonoscopia**.
 - **Colonoscopia**: la prueba de referencia. Permite extirpar pólipos en el momento.
 - Personas con antecedentes familiares o síndromes hereditarios: colonoscopias más precoces y frecuentes.
 - La participación en los programas sigue siendo baja en algunas comunidades; **hacerse el test** es la medida más eficaz.
@@ -144,4 +145,5 @@ Ver también: [Cáncer de recto](../cancer-de-recto/), [Cáncer de ano](../cance
 4. Tie J, et al. Circulating tumor DNA analysis guiding adjuvant therapy in stage II colon cancer (DYNAMIC). *N Engl J Med*. 2022;386:2261-2272. [doi:10.1056/NEJMoa2200075](https://doi.org/10.1056/NEJMoa2200075)
 5. Courneya KS, et al. Structured exercise after adjuvant chemotherapy for colon cancer (CHALLENGE). *N Engl J Med*. 2025.
 6. Bouvard V, et al. Carcinogenicity of consumption of red and processed meat. *Lancet Oncol*. 2015;16:1599-1600. [doi:10.1016/S1470-2045(15)00444-1](https://doi.org/10.1016/S1470-2045(15)00444-1)
-7. SEOM. Las cifras del cáncer en España 2025. [seom.org](https://seom.org/publicaciones/el-cancer-en-espanya)
+7. SEOM. Las cifras del cáncer en España 2025. [seom.org](https://www.seom.org/images/LAS_CIFRAS_DMC2025.pdf)
+8. Orden SND/356/2026, de 13 de abril, que amplía el cribado de cáncer colorrectal a los 50-74 años. *BOE* núm. 96, 20 de abril de 2026. [boe.es](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8592)

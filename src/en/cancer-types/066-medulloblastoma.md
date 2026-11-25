@@ -1,12 +1,13 @@
 ---
 title: Medulloblastoma
-desc: The most common malignant brain tumour in children. It arises in the cerebellum and three in four are cured; molecular classification guides treatment intensity.
+desc: The most common malignant brain tumour in children. It arises in the cerebellum; overall about three in four are cured, with large differences by molecular group and spread, which also guide treatment intensity.
 health: si
 grupo: Eye and nervous system
 img: t-meduloblastoma.jpg
 img_alt: Medulloblastoma under the microscope
 img_pie: Medulloblastoma under the microscope.
 medicapedia: meduloblastoma
+updated: 2026-11-25
 ---
 ## At a glance
 

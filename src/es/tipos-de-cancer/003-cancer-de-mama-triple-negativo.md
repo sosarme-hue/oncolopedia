@@ -1,12 +1,13 @@
 ---
 title: Cáncer de mama triple negativo
-desc: Un subtipo sin receptores hormonales ni HER2, más frecuente en mujeres jóvenes y en portadoras de BRCA1. La quimioterapia y la inmunoterapia han mejorado mucho sus resultados.
+desc: Un subtipo sin receptores hormonales ni HER2, más frecuente en mujeres jóvenes y en portadoras de BRCA1. En estadios iniciales, la quimioterapia con inmunoterapia antes de la cirugía ha aumentado las respuestas completas; en la fase metastásica el beneficio es más limitado.
 health: si
 grupo: Mama y ginecológicos
 img: t-cancer-de-mama-triple-negativo.jpg
 img_alt: Cáncer de mama triple negativo al microscopio
 img_pie: Cáncer de mama triple negativo al microscopio.
 medicapedia: cancer-de-mama-triple-negativo
+updated: 2026-11-25
 ---
 ## En resumen
 

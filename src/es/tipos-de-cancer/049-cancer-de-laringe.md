@@ -1,12 +1,13 @@
 ---
 title: Cáncer de laringe
-desc: Cáncer de las cuerdas vocales y la laringe, ligado casi siempre al tabaco. La ronquera persistente permite detectarlo pronto, cuando se cura en más del 90 % conservando la voz.
+desc: Cáncer de las cuerdas vocales y la laringe, ligado casi siempre al tabaco. La ronquera persistente permite detectarlo pronto: en estadio inicial de las cuerdas vocales, más del 90 % se curan conservando la voz.
 health: si
 grupo: Cabeza, cuello y tiroides
 img: t-cancer-de-laringe.jpg
 img_alt: Tumor de laringe visto por laringoscopia
 img_pie: Tumor de laringe visto por laringoscopia.
 medicapedia: cancer-de-laringe
+updated: 2026-11-25
 ---
 ## En resumen
 

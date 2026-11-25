@@ -1,12 +1,13 @@
 ---
 title: Cáncer de pulmón
-desc: El cáncer que más muertes causa en el mundo. El tabaco provoca la mayoría, pero el cribado con TC de baja dosis, las terapias dirigidas y la inmunoterapia han cambiado su pronóstico.
+desc: El cáncer que más muertes causa en el mundo. El tabaco provoca la mayoría. El cribado con TC de baja dosis en fumadores, y las terapias dirigidas y la inmunoterapia en tumores seleccionados, han mejorado el pronóstico de parte de los pacientes.
 health: si
 grupo: Pulmón y tórax
 img: t-cancer-de-pulmon.jpg
 img_alt: Cáncer de pulmón al microscopio
 img_pie: Cáncer de pulmón al microscopio.
 medicapedia: cancer-de-pulmon
+updated: 2026-11-25
 ---
 ## En resumen
 
@@ -146,4 +147,4 @@ Ver también: [Cáncer de pulmón microcítico](../cancer-de-pulmon-microcitico/
 4. Tsuboi M, et al. Overall survival with osimertinib in resected EGFR-mutated NSCLC (ADAURA). *N Engl J Med*. 2023;389:137-147. [doi:10.1056/NEJMoa2304594](https://doi.org/10.1056/NEJMoa2304594)
 5. Saji H, et al. Segmentectomy versus lobectomy in small-sized peripheral NSCLC (JCOG0802/WJOG4607L). *Lancet*. 2022;399:1607-1617. [doi:10.1016/S0140-6736(21)02333-3](https://doi.org/10.1016/S0140-6736(21)02333-3)
 6. Bray F, et al. Global cancer statistics 2022: GLOBOCAN. *CA Cancer J Clin*. 2024;74:229-263. [doi:10.3322/caac.21834](https://doi.org/10.3322/caac.21834)
-7. SEOM. Las cifras del cáncer en España 2025. [seom.org](https://seom.org/publicaciones/el-cancer-en-espanya)
+7. SEOM. Las cifras del cáncer en España 2025. [seom.org](https://www.seom.org/images/LAS_CIFRAS_DMC2025.pdf)

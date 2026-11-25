@@ -2,6 +2,7 @@
 title: Riesgo hereditario y consejo genético
 desc: Entre el 5 y el 10 % de los cánceres se deben a una predisposición heredada. Cuándo sospecharla, qué es el consejo genético y qué se puede hacer con el resultado.
 health: si
+updated: 2026-11-25
 ---
 ## Cuántos cánceres son hereditarios
 
@@ -45,5 +46,5 @@ Ver también: [Geneticapedia: cáncer hereditario](https://geneticapedia.com/enf
 ## Fuentes
 
 1. NCI. Síndromes de cáncer hereditario. [cancer.gov/espanol/cancer/causas-prevencion/genetica](https://www.cancer.gov/espanol/cancer/causas-prevencion/genetica)
-2. SEOM. Cáncer hereditario. [seom.org](https://seom.org/)
+2. SEOM. Cáncer hereditario, 3.ª edición (2019). [institutoroche.es](https://www.institutoroche.es/static/pdfs/3ed_libro_Cancer_hereditario_seom2019.pdf)
 3. Kuchenbaecker KB, et al. Risks of breast, ovarian, and contralateral breast cancer for BRCA1 and BRCA2 mutation carriers. *JAMA*. 2017;317:2402-2416. [doi:10.1001/jama.2017.7112](https://doi.org/10.1001/jama.2017.7112)

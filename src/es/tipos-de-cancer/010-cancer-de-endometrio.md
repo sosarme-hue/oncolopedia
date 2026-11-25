@@ -1,12 +1,13 @@
 ---
 title: Cáncer de endometrio
-desc: El cáncer ginecológico más frecuente en los países desarrollados. Avisa pronto con un sangrado tras la menopausia y la mayoría se curan con cirugía. Su clasificación molecular ha cambiado el tratamiento.
+desc: El cáncer ginecológico más frecuente en los países desarrollados. Suele avisar pronto con un sangrado tras la menopausia, y la mayoría se diagnostican en estadio inicial, cuando la cirugía suele bastar. Su clasificación molecular orienta hoy el tratamiento.
 health: si
 grupo: Mama y ginecológicos
 img: t-cancer-de-endometrio.jpg
 img_alt: Cáncer de endometrio al microscopio
 img_pie: Cáncer de endometrio al microscopio.
 medicapedia: cancer-de-endometrio
+updated: 2026-11-25
 ---
 ## En resumen
 

@@ -1,12 +1,13 @@
 ---
 title: Merkel cell carcinoma
-desc: A rare, aggressive skin cancer caused by a polyomavirus or by sun damage. It was one of the first tumours to show dramatic responses to immunotherapy.
+desc: A rare, aggressive skin cancer caused by a polyomavirus or by sun damage. It was one of the first tumours to respond to immunotherapy: in advanced disease about half of patients respond, and some responses last.
 health: si
 grupo: Skin
 img: t-carcinoma-de-celulas-de-merkel.jpg
 img_alt: Merkel cell carcinoma under the microscope
 img_pie: Merkel cell carcinoma under the microscope.
 medicapedia: carcinoma-de-celulas-de-merkel
+updated: 2026-11-25
 ---
 ## At a glance
 

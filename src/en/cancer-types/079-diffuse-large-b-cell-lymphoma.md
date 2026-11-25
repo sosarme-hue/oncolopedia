@@ -1,12 +1,13 @@
 ---
 title: Diffuse large B-cell lymphoma
-desc: The most common lymphoma. It is aggressive but cured in two out of three cases with immunochemotherapy; CAR-T and bispecific antibodies have changed relapse treatment.
+desc: The most common lymphoma. It is aggressive, but overall about two in three patients are cured with immunochemotherapy, with differences by stage and age. CAR-T and bispecific antibodies are options at relapse.
 health: si
 grupo: Blood: leukaemias, lymphomas and myeloma
 img: t-linfoma-difuso-de-celulas-b-grandes.jpg
 img_alt: Diffuse large B-cell lymphoma under the microscope
 img_pie: Diffuse large B-cell lymphoma under the microscope.
 medicapedia: linfoma-difuso-de-celulas-b-grandes
+updated: 2026-11-25
 ---
 ## At a glance
 

@@ -1,12 +1,13 @@
 ---
 title: Carcinoma de células de Merkel
-desc: Un cáncer de piel raro y agresivo, causado por un poliomavirus o por el sol. Fue uno de los primeros tumores en mostrar respuestas espectaculares a la inmunoterapia.
+desc: Un cáncer de piel raro y agresivo, causado por un poliomavirus o por el sol. Fue uno de los primeros tumores en responder a la inmunoterapia: en la enfermedad avanzada responde aproximadamente la mitad de los pacientes, y algunas respuestas son duraderas.
 health: si
 grupo: Piel
 img: t-carcinoma-de-celulas-de-merkel.jpg
 img_alt: Carcinoma de células de Merkel al microscopio
 img_pie: Carcinoma de células de Merkel al microscopio.
 medicapedia: carcinoma-de-celulas-de-merkel
+updated: 2026-11-25
 ---
 ## En resumen
 

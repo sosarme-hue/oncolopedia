@@ -2,6 +2,7 @@
 title: El cáncer en cifras: lo que dicen los últimos datos mundiales
 desc: Unos 20 millones de casos nuevos y 9,7 millones de muertes al año. Qué cánceres son los más frecuentes, qué ha cambiado y qué se puede prevenir.
 en: cancer-in-numbers
+updated: 2026-11-25
 ---
 La Agencia Internacional de Investigación sobre el Cáncer (IARC) publica cada pocos años las estimaciones **GLOBOCAN**, la fotografía más completa del cáncer en el mundo. Las últimas, de 2022, se publicaron en 2024.
 
@@ -41,4 +42,4 @@ Ver también: [¿Por qué hay más cáncer que antes?](../../preguntas-frecuente
 
 1. Bray F, et al. Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. *CA Cancer J Clin*. 2024;74:229-263. [doi:10.3322/caac.21834](https://doi.org/10.3322/caac.21834)
 2. IARC. Global Cancer Observatory. [gco.iarc.who.int](https://gco.iarc.who.int/today/)
-3. SEOM y REDECAN. Las cifras del cáncer en España. [seom.org](https://seom.org/)
+3. SEOM y REDECAN. Las cifras del cáncer en España 2025. [seom.org](https://www.seom.org/images/LAS_CIFRAS_DMC2025.pdf)

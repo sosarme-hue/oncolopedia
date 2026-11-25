@@ -1,11 +1,12 @@
 ---
 title: Cáncer infantil
-desc: El cáncer en niños y adolescentes es raro y muy distinto del de adultos. Hoy se curan más de 8 de cada 10 en Europa, gracias a los ensayos colaborativos y a las unidades especializadas.
+desc: El cáncer en niños y adolescentes es raro y muy distinto del de adultos. En Europa sobreviven a cinco años más de 8 de cada 10, con grandes diferencias según el tipo, gracias a los ensayos colaborativos y a las unidades especializadas.
 health: si
 grupo: Infancia y otros
 img: t-cancer-infantil.jpg
 img_alt: Niños recibiendo quimioterapia en un hospital
 img_pie: Niños recibiendo quimioterapia en un hospital.
+updated: 2026-11-25
 ---
 ## En resumen
 

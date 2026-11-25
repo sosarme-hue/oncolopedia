@@ -1,12 +1,13 @@
 ---
 title: Ovarian germ cell and stromal tumours
-desc: Uncommon ovarian tumours that often affect girls and young women. Many are cured while preserving fertility.
+desc: Uncommon ovarian tumours that often affect girls and young women. Germ cell tumours, especially at early stages, are often cured while preserving fertility.
 health: si
 grupo: Breast and gynaecological
 img: t-tumores-germinales-y-estromales-de-ovario.jpg
 img_alt: Ovarian germ cell and stromal tumours under the microscope
 img_pie: Ovarian germ cell and stromal tumours under the microscope.
 medicapedia: tumor-de-celulas-germinales
+updated: 2026-11-25
 ---
 ## At a glance
 

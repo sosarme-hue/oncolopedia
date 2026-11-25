@@ -1,13 +1,16 @@
 ---
 title: Bladder and kidney cancer
-desc: The two main urological cancers after prostate. Blood in the urine is their shared warning sign and tobacco their main avoidable cause; immunotherapy and antibody-drug conjugates have transformed treatment.
+desc: A comparison of the two main urological cancers after prostate: blood in the urine as a shared sign, smoking as a shared cause, and their treatments. Each organ also has its own main page.
 health: si
 grupo: Urological and adrenal
 img: t-cancer-de-vejiga-y-rinon.jpg
 img_alt: Urothelial bladder carcinoma under the microscope
 img_pie: Urothelial bladder carcinoma under the microscope.
 medicapedia: cancer-de-vejiga
+updated: 2026-11-25
 ---
+<div class="note"><b>This page compares the two cancers.</b> For full information on each, see the main pages: <a href="../bladder-cancer/">Bladder cancer</a> and <a href="../kidney-cancer/">Kidney cancer</a>.</div>
+
 ## At a glance
 
 | | |

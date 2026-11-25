@@ -1,12 +1,13 @@
 ---
 title: Basal cell carcinoma
-desc: The most common cancer in humans. It grows slowly, almost never spreads and is cured by surgery in the vast majority of cases.
+desc: The most common cancer in humans. It grows slowly, almost never spreads and surgery cures the vast majority of cases, especially when treated early.
 health: si
 grupo: Skin
 img: t-carcinoma-basocelular.jpg
 img_alt: Basal cell carcinoma under the microscope
 img_pie: Basal cell carcinoma under the microscope.
 medicapedia: basalioma
+updated: 2026-11-25
 ---
 ## At a glance
 

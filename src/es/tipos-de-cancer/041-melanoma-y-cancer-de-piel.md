@@ -1,12 +1,13 @@
 ---
 title: Melanoma
-desc: El cáncer de piel más grave, aunque se cura casi siempre si se detecta pronto. Revisar los lunares con la regla ABCDE, protegerse del sol y la inmunoterapia han cambiado su historia.
+desc: El cáncer de piel más grave. Detectado en fase muy inicial, la cirugía cura a la gran mayoría. La inmunoterapia ha alargado la supervivencia en la enfermedad avanzada, aunque no todos los pacientes responden.
 health: si
 grupo: Piel
 img: t-melanoma-y-cancer-de-piel.jpg
 img_alt: Melanoma al microscopio
 img_pie: Melanoma al microscopio.
 medicapedia: cancer-de-piel
+updated: 2026-11-25
 ---
 ## En resumen
 

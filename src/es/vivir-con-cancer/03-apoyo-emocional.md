@@ -2,6 +2,7 @@
 title: Apoyo emocional
 desc: El diagnóstico de un cáncer afecta a la persona y a toda su familia. Las reacciones emocionales son normales, y pedir ayuda forma parte del tratamiento.
 health: si
+updated: 2026-11-25
 ---
 ## Reacciones normales ante una situación anormal
 
@@ -40,4 +41,4 @@ Ver también: [Cuidados paliativos](../../tratamientos/cuidados-paliativos/), [P
 1. Mitchell AJ, et al. Prevalence of depression, anxiety, and adjustment disorder in oncological, haematological, and palliative-care settings: a meta-analysis of 94 interview-based studies. *Lancet Oncol*. 2011;12:160-174. [doi:10.1016/S1470-2045(11)70002-X](https://doi.org/10.1016/S1470-2045(11)70002-X)
 2. Sociedad Española de Psicooncología (SEPO). [sepo.es](https://www.sepo.es/)
 3. Asociación Española Contra el Cáncer. Atención psicológica. [contraelcancer.es](https://www.contraelcancer.es/)
-4. Ministerio de Sanidad. Línea 024. [sanidad.gob.es](https://www.sanidad.gob.es/)
+4. Ministerio de Sanidad. Línea 024 de atención a la conducta suicida. [sanidad.gob.es](https://www.sanidad.gob.es/linea024/home.htm)

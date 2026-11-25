@@ -2,6 +2,7 @@
 title: Vacunas que previenen el cáncer
 desc: Dos vacunas del calendario, la de la hepatitis B y la del virus del papiloma humano, previenen cánceres. Cómo funcionan y quién debe recibirlas.
 health: si
+updated: 2026-11-25
 ---
 ## Vacunas contra infecciones que causan cáncer
 
@@ -36,4 +37,4 @@ Ver también: [Cáncer de cuello uterino](../../tipos-de-cancer/cancer-de-cuello
 1. Lei J, et al. HPV vaccination and the risk of invasive cervical cancer. *N Engl J Med*. 2020;383:1340-1348. [doi:10.1056/NEJMoa1917338](https://doi.org/10.1056/NEJMoa1917338)
 2. Chang MH, et al. Universal hepatitis B vaccination in Taiwan and the incidence of hepatocellular carcinoma in children. *N Engl J Med*. 1997;336:1855-1859. [doi:10.1056/NEJM199706263362602](https://doi.org/10.1056/NEJM199706263362602)
 3. Palmer TJ, et al. Invasive cervical cancer incidence following bivalent HPV vaccination: a population-based observational study of age at immunization, dose, and deprivation. *J Natl Cancer Inst*. 2024;116:857-865. [doi:10.1093/jnci/djad263](https://doi.org/10.1093/jnci/djad263)
-4. Ministerio de Sanidad. Calendario común de vacunación a lo largo de toda la vida. [sanidad.gob.es](https://www.sanidad.gob.es/)
+4. Ministerio de Sanidad. Calendario común de vacunación a lo largo de toda la vida. [sanidad.gob.es](https://www.sanidad.gob.es/areas/promocionPrevencion/vacunaciones/calendario/home.htm)

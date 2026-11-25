@@ -1,13 +1,16 @@
 ---
 title: Cáncer de estómago y esófago
-desc: Dos cánceres del tubo digestivo alto que comparten síntomas y tratamientos. El Helicobacter pylori, el tabaco, el alcohol y el reflujo son sus grandes causas; la quimioterapia perioperatoria y la inmunoterapia han mejorado su pronóstico.
+desc: Comparación entre los dos cánceres del tubo digestivo alto: qué comparten, en qué se diferencian y por qué los tumores de la unión entre ambos se tratan de forma parecida. Cada órgano tiene además su ficha principal.
 health: si
 grupo: Aparato digestivo
 img: t-cancer-de-estomago-y-esofago.jpg
 img_alt: Adenocarcinoma gástrico al microscopio
 img_pie: Adenocarcinoma gástrico al microscopio.
 medicapedia: cancer-de-estomago
+updated: 2026-11-25
 ---
+<div class="note"><b>Esta página compara los dos cánceres.</b> Para la información completa de cada uno, consulta las fichas principales: <a href="../cancer-de-estomago/">Cáncer de estómago</a> y <a href="../cancer-de-esofago/">Cáncer de esófago</a>.</div>
+
 ## En resumen
 
 | | |
@@ -17,7 +20,7 @@ medicapedia: cancer-de-estomago
 | **Señales** | Dificultad para tragar, digestiones pesadas persistentes, pérdida de peso, anemia, vómitos |
 | **Diagnóstico** | Gastroscopia con biopsia |
 | **Tratamiento** | Cirugía con quimioterapia antes y después; quimiorradioterapia en esófago; inmunoterapia y terapias dirigidas |
-| **Supervivencia** | En torno al 25-30 % a cinco años; más del 90 % en tumores muy precoces |
+| **Supervivencia** | Muy distinta según el estadio; ver «Pronóstico» y las fichas de cada órgano |
 
 ## Qué son
 
@@ -95,7 +98,7 @@ Las molestias digestivas son muy comunes; la gastroscopia se indica sobre todo s
 
 ## Pronóstico
 
-La supervivencia a cinco años ronda el 25-30 % en el estómago y el 20 % en el esófago en Europa, pero supera el 90 % en los tumores detectados muy pronto. En Japón y Corea, gracias al cribado, más de la mitad se diagnostican en fase precoz.
+En Europa sobrevive a cinco años alrededor de una de cada cuatro personas con cáncer de estómago (EUROCARE-5, diagnosticados en 2000-2007, supervivencia relativa). En España, en el esófago, el 13 % de los hombres y el 16 % de las mujeres (supervivencia neta, diagnosticados en 2008-2013, REDECAN). Los tumores detectados muy pronto se curan en la gran mayoría de los casos. En Japón y Corea, gracias al cribado, más de la mitad se diagnostican en fase precoz.
 
 ## Después del tratamiento
 

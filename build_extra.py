@@ -2,6 +2,9 @@
 import html, json, os, re, runpy, unicodedata
 from email.utils import format_datetime
 from datetime import datetime, timezone
+import sys as _sys
+_sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "tools"))
+from atlas_map import match as atlas_match
 
 esc = html.escape
 
@@ -245,7 +248,11 @@ def build(lang, g, allsec, search):
         ents = sorted([x for x in AT if x["profile"] == k], key=lambda x: slugify(x[lang]))
         art = bynum.get(PMAP.get(k, ""))
         link = f'<a class="btn primary" href="../{sec0}/{art["slug"]}/">{lab[4]}: {esc(art["title"])} →</a> ' if art else ""
-        lis = "".join(f'<li data-s="{esc(slugify(x["es"] + " " + x["en"]))}"><b>{esc(x[lang])}</b><span class="meta"> · {esc(x["en" if lang == "es" else "es"])}</span></li>' for x in ents)
+        def ali(x):
+            fa = bynum.get(atlas_match(x["es"]) or "")
+            fl = f' <a class="alink" href="../{sec0}/{fa["slug"]}/">{"Ficha" if lang == "es" else "Fact sheet"}: {esc(fa["title"])} →</a>' if fa else ""
+            return f'<li id="{esc(x["id"])}" data-s="{esc(slugify(x["es"] + " " + x["en"]))}"><b>{esc(x[lang])}</b><span class="meta"> · {esc(x["en" if lang == "es" else "es"])}</span>{fl}</li>'
+        lis = "".join(ali(x) for x in ents)
         fams += (f'<section class="afam" id="{k}" data-f="{k}"><h2>{esc(p[lang])} <small style="font:500 15px var(--sans);color:var(--mute)">({len(ents)} {lab[6]})</small></h2>'
                  f'<div class="grid g2"><div class="door"><span class="tag">{lab[0]}</span><p>{esc(p["dx"][i2])}</p></div><div class="door"><span class="tag">{lab[1]}</span><p>{esc(p["tx"][i2])}</p></div>'
                  f'<div class="door"><span class="tag">{lab[2]}</span><p>{esc(p["pr"][i2])}</p></div><div class="door"><span class="tag">{lab[3]}</span><p>{esc(p["ep"][i2])}</p></div></div>'
@@ -256,7 +263,7 @@ def build(lang, g, allsec, search):
     scope = ("<b>Cómo usar el atlas.</b> Cada subtipo se identifica por su nombre en la clasificación de referencia (OMS, CIE-O). El texto de cada familia es un perfil general, no una descripción de cada subtipo: el diagnóstico, el tratamiento y el pronóstico de una persona concreta dependen del informe de anatomía patológica, del estadio y de su situación. No sirve para elegir un tratamiento."
              if lang == "es" else
              "<b>How to use the atlas.</b> Each subtype is identified by its name in the reference classification (WHO, ICD-O). The text for each family is a general profile, not a description of each subtype: a person's diagnosis, treatment and outlook depend on the pathology report, the stage and their own situation. It cannot be used to choose a treatment.")
-    ajs = """<script>(function(){var q=document.getElementById('aq'),c=document.querySelectorAll('.achips .chip'),f='all';function run(){var v=(q.value||'').toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').replace(/[^a-z0-9]+/g,'-');document.querySelectorAll('.afam').forEach(function(s){var n=0;s.querySelectorAll('li').forEach(function(l){var ok=!v||l.getAttribute('data-s').indexOf(v)>-1;l.style.display=ok?'':'none';if(ok)n++});var show=(f==='all'||s.getAttribute('data-f')===f)&&n>0;s.style.display=show?'':'none';var d=s.querySelector('details');if(d)d.open=!!v})}q.addEventListener('input',run);c.forEach(function(b){b.addEventListener('click',function(){f=b.getAttribute('data-f');c.forEach(function(x){x.classList.toggle('on',x===b)});run()})})})();</script>"""
+    ajs = """<script>(function(){var q=document.getElementById('aq'),c=document.querySelectorAll('.achips .chip'),f='all';function run(){var v=(q.value||'').toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').replace(/[^a-z0-9]+/g,'-');document.querySelectorAll('.afam').forEach(function(s){var n=0;s.querySelectorAll('li').forEach(function(l){var ok=!v||l.getAttribute('data-s').indexOf(v)>-1;l.style.display=ok?'':'none';if(ok)n++});var show=(f==='all'||s.getAttribute('data-f')===f)&&n>0;s.style.display=show?'':'none';var d=s.querySelector('details');if(d)d.open=!!v})}function hash(){var id=decodeURIComponent(location.hash.slice(1));if(!id)return;var li=document.getElementById(id);if(!li||li.tagName!=='LI')return;var s=li.closest('.afam'),d=s.querySelector('details');d.open=true;document.querySelectorAll('.alist li.hit').forEach(function(x){x.classList.remove('hit')});li.classList.add('hit');setTimeout(function(){li.scrollIntoView({block:'center'})},60)}window.addEventListener('hashchange',hash);q.addEventListener('input',run);window.addEventListener('load',hash);c.forEach(function(b){b.addEventListener('click',function(){f=b.getAttribute('data-f');c.forEach(function(x){x.classList.toggle('on',x===b)});run()})})})();</script>"""
     path = f"{lp}atlas/"
     out = f"""<header class="phead wrap"><span class="eyebrow">Atlas</span><h1>{l['atlas_title']}</h1><p class="lead">{l['atlas_desc']}</p></header>
 <div class="wrap"><div class="note">{scope}</div><form class="search" role="search" onsubmit="return false" style="margin:18px 0 12px"><input type="search" id="aq" placeholder="{ph}" aria-label="{ph}" autocomplete="off"></form><div class="tlchips achips">{chips}</div></div>
@@ -264,7 +271,7 @@ def build(lang, g, allsec, search):
     write(path, page(lang, path, l["atlas_title"], l["atlas_desc"], out, ldtype="CollectionPage"))
     search.append({"t": l["atlas_title"], "d": l["atlas_desc"], "u": path[len(lp):], "k": "Atlas", "n": ""})
     for x in AT:
-        search.append({"t": x[lang], "d": PR[x["profile"]][lang], "u": f"atlas/#{x['profile']}", "k": "Atlas"})
+        search.append({"t": x[lang], "d": PR[x["profile"]][lang], "u": f"atlas/#{x['id']}", "k": "Atlas"})
 
     # ---------- portada ----------
     r = "./" if lang == "es" else "../"

@@ -1,12 +1,13 @@
 ---
 title: Triple-negative breast cancer
-desc: A subtype without hormone receptors or HER2, more common in young women and BRCA1 carriers. Chemotherapy and immunotherapy have greatly improved results.
+desc: A subtype without hormone receptors or HER2, more common in young women and BRCA1 carriers. In early stages, chemotherapy with immunotherapy before surgery has increased complete responses; in metastatic disease the benefit is more limited.
 health: si
 grupo: Breast and gynaecological
 img: t-cancer-de-mama-triple-negativo.jpg
 img_alt: Triple-negative breast cancer under the microscope
 img_pie: Triple-negative breast cancer under the microscope.
 medicapedia: cancer-de-mama-triple-negativo
+updated: 2026-11-25
 ---
 ## At a glance
 

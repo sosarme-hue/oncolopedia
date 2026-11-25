@@ -1,12 +1,13 @@
 ---
 title: Tumor de Wilms (nefroblastoma)
-desc: El cáncer de riñón de los niños pequeños. Suele descubrirse como un bulto en el abdomen y se cura en más del 90 % de los casos.
+desc: El cáncer de riñón de los niños pequeños. Suele descubrirse como un bulto en el abdomen; en los países con recursos se cura en torno al 90 % de los casos, menos en las formas de histología desfavorable.
 health: si
 grupo: Infancia y otros
 img: t-tumor-de-wilms.jpg
 img_alt: Tumor de Wilms al microscopio
 img_pie: Tumor de Wilms al microscopio.
 medicapedia: tumor-de-wilms
+updated: 2026-11-25
 ---
 ## En resumen
 

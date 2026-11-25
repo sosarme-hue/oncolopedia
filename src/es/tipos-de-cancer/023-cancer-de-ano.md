@@ -1,12 +1,13 @@
 ---
 title: Cáncer de ano
-desc: Cáncer poco frecuente, causado casi siempre por el VPH. Se cura en la mayoría de los casos con quimiorradioterapia, sin necesidad de cirugía.
+desc: Cáncer poco frecuente, causado casi siempre por el VPH. Cuando está localizado, la mayoría se curan con quimiorradioterapia sin necesidad de amputar el ano.
 health: si
 grupo: Aparato digestivo
 img: t-cancer-de-ano.jpg
 img_alt: Cáncer de ano al microscopio
 img_pie: Cáncer de ano al microscopio.
 medicapedia: cancer-anal
+updated: 2026-11-25
 ---
 ## En resumen
 

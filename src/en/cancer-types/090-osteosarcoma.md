@@ -1,12 +1,13 @@
 ---
 title: Osteosarcoma
-desc: The most common bone cancer in teenagers. It appears near the knee or shoulder during the growth spurt; with chemotherapy and surgery, two in three localised cases are cured.
+desc: The most common bone cancer in teenagers. It appears near the knee or shoulder during the growth spurt; with chemotherapy and surgery about two in three localised cases are cured, far fewer when there are metastases.
 health: si
 grupo: Sarcomas and bone
 img: t-osteosarcoma.jpg
 img_alt: Osteosarcoma under the microscope
 img_pie: Osteosarcoma under the microscope.
 medicapedia: osteosarcoma
+updated: 2026-11-25
 ---
 ## At a glance
 

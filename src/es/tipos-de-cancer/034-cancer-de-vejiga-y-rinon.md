@@ -1,13 +1,16 @@
 ---
 title: Cáncer de vejiga y riñón
-desc: Los dos grandes cánceres urológicos después del de próstata. La sangre en la orina es su señal de alarma común y el tabaco su principal causa evitable; la inmunoterapia y los anticuerpos conjugados han transformado su tratamiento.
+desc: Comparación entre los dos grandes cánceres urológicos después del de próstata: la sangre en la orina como señal común, el tabaco como causa compartida y sus tratamientos. Cada órgano tiene además su ficha principal.
 health: si
 grupo: Urológicos y suprarrenales
 img: t-cancer-de-vejiga-y-rinon.jpg
 img_alt: Carcinoma urotelial de vejiga al microscopio
 img_pie: Carcinoma urotelial de vejiga al microscopio.
 medicapedia: cancer-de-vejiga
+updated: 2026-11-25
 ---
+<div class="note"><b>Esta página compara los dos cánceres.</b> Para la información completa de cada uno, consulta las fichas principales: <a href="../cancer-de-vejiga/">Cáncer de vejiga</a> y <a href="../cancer-de-rinon/">Cáncer de riñón</a>.</div>
+
 ## En resumen
 
 | | |

@@ -1,12 +1,13 @@
 ---
 title: Leukaemias
-desc: Cancers of blood cells formed in the bone marrow. There are acute forms, needing urgent treatment, and chronic ones, sometimes needing only monitoring. Cure rates have risen thanks to chemotherapy, transplant, targeted therapy and CAR-T.
+desc: Cancers of blood cells formed in the bone marrow. There are acute forms, needing urgent treatment, and chronic ones, sometimes needing only monitoring. The outlook varies widely by type, age and genetic changes.
 health: si
 grupo: Blood: leukaemias, lymphomas and myeloma
 img: t-leucemias.jpg
 img_alt: Blood smear in acute leukaemia
 img_pie: Blood smear in acute leukaemia.
 medicapedia: leucemia
+updated: 2026-11-25
 ---
 ## At a glance
 
@@ -64,7 +65,7 @@ It depends on the type and is explained in each sheet. The main tools are:
 
 ## Outlook
 
-It has improved dramatically: childhood ALL is cured in 90%, promyelocytic in over 90%, and people with CML have near-normal life expectancy. AML in older people remains the big challenge.
+It has improved greatly, though unevenly by type and age: childhood ALL is cured in 90%, promyelocytic in over 90%, and people with CML have near-normal life expectancy. AML in older people remains the big challenge.
 
 ## Donating stem cells
 

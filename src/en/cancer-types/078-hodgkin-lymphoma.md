@@ -1,12 +1,13 @@
 ---
 title: Hodgkin lymphoma
-desc: A lymphoma of young people cured in over 85-90% of cases. Modern PET-guided treatment aims to cure with fewer long-term effects.
+desc: A lymphoma of young people cured in the great majority of cases, more often at early than at advanced stages. PET-guided treatment aims to cure with fewer long-term effects.
 health: si
 grupo: Blood: leukaemias, lymphomas and myeloma
 img: t-linfoma-de-hodgkin.jpg
 img_alt: Hodgkin lymphoma under the microscope
 img_pie: Hodgkin lymphoma under the microscope.
 medicapedia: enfermedad-de-hodgkin
+updated: 2026-11-25
 ---
 ## At a glance
 

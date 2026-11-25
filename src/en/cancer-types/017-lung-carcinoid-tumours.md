@@ -1,12 +1,13 @@
 ---
 title: Lung carcinoid tumours
-desc: Slow-growing neuroendocrine tumours of the lung with no clear link to smoking. Most are cured by surgery.
+desc: Slow-growing neuroendocrine tumours of the lung with no clear link to smoking. When localised, most are cured by surgery; atypical carcinoids relapse more often.
 health: si
 grupo: Lung and chest
 img: t-tumores-carcinoides-de-pulmon.jpg
 img_alt: Lung carcinoid tumours under the microscope
 img_pie: Lung carcinoid tumours under the microscope.
 medicapedia: tumor-carcinoide
+updated: 2026-11-25
 ---
 ## At a glance
 

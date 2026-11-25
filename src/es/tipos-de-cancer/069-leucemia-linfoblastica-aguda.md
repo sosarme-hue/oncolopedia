@@ -1,12 +1,13 @@
 ---
 title: Leucemia linfoblástica aguda
-desc: El cáncer más frecuente en la infancia, con un 90 % de curaciones en niños. En adultos es más difícil, pero blinatumomab, inotuzumab y las CAR-T han mejorado mucho los resultados.
+desc: El cáncer más frecuente en la infancia: alrededor del 90 % de los niños se curan en los países con recursos. En adultos el pronóstico es peor; blinatumomab, inotuzumab y las CAR-T han mejorado los resultados en recaídas y en grupos seleccionados.
 health: si
 grupo: Sangre: leucemias, linfomas y mieloma
 img: t-leucemia-linfoblastica-aguda.jpg
 img_alt: Leucemia linfoblástica aguda: frotis de sangre al microscopio
 img_pie: Leucemia linfoblástica aguda: frotis de sangre al microscopio.
 medicapedia: leucemia-linfoide-aguda
+updated: 2026-11-25
 ---
 ## En resumen
 

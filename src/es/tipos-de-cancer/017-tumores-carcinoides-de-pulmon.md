@@ -1,12 +1,13 @@
 ---
 title: Tumores carcinoides de pulmón
-desc: Tumores neuroendocrinos de crecimiento lento del pulmón, sin relación clara con el tabaco. La mayoría se curan con cirugía.
+desc: Tumores neuroendocrinos de crecimiento lento del pulmón, sin relación clara con el tabaco. Cuando están localizados, la mayoría se curan con cirugía; los atípicos recaen con más frecuencia.
 health: si
 grupo: Pulmón y tórax
 img: t-tumores-carcinoides-de-pulmon.jpg
 img_alt: Tumores carcinoides de pulmón al microscopio
 img_pie: Tumores carcinoides de pulmón al microscopio.
 medicapedia: tumor-carcinoide
+updated: 2026-11-25
 ---
 ## En resumen
 

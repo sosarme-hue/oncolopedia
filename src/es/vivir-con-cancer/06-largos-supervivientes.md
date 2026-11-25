@@ -2,6 +2,7 @@
 title: Largos supervivientes
 desc: Cada vez más personas viven muchos años después de un cáncer. Qué seguimiento necesitan, qué efectos tardíos pueden aparecer y cómo cuidar la salud después.
 health: si
+updated: 2026-11-25
 ---
 ## Cada vez más supervivientes
 
@@ -42,5 +43,5 @@ Ver también: [Trabajo y derechos](../trabajo-y-derechos/), [Alimentación y eje
 ## Fuentes
 
 1. NCI. Supervivencia al cáncer. [cancer.gov/espanol/supervivencia](https://www.cancer.gov/espanol/supervivencia)
-2. SEOM. Monográfico SEOM de largos supervivientes en cáncer. [seom.org](https://seom.org/)
+2. Ministerio de Sanidad. Recomendaciones para mejorar la atención a los largos supervivientes de cáncer en el SNS. [sanidad.gob.es](https://www.sanidad.gob.es/areas/calidadAsistencial/estrategias/cancer/docs/Recomendaciones_largo_superviviente._ACCESIBLE.pdf)
 3. REDECAN. Estimaciones de la prevalencia del cáncer en España. [redecan.org](https://redecan.org/)

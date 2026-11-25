@@ -1,12 +1,13 @@
 ---
 title: Leucemia promielocítica aguda
-desc: Una leucemia que fue de las más mortales y hoy se cura en más del 90 % de los casos sin quimioterapia, con ácido transretinoico y trióxido de arsénico.
+desc: Una leucemia que fue de las más mortales. Hoy, superada la fase inicial de riesgo de hemorragia, más del 90 % de los pacientes de riesgo estándar se curan con ácido transretinoico y trióxido de arsénico, sin quimioterapia.
 health: si
 grupo: Sangre: leucemias, linfomas y mieloma
 img: t-leucemia-promielocitica-aguda.jpg
 img_alt: Leucemia promielocítica aguda: frotis de sangre al microscopio
 img_pie: Leucemia promielocítica aguda: frotis de sangre al microscopio.
 medicapedia: leucemia-promielocitica-aguda
+updated: 2026-11-25
 ---
 ## En resumen
 

@@ -2,6 +2,7 @@
 title: ¿El cáncer es hereditario?
 desc: Todos los cánceres son genéticos, pero muy pocos son hereditarios. Cuándo hay que pensar en una predisposición familiar.
 health: si
+updated: 2026-11-25
 ---
 ## Genético no es lo mismo que hereditario
 
@@ -27,4 +28,4 @@ Ver también: [Riesgo hereditario y consejo genético](../../diagnostico/riesgo-
 ## Fuentes
 
 1. NCI. La genética del cáncer. [cancer.gov/espanol/cancer/causas-prevencion/genetica](https://www.cancer.gov/espanol/cancer/causas-prevencion/genetica)
-2. SEOM. Cáncer hereditario. [seom.org](https://seom.org/)
+2. SEOM. Cáncer hereditario, 3.ª edición (2019). [institutoroche.es](https://www.institutoroche.es/static/pdfs/3ed_libro_Cancer_hereditario_seom2019.pdf)

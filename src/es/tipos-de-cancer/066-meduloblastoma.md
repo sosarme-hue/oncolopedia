@@ -1,12 +1,13 @@
 ---
 title: Meduloblastoma
-desc: El tumor cerebral maligno más frecuente en niños. Nace en el cerebelo y se cura en tres de cada cuatro casos; su clasificación molecular guía la intensidad del tratamiento.
+desc: El tumor cerebral maligno más frecuente en niños. Nace en el cerebelo; en conjunto se curan unas tres de cada cuatro, con grandes diferencias según el grupo molecular y si hay diseminación, que también guían la intensidad del tratamiento.
 health: si
 grupo: Ojo y sistema nervioso
 img: t-meduloblastoma.jpg
 img_alt: Meduloblastoma al microscopio
 img_pie: Meduloblastoma al microscopio.
 medicapedia: meduloblastoma
+updated: 2026-11-25
 ---
 ## En resumen
 

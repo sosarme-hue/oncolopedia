@@ -1,12 +1,13 @@
 ---
 title: Anal cancer
-desc: An uncommon cancer, almost always caused by HPV. Most cases are cured with chemoradiotherapy, without surgery.
+desc: An uncommon cancer, almost always caused by HPV. When localised, most are cured with chemoradiotherapy without removing the anus.
 health: si
 grupo: Digestive system
 img: t-cancer-de-ano.jpg
 img_alt: Anal cancer under the microscope
 img_pie: Anal cancer under the microscope.
 medicapedia: cancer-anal
+updated: 2026-11-25
 ---
 ## At a glance
 

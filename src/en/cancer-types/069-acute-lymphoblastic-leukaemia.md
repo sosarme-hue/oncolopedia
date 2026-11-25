@@ -1,12 +1,13 @@
 ---
 title: Acute lymphoblastic leukaemia
-desc: The most common childhood cancer, with 90% of children cured. In adults it is harder, but blinatumomab, inotuzumab and CAR-T have greatly improved results.
+desc: The most common childhood cancer: about 90% of children are cured in well-resourced countries. In adults the outlook is worse; blinatumomab, inotuzumab and CAR-T have improved results in relapse and in selected groups.
 health: si
 grupo: Blood: leukaemias, lymphomas and myeloma
 img: t-leucemia-linfoblastica-aguda.jpg
 img_alt: Acute lymphoblastic leukaemia: blood smear under the microscope
 img_pie: Acute lymphoblastic leukaemia: blood smear under the microscope.
 medicapedia: leucemia-linfoide-aguda
+updated: 2026-11-25
 ---
 ## At a glance
 

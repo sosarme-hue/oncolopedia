@@ -1,12 +1,13 @@
 ---
 title: Hepatoblastoma
-desc: El cáncer de hígado más frecuente en niños pequeños. La quimioterapia con cisplatino y la cirugía, o el trasplante hepático, curan a la mayoría.
+desc: El cáncer de hígado más frecuente en niños pequeños. La quimioterapia con cisplatino y la cirugía, o el trasplante hepático, curan a la mayoría cuando el tumor se puede extirpar.
 health: si
 grupo: Infancia y otros
 img: t-hepatoblastoma.jpg
 img_alt: Hepatoblastoma al microscopio
 img_pie: Hepatoblastoma al microscopio.
 medicapedia: hepatoblastoma
+updated: 2026-11-25
 ---
 ## En resumen
 

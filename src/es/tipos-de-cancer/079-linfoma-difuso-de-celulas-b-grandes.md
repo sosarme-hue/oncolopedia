@@ -1,12 +1,13 @@
 ---
 title: Linfoma difuso de células B grandes
-desc: El linfoma más frecuente. Es agresivo pero se cura en dos de cada tres casos con inmunoquimioterapia; las CAR-T y los anticuerpos biespecíficos han cambiado las recaídas.
+desc: El linfoma más frecuente. Es agresivo, pero en conjunto unos dos de cada tres pacientes se curan con inmunoquimioterapia, con diferencias según el estadio y la edad. Las CAR-T y los anticuerpos biespecíficos son opciones en las recaídas.
 health: si
 grupo: Sangre: leucemias, linfomas y mieloma
 img: t-linfoma-difuso-de-celulas-b-grandes.jpg
 img_alt: Linfoma difuso de células B grandes al microscopio
 img_pie: Linfoma difuso de células B grandes al microscopio.
 medicapedia: linfoma-difuso-de-celulas-b-grandes
+updated: 2026-11-25
 ---
 ## En resumen
 

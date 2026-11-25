@@ -1,12 +1,13 @@
 ---
 title: Mantle cell lymphoma
-desc: An uncommon B-cell lymphoma, mostly in older men, with the cyclin D1 translocation. BTK inhibitors have greatly improved its treatment.
+desc: An uncommon B-cell lymphoma, mostly in older men, with the cyclin D1 translocation. BTK inhibitors have lengthened disease control, although in most cases it is still not cured.
 health: si
 grupo: Blood: leukaemias, lymphomas and myeloma
 img: t-linfoma-de-celulas-del-manto.jpg
 img_alt: Mantle cell lymphoma under the microscope
 img_pie: Mantle cell lymphoma under the microscope.
 medicapedia: linfoma-de-celulas-de-manto
+updated: 2026-11-25
 ---
 ## At a glance
 

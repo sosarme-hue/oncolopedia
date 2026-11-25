@@ -2,6 +2,7 @@
 title: ¿Qué significa la supervivencia a cinco años?
 desc: Una cifra que aparece en todas partes y que a menudo asusta. Qué mide, qué no mide y por qué no es un plazo para nadie.
 health: si
+updated: 2026-11-25
 ---
 ## Qué mide
 
@@ -29,4 +30,4 @@ Ver también: [Estadio y grado](../../diagnostico/estadio-y-grado/), [¿Qué sig
 
 1. NCI. Estadísticas de cáncer: comprender las estadísticas. [cancer.gov/espanol](https://www.cancer.gov/espanol)
 2. Gould SJ. The median isn't the message. *Discover*. 1985;6:40-42.
-3. REDECAN. Supervivencia de cáncer en España. [redecan.org](https://redecan.org/)
+3. REDECAN. Supervivencia de cáncer en población adulta en España (diciembre de 2025). [redecan.org](https://redecan.org/storage/documentation/6a784cc7-eddd-48eb-9b96-450b26d1463a.pdf)

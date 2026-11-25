@@ -1,12 +1,13 @@
 ---
 title: Carcinoma basocelular
-desc: El cáncer más frecuente del ser humano. Crece despacio, casi nunca da metástasis y se cura con cirugía en la gran mayoría de los casos.
+desc: El cáncer más frecuente del ser humano. Crece despacio, casi nunca da metástasis y la cirugía lo cura en la gran mayoría de los casos, sobre todo si se trata pronto.
 health: si
 grupo: Piel
 img: t-carcinoma-basocelular.jpg
 img_alt: Carcinoma basocelular al microscopio
 img_pie: Carcinoma basocelular al microscopio.
 medicapedia: basalioma
+updated: 2026-11-25
 ---
 ## En resumen
 

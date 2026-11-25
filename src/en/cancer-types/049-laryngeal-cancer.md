@@ -1,12 +1,13 @@
 ---
 title: Laryngeal cancer
-desc: Cancer of the vocal cords and larynx, almost always linked to tobacco. Persistent hoarseness allows early detection, when over 90% are cured while keeping the voice.
+desc: Cancer of the vocal cords and larynx, almost always linked to tobacco. Persistent hoarseness allows early detection: at an early stage on the vocal cords, over 90% are cured while keeping the voice.
 health: si
 grupo: Head, neck and thyroid
 img: t-cancer-de-laringe.jpg
 img_alt: Laryngeal tumour seen on laryngoscopy
 img_pie: Laryngeal tumour seen on laryngoscopy.
 medicapedia: cancer-de-laringe
+updated: 2026-11-25
 ---
 ## At a glance
 

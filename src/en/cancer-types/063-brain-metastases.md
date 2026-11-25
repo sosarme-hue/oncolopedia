@@ -1,12 +1,13 @@
 ---
 title: Brain metastases
-desc: The most common brain tumours, coming from lung, breast, melanoma or kidney cancers. Radiosurgery and drugs that cross the blood-brain barrier have greatly improved their control.
+desc: The most common brain tumours, coming from lung, breast, melanoma or kidney cancers. Radiosurgery and, in tumours with certain alterations, drugs that cross the blood-brain barrier give better control for some patients.
 health: si
 grupo: Eye and nervous system
 img: t-metastasis-cerebrales.jpg
 img_alt: Brain MRI showing metastases
 img_pie: Brain MRI showing metastases.
 medicapedia: metastasis-cerebral
+updated: 2026-11-25
 ---
 ## At a glance
 

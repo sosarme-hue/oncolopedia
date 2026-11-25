@@ -1,12 +1,13 @@
 ---
 title: Linfoma de Burkitt
-desc: El tumor humano de crecimiento más rápido, que duplica su tamaño en un día. Aun así, se cura en más del 90 % de los niños y del 80 % de los adultos con quimioterapia intensiva.
+desc: El tumor humano de crecimiento más rápido, que duplica su tamaño en un día. Aun así, con quimioterapia intensiva se curan alrededor del 90 % de los niños y una mayoría de los adultos, sobre todo los jóvenes.
 health: si
 grupo: Sangre: leucemias, linfomas y mieloma
 img: t-linfoma-de-burkitt.jpg
 img_alt: Linfoma de Burkitt al microscopio
 img_pie: Linfoma de Burkitt al microscopio.
 medicapedia: linfoma-de-burkitt
+updated: 2026-11-25
 ---
 ## En resumen
 

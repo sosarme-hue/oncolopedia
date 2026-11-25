@@ -1,12 +1,13 @@
 ---
 title: Acute promyelocytic leukaemia
-desc: A leukaemia that was once among the deadliest and is now cured in over 90% of cases without chemotherapy, using all-trans retinoic acid and arsenic trioxide.
+desc: A leukaemia that was once among the deadliest. Today, once the early bleeding risk is overcome, over 90% of standard-risk patients are cured with all-trans retinoic acid and arsenic trioxide, without chemotherapy.
 health: si
 grupo: Blood: leukaemias, lymphomas and myeloma
 img: t-leucemia-promielocitica-aguda.jpg
 img_alt: Acute promyelocytic leukaemia: blood smear under the microscope
 img_pie: Acute promyelocytic leukaemia: blood smear under the microscope.
 medicapedia: leucemia-promielocitica-aguda
+updated: 2026-11-25
 ---
 ## At a glance
 

@@ -1,12 +1,13 @@
 ---
 title: Lung cancer
-desc: The cancer that causes the most deaths worldwide. Tobacco causes most cases, but low-dose CT screening, targeted therapies and immunotherapy have changed its outlook.
+desc: The cancer that causes the most deaths worldwide. Tobacco causes most cases. Low-dose CT screening in smokers, and targeted therapy and immunotherapy in selected tumours, have improved the outlook for some patients.
 health: si
 grupo: Lung and chest
 img: t-cancer-de-pulmon.jpg
 img_alt: Lung cancer under the microscope
 img_pie: Lung cancer under the microscope.
 medicapedia: cancer-de-pulmon
+updated: 2026-11-25
 ---
 ## At a glance
 

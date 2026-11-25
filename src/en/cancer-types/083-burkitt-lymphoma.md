@@ -1,12 +1,13 @@
 ---
 title: Burkitt lymphoma
-desc: The fastest-growing human tumour, doubling in size in a day. Even so, over 90% of children and 80% of adults are cured with intensive chemotherapy.
+desc: The fastest-growing human tumour, doubling in size in a day. Even so, with intensive chemotherapy about 90% of children and most adults, especially younger ones, are cured.
 health: si
 grupo: Blood: leukaemias, lymphomas and myeloma
 img: t-linfoma-de-burkitt.jpg
 img_alt: Burkitt lymphoma under the microscope
 img_pie: Burkitt lymphoma under the microscope.
 medicapedia: linfoma-de-burkitt
+updated: 2026-11-25
 ---
 ## At a glance
 

@@ -7,6 +7,7 @@ img: t-cancer-de-cuello-uterino.jpg
 img_alt: Cáncer de cuello uterino: tinción especial al microscopio
 img_pie: Cáncer de cuello uterino: tinción especial al microscopio.
 medicapedia: cancer-cervical
+updated: 2026-11-25
 ---
 ## En resumen
 
@@ -37,7 +38,7 @@ Desde 2023 se reconoce que una pequeña parte de los adenocarcinomas no se deben
 
 **Vacuna del VPH**: en España se vacuna a chicas y chicos a los 12 años, con rescate en otras edades. Protege frente a los tipos que causan la mayoría de los cánceres. En Suecia, las mujeres vacunadas antes de los 17 años tuvieron un 88 % menos de cáncer de cuello uterino, y en Escocia no se ha registrado ningún caso en las vacunadas de niñas en el programa inicial.
 
-**Cribado**: en el Sistema Nacional de Salud se ofrece a las mujeres de **25 a 65 años**: citología cada tres años de los 25 a los 34, y **prueba del VPH** cada cinco años de los 35 a los 65. La prueba del VPH es más sensible que la citología, y en algunos lugares se ofrece la **autotoma** para facilitar la participación.
+**Cribado**: en el Sistema Nacional de Salud se ofrece a las mujeres de **25 a 65 años**. Con la Orden SND/454/2025, la **prueba del VPH** cada cinco años pasa a hacerse de los **30 a los 65**; de los 25 a los 29 se hace citología cada tres años, o el cribado empieza a los 30 en las mujeres bien vacunadas, según cómo lo aplique cada comunidad. Las comunidades tienen hasta mayo de 2028 para adaptarse, y algunas aún siguen con el esquema anterior (citología de 25 a 34 y VPH de 35 a 65). Más detalle en [Cribados de cáncer en España](../../prevencion-y-cribado/cribados-en-espana/). La prueba del VPH es más sensible que la citología, y en algunos lugares se ofrece la **autotoma** para facilitar la participación.
 
 La OMS se ha propuesto **eliminar** este cáncer como problema de salud pública con los objetivos 90-70-90 para 2030.
 
@@ -100,3 +101,4 @@ Ver también: [Vacunas que previenen el cáncer](../../prevencion-y-cribado/vacu
 3. Ramirez PT, et al. Minimally invasive versus abdominal radical hysterectomy for cervical cancer (LACC). *N Engl J Med*. 2018;379:1895-1904. [doi:10.1056/NEJMoa1806395](https://doi.org/10.1056/NEJMoa1806395)
 4. Plante M, et al. Simple versus radical hysterectomy in women with low-risk cervical cancer (SHAPE). *N Engl J Med*. 2024;390:819-829. [doi:10.1056/NEJMoa2308900](https://doi.org/10.1056/NEJMoa2308900)
 5. OMS. Cáncer de cuello uterino. Nota descriptiva. [who.int](https://www.who.int/es/news-room/fact-sheets/detail/cervical-cancer)
+6. Orden SND/454/2025, de 9 de mayo, que modifica el cribado de cáncer de cuello uterino en la cartera común del SNS. *BOE* núm. 115, 13 de mayo de 2025. [boe.es](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-9277)

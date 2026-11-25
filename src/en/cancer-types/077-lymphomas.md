@@ -1,12 +1,13 @@
 ---
 title: Lymphomas
-desc: Cancers of the lymphatic system, with over 80 types. They are divided into Hodgkin and non-Hodgkin, indolent or aggressive; many are cured and others controlled for years.
+desc: Cancers of the lymphatic system, with over 80 types. They are divided into Hodgkin and non-Hodgkin, indolent or aggressive; the outlook depends greatly on the type: some are often cured and others controlled for years.
 health: si
 grupo: Blood: leukaemias, lymphomas and myeloma
 img: t-linfomas.jpg
 img_alt: Lymphomas under the microscope
 img_pie: Lymphomas under the microscope.
 medicapedia: linfoma
+updated: 2026-11-25
 ---
 ## At a glance
 

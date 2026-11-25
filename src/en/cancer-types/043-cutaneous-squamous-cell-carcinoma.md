@@ -1,12 +1,13 @@
 ---
 title: Cutaneous squamous cell carcinoma
-desc: The second most common skin cancer. It appears on sun-exposed skin, sometimes from actinic keratoses; it is cured by surgery and cemiplimab has changed advanced cases.
+desc: The second most common skin cancer. It appears on sun-exposed skin, sometimes from actinic keratoses. Surgery cures most localised cases, and cemiplimab is an option for advanced ones.
 health: si
 grupo: Skin
 img: t-carcinoma-epidermoide-cutaneo.jpg
 img_alt: Cutaneous squamous cell carcinoma under the microscope
 img_pie: Cutaneous squamous cell carcinoma under the microscope.
 medicapedia: carcinoma-espinocelular
+updated: 2026-11-25
 ---
 ## At a glance
 

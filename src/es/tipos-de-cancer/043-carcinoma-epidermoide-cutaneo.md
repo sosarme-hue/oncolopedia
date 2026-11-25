@@ -1,12 +1,13 @@
 ---
 title: Carcinoma epidermoide cutáneo
-desc: El segundo cáncer de piel más frecuente. Aparece en zonas expuestas al sol, a veces a partir de queratosis actínicas; se cura con cirugía y el cemiplimab ha cambiado los casos avanzados.
+desc: El segundo cáncer de piel más frecuente. Aparece en zonas expuestas al sol, a veces a partir de queratosis actínicas. La cirugía cura la mayoría de los casos localizados, y el cemiplimab es una opción para los avanzados.
 health: si
 grupo: Piel
 img: t-carcinoma-epidermoide-cutaneo.jpg
 img_alt: Carcinoma epidermoide cutáneo al microscopio
 img_pie: Carcinoma epidermoide cutáneo al microscopio.
 medicapedia: carcinoma-espinocelular
+updated: 2026-11-25
 ---
 ## En resumen
 

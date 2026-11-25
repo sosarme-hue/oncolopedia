@@ -7,6 +7,7 @@ img: t-cancer-de-mama.jpg
 img_alt: Breast cancer under the microscope
 img_pie: Breast cancer under the microscope.
 medicapedia: cancer-de-mama
+updated: 2026-11-25
 ---
 ## At a glance
 
@@ -17,7 +18,7 @@ medicapedia: cancer-de-mama
 | **Typical sign** | A new lump in the breast or armpit, skin or nipple changes |
 | **Screening** | Mammography every 2-3 years from about 50 (from 40 in some countries) |
 | **Treatment** | Surgery, radiotherapy and systemic treatment according to subtype |
-| **Survival** | About 85-90% at five years in high-income countries; over 98% if found while localised |
+| **Survival** | About 9 in 10 at five years (United States, SEER, 2015-2021, relative survival; 86% net survival in Spain, 2008-2013). By stage, see "Outlook" |
 
 ## What it is
 
@@ -31,7 +32,12 @@ By how it looks under the microscope:
 
 - **Invasive carcinoma of no special type** (formerly ductal): 70-80%.
 - **Invasive lobular carcinoma**: about 10-15%. It sometimes grows in single files, is harder to see on mammograms and more often affects both breasts.
-- Rarer special types: tubular, mucinous, medullary, metaplastic, papillary, and **inflammatory breast cancer**, which makes the breast red, hot and swollen.
+- Rarer special types: tubular, mucinous, metaplastic, papillary and others.
+
+By how it presents (a clinical form, not a microscopic type):
+
+- **Inflammatory breast cancer**: within a few weeks the breast becomes red, hot and swollen, with orange-peel skin. It is a **clinical** diagnosis: under the microscope it is usually a carcinoma of no special type, but the way it presents means it is treated as locally advanced disease.
+- **Paget disease of the nipple**: an eczema-like change of the nipple, often with a carcinoma underneath.
 
 By biology, tumours are grouped into **subtypes** that guide treatment:
 
@@ -41,6 +47,8 @@ By biology, tumours are grouped into **subtypes** that guide treatment:
 | **Luminal B** | Hormone receptor-positive, high proliferation or HER2-positive | 15-20% |
 | **HER2-positive** | Excess HER2, with or without hormone receptors | 15-20% |
 | **Triple-negative** | No hormone receptors or HER2 | 10-15% |
+
+These **intrinsic** subtypes were first defined from the expression of many genes. In practice they are **approximated** with what the biopsy measures (hormone receptors, HER2 and Ki-67), and the two classifications are **not interchangeable**: some tumours change group depending on the method. That is why genomic tests are sometimes added.
 
 Since 2022 doctors also talk about **HER2-low** tumours, which have some HER2 without being positive, because they respond to some antibody-drug conjugates.
 
@@ -122,7 +130,16 @@ The aim is to control the cancer for as long as possible with good quality of li
 
 ## Outlook
 
-Five-year survival in high-income countries is about **85-90%**. It depends mainly on stage: over 98% for localised tumours and around 30% when there are metastases, a figure that improves with each new treatment. Hormone receptor-positive tumours can relapse late, even after more than ten years, which is why hormone therapy is long.
+Every survival figure depends on where and when it was measured, so we show its origin:
+
+| Group | Figure | Origin |
+|---|---|---|
+| All patients | About **92%** at five years | **United States** · NCI SEER registries · diagnosed 2015-2021 · **relative** survival |
+| All patients | **86%** at five years | **Spain** · REDECAN cancer registries · women diagnosed 2008-2013 · **net** survival |
+| **Localised** to the breast | Almost **100%** at five years | United States · SEER · 2015-2021 · relative survival |
+| **Distant** metastases | About **one in three** at five years | United States · SEER · 2015-2021 · relative survival |
+
+These are averages for people diagnosed years ago: they do not reflect the newest treatments, which improve above all the figures for metastatic disease, and they cannot predict what will happen to one person. See [What does five-year survival mean?](../../faq/what-does-five-year-survival-mean/). Hormone receptor-positive tumours can relapse late, even after more than ten years, which is why hormone therapy is long.
 
 ## After treatment
 
@@ -160,3 +177,4 @@ See also: [Ductal carcinoma in situ](../ductal-carcinoma-in-situ/), [Triple-nega
 4. NCI. Breast cancer. [cancer.gov/types/breast](https://www.cancer.gov/types/breast)
 5. Early Breast Cancer Trialists' Collaborative Group. Effect of radiotherapy after breast-conserving surgery on 10-year recurrence and 15-year breast cancer death. *Lancet*. 2011;378:1707-1716. [doi:10.1016/S0140-6736(11)61629-2](https://doi.org/10.1016/S0140-6736(11)61629-2)
 6. US Preventive Services Task Force. Breast cancer: screening (2024). [uspreventiveservicestaskforce.org](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening)
+7. National Cancer Institute. SEER Cancer Stat Facts: Female Breast Cancer (five-year relative survival by stage, diagnosed 2015-2021, United States). [seer.cancer.gov](https://seer.cancer.gov/statfacts/html/breast.html)

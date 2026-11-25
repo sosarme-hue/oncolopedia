@@ -6,6 +6,7 @@ grupo: Aparato digestivo
 img: t-cancer-de-pancreas.jpg
 img_alt: Cáncer de páncreas al microscopio
 img_pie: Cáncer de páncreas al microscopio.
+updated: 2026-11-25
 ---
 ## En resumen
 
@@ -126,4 +127,4 @@ Ver también: [Tumores neuroendocrinos de páncreas](../tumores-neuroendocrinos-
 3. Golan T, et al. Maintenance olaparib for germline BRCA-mutated metastatic pancreatic cancer (POLO). *N Engl J Med*. 2019;381:317-327. [doi:10.1056/NEJMoa1903387](https://doi.org/10.1056/NEJMoa1903387)
 4. Rojas LA, et al. Personalized RNA neoantigen vaccines stimulate T cells in pancreatic cancer. *Nature*. 2023;618:144-150. [doi:10.1038/s41586-023-06063-y](https://doi.org/10.1038/s41586-023-06063-y)
 5. Goggins M, et al. Management of patients with increased risk for familial pancreatic cancer: updated recommendations from the CAPS Consortium. *Gut*. 2020;69:7-17. [doi:10.1136/gutjnl-2019-319352](https://doi.org/10.1136/gutjnl-2019-319352)
-6. SEOM. Las cifras del cáncer en España 2025. [seom.org](https://seom.org/publicaciones/el-cancer-en-espanya)
+6. SEOM. Las cifras del cáncer en España 2025. [seom.org](https://www.seom.org/images/LAS_CIFRAS_DMC2025.pdf)

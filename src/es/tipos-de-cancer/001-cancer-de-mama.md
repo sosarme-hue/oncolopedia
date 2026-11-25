@@ -7,6 +7,7 @@ img: t-cancer-de-mama.jpg
 img_alt: Cáncer de mama al microscopio
 img_pie: Cáncer de mama al microscopio.
 medicapedia: cancer-de-mama
+updated: 2026-11-25
 ---
 ## En resumen
 
@@ -17,7 +18,7 @@ medicapedia: cancer-de-mama
 | **Señal típica** | Un bulto nuevo en la mama o la axila, cambios en la piel o el pezón |
 | **Cribado** | Mamografía cada dos años entre los 50 y los 69 años (algunas comunidades amplían la edad) |
 | **Tratamiento** | Cirugía, radioterapia y tratamientos sistémicos según el subtipo |
-| **Supervivencia** | En torno al 85-90 % a cinco años en España; más del 98 % si se detecta localizado |
+| **Supervivencia** | 86 % a cinco años en España (supervivencia neta, mujeres diagnosticadas en 2008-2013, registros de REDECAN). Por estadio, ver «Pronóstico» |
 
 ## Qué es
 
@@ -31,7 +32,12 @@ Según el aspecto al microscopio:
 
 - **Carcinoma infiltrante de tipo no especial** (antes llamado ductal): el 70-80 %.
 - **Carcinoma lobulillar infiltrante**: alrededor del 10-15 %. Crece a veces en fila, es más difícil de ver en la mamografía y con más frecuencia afecta a las dos mamas.
-- Tipos especiales menos frecuentes: tubular, mucinoso, medular, metaplásico, papilar, y el **cáncer inflamatorio**, que hace que la mama se ponga roja, caliente e hinchada.
+- Tipos especiales menos frecuentes: tubular, mucinoso, metaplásico, papilar y otros.
+
+Según cómo se presenta (forma clínica, no tipo al microscopio):
+
+- **Cáncer inflamatorio**: la mama se pone roja, caliente e hinchada, con piel de naranja, en pocas semanas. Es un diagnóstico **clínico**: al microscopio suele ser un carcinoma de tipo no especial, pero su forma de presentarse obliga a tratarlo como enfermedad localmente avanzada.
+- **Enfermedad de Paget del pezón**: una lesión de aspecto eccematoso en el pezón, a menudo con un carcinoma debajo.
 
 Según su biología, se agrupan en **subtipos** que guían el tratamiento:
 
@@ -41,6 +47,8 @@ Según su biología, se agrupan en **subtipos** que guían el tratamiento:
 | **Luminal B** | Receptores hormonales positivos, proliferación alta o HER2 positivo | 15-20 % |
 | **HER2 positivo** | Exceso de HER2, con o sin receptores hormonales | 15-20 % |
 | **Triple negativo** | Sin receptores hormonales ni HER2 | 10-15 % |
+
+Estos subtipos **intrínsecos** se definieron originalmente con perfiles de expresión de muchos genes. En la práctica se **aproximan** con lo que mide la biopsia (receptores hormonales, HER2 y Ki-67), y las dos clasificaciones **no son intercambiables**: una parte de los tumores cambia de grupo según el método. Por eso, en algunos casos se usan además plataformas genómicas.
 
 Desde 2022 se habla también de tumores **HER2 bajo**, que tienen algo de HER2 sin llegar a ser positivos, porque responden a algunos anticuerpos conjugados.
 
@@ -68,7 +76,7 @@ Según GLOBOCAN 2022, el cáncer de mama es el más diagnosticado en mujeres en 
 
 ## Prevención y cribado
 
-El **cribado con mamografía** reduce la mortalidad por cáncer de mama en las mujeres que participan. En España se ofrece cada dos años a las mujeres de **50 a 69 años**, y varias comunidades lo amplían a los 45-74. Como cualquier cribado, tiene límites: falsos positivos, cánceres que no se ven y sobrediagnóstico.
+El **cribado con mamografía** reduce la mortalidad por cáncer de mama en las mujeres que participan. En España la norma nacional lo ofrece cada dos años a las mujeres de **50 a 69 años**. El 23 de octubre de 2026 el Consejo Interterritorial aprobó el **proyecto** de ampliarlo a los **45-74 años**: aún no está en vigor y, cuando lo esté, se implantará de forma gradual. Algunas comunidades ya invitaban antes a parte de estas edades, otras no, así que conviene preguntar en tu centro de salud. Como cualquier cribado, tiene límites: falsos positivos, cánceres que no se ven y sobrediagnóstico.
 
 Las mujeres con **alto riesgo** (portadoras de variantes en *BRCA* u otros genes, fuertes antecedentes familiares o radioterapia torácica previa) siguen un programa propio, con **resonancia magnética** anual desde edades más jóvenes, y pueden valorar **cirugías reductoras de riesgo** o fármacos preventivos como el tamoxifeno.
 
@@ -122,7 +130,15 @@ El objetivo es controlar el cáncer el mayor tiempo posible con buena calidad de
 
 ## Pronóstico
 
-La supervivencia a cinco años en España ronda el **85-90 %**, una de las más altas de Europa. Depende sobre todo del estadio: es superior al 98 % en los tumores localizados y en torno al 30 % cuando hay metástasis, una cifra que mejora con cada nuevo tratamiento. Los tumores con receptores hormonales positivos pueden recaer tarde, incluso más de diez años después, por eso la hormonoterapia es larga.
+Cada cifra de supervivencia depende de dónde y cuándo se midió, por eso indicamos su origen:
+
+| Dato | Cifra | Origen |
+|---|---|---|
+| Todas las pacientes | **86 %** a cinco años | España · registros de cáncer de REDECAN · mujeres diagnosticadas en 2008-2013 · supervivencia **neta** (descuenta las muertes por otras causas) |
+| Tumor **localizado** en la mama | Prácticamente el **100 %** a cinco años | **Estados Unidos** · registro SEER del Instituto Nacional del Cáncer · diagnósticos de 2015-2021 · supervivencia **relativa** |
+| Con **metástasis** a distancia | Alrededor de **un tercio** a cinco años | Estados Unidos · SEER · mismos años y mismo tipo de supervivencia |
+
+España no publica la supervivencia por estadio con la misma regularidad, así que las cifras por extensión son **estadounidenses** y sirven como orientación, no como dato exacto de la población española. Además, son medias de personas diagnosticadas hace años: no tienen en cuenta los tratamientos más recientes, que mejoran sobre todo las cifras de la enfermedad metastásica, ni predicen lo que le ocurrirá a una paciente concreta. Ver [Qué significa la supervivencia a cinco años](../../preguntas-frecuentes/que-significa-la-supervivencia-a-cinco-anos/). Los tumores con receptores hormonales positivos pueden recaer tarde, incluso más de diez años después, por eso la hormonoterapia es larga.
 
 ## Después del tratamiento
 
@@ -158,5 +174,7 @@ Ver también: [Carcinoma ductal in situ](../carcinoma-ductal-in-situ/), [Cáncer
 2. Loibl S, et al. Early breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2024;35:159-182. [doi:10.1016/j.annonc.2023.11.016](https://doi.org/10.1016/j.annonc.2023.11.016)
 3. Gennari A, et al. ESMO Clinical Practice Guideline for the diagnosis, staging and treatment of patients with metastatic breast cancer. *Ann Oncol*. 2021;32:1475-1495. [doi:10.1016/j.annonc.2021.09.019](https://doi.org/10.1016/j.annonc.2021.09.019)
 4. NCI. Cáncer de seno (mama). [cancer.gov/espanol/tipos/seno](https://www.cancer.gov/espanol/tipos/seno)
-5. SEOM. Las cifras del cáncer en España 2025. [seom.org](https://seom.org/)
+5. SEOM y REDECAN. Las cifras del cáncer en España 2025 (supervivencia neta a cinco años de los diagnosticados en 2008-2013). [seom.org](https://www.seom.org/images/LAS_CIFRAS_DMC2025.pdf)
 6. Early Breast Cancer Trialists' Collaborative Group. Effect of radiotherapy after breast-conserving surgery on 10-year recurrence and 15-year breast cancer death. *Lancet*. 2011;378:1707-1716. [doi:10.1016/S0140-6736(11)61629-2](https://doi.org/10.1016/S0140-6736(11)61629-2)
+7. Ministerio de Sanidad. El Consejo Interterritorial aprueba ampliar el cribado de cáncer de mama a las mujeres de 45 a 74 años. Nota de prensa, 23 de octubre de 2026. [sanidad.gob.es](https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6990)
+8. National Cancer Institute. SEER Cancer Stat Facts: Female Breast Cancer (supervivencia relativa a cinco años por estadio, diagnósticos de 2015-2021, Estados Unidos). [seer.cancer.gov](https://seer.cancer.gov/statfacts/html/breast.html)

@@ -1,12 +1,13 @@
 ---
 title: Gastrointestinal stromal tumour (GIST)
-desc: A sarcoma of the digestive tract that changed oncology: it was the first solid tumour controlled with a targeted tablet, imatinib.
+desc: A sarcoma of the digestive tract that marked a milestone: it was the first solid tumour in which a targeted tablet, imatinib, controlled advanced disease for years in many patients with the right mutation.
 health: si
 grupo: Digestive system
 img: t-tumor-del-estroma-gastrointestinal-gist.jpg
 img_alt: Gastrointestinal stromal tumour (GIST): special staining under the microscope
 img_pie: Gastrointestinal stromal tumour (GIST): special staining under the microscope.
 medicapedia: tumor-del-estroma-gastrointestinal
+updated: 2026-11-25
 ---
 ## At a glance
 

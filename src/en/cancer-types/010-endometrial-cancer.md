@@ -1,12 +1,13 @@
 ---
 title: Endometrial cancer
-desc: The most common gynaecological cancer in high-income countries. It warns early with bleeding after menopause and most cases are cured with surgery. Molecular classification has changed treatment.
+desc: The most common gynaecological cancer in high-income countries. It usually warns early with bleeding after menopause, and most are found at an early stage, when surgery is often enough. Molecular classification now guides treatment.
 health: si
 grupo: Breast and gynaecological
 img: t-cancer-de-endometrio.jpg
 img_alt: Endometrial cancer under the microscope
 img_pie: Endometrial cancer under the microscope.
 medicapedia: cancer-de-endometrio
+updated: 2026-11-25
 ---
 ## At a glance
 

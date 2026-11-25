@@ -1,12 +1,13 @@
 ---
 title: Linfoma de Hodgkin
-desc: Un linfoma de jóvenes que se cura en más del 85-90 % de los casos. El tratamiento moderno, guiado por PET, busca curar con menos efectos a largo plazo.
+desc: Un linfoma de jóvenes que se cura en la gran mayoría de los casos, más en estadios iniciales que avanzados. El tratamiento guiado por PET busca curar con menos efectos a largo plazo.
 health: si
 grupo: Sangre: leucemias, linfomas y mieloma
 img: t-linfoma-de-hodgkin.jpg
 img_alt: Linfoma de Hodgkin al microscopio
 img_pie: Linfoma de Hodgkin al microscopio.
 medicapedia: enfermedad-de-hodgkin
+updated: 2026-11-25
 ---
 ## En resumen
 

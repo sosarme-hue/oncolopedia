@@ -1,12 +1,13 @@
 ---
 title: Osteosarcoma
-desc: El cáncer de hueso más frecuente en adolescentes. Aparece cerca de la rodilla o el hombro durante el estirón; con quimioterapia y cirugía se cura en dos de cada tres casos localizados.
+desc: El cáncer de hueso más frecuente en adolescentes. Aparece cerca de la rodilla o el hombro durante el estirón; con quimioterapia y cirugía se curan unos dos de cada tres casos localizados, bastantes menos si hay metástasis.
 health: si
 grupo: Sarcomas y hueso
 img: t-osteosarcoma.jpg
 img_alt: Osteosarcoma al microscopio
 img_pie: Osteosarcoma al microscopio.
 medicapedia: osteosarcoma
+updated: 2026-11-25
 ---
 ## En resumen
 

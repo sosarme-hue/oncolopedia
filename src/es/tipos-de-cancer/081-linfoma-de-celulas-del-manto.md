@@ -1,12 +1,13 @@
 ---
 title: Linfoma de células del manto
-desc: Un linfoma B poco frecuente, sobre todo en hombres mayores, con la translocación de la ciclina D1. Los inhibidores de BTK han mejorado mucho su tratamiento.
+desc: Un linfoma B poco frecuente, sobre todo en hombres mayores, con la translocación de la ciclina D1. Los inhibidores de BTK han alargado el control de la enfermedad, aunque en la mayoría de los casos sigue sin curarse.
 health: si
 grupo: Sangre: leucemias, linfomas y mieloma
 img: t-linfoma-de-celulas-del-manto.jpg
 img_alt: Linfoma de células del manto al microscopio
 img_pie: Linfoma de células del manto al microscopio.
 medicapedia: linfoma-de-celulas-de-manto
+updated: 2026-11-25
 ---
 ## En resumen
 

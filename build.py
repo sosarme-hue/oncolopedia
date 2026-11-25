@@ -109,7 +109,8 @@ def avail(lang):
 def nav(lang, r):
     base = r + ("en/" if lang == "en" else "")
     more = [("temas", "Más temas")] if lang == "es" else [("topics", "More topics")]
-    items = [(s[0], s[1]) for s in SECTIONS[lang][:4] if s[0] in avail(lang)] + more + [x for x in EXTRA[lang] if x[0] in avail(lang) and x[0] not in ("fuentes", "sources")]
+    items = ([(s[0], s[1]) for s in SECTIONS[lang][:5] if s[0] in avail(lang)]
+             + [x for x in EXTRA[lang] if x[0] in avail(lang) and x[0] in ("atlas", "blog")] + more)
     return "".join(f'<a href="{base}{u}/">{esc(t)}</a>' for u, t in items)
 
 
@@ -365,6 +366,38 @@ def glos_link(h, lang, maxn=14):
     return "".join(parts)
 
 
+AUTHOR_PATH = {"es": "quien-esta-detras/", "en": "en/about/"}
+
+
+def AUTHOR_LD(lang):
+    return {"@type": "Person", "@id": SITE + "quien-esta-detras/#alejandro-rosas", "name": "Alejandro Rosàs",
+            "url": SITE + AUTHOR_PATH[lang], "jobTitle": "Médico de familia" if lang == "es" else "Family physician",
+            "hasCredential": {"@type": "EducationalOccupationalCredential", "credentialCategory": "Especialista en Medicina Preventiva y Salud Pública" if lang == "es" else "Specialist in Preventive Medicine and Public Health"}}
+
+
+def _slugid(txt):
+    import unicodedata
+    t = unicodedata.normalize("NFKD", strip_tags(txt)).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "-", t).strip("-") or "s"
+
+
+def add_toc(h, lang, minimum=6):
+    heads = re.findall(r"<h2>(.*?)</h2>", h)
+    if len(heads) < minimum:
+        return h, ""
+    seen, items = set(), []
+    def rep(m):
+        sid = _slugid(m.group(1)); base_id = sid; k = 2
+        while sid in seen:
+            sid = f"{base_id}-{k}"; k += 1
+        seen.add(sid); items.append((sid, m.group(1)))
+        return f'<h2 id="{sid}">{m.group(1)}</h2>'
+    h = re.sub(r"<h2>(.*?)</h2>", rep, h)
+    lab = "En esta página" if lang == "es" else "On this page"
+    toc = f'<nav class="toc" aria-label="{lab}"><p class="toc-t">{lab}</p><ul>' + "".join(f'<li><a href="#{i}">{x}</a></li>' for i, x in items) + "</ul></nav>"
+    return h, toc
+
+
 def article_page(lang, sec, item, siblings, search):
     t = T[lang]
     lp = "en/" if lang == "en" else ""
@@ -372,6 +405,7 @@ def article_page(lang, sec, item, siblings, search):
     r = prefix(path)
     base = r + lp
     body_html = glos_link(md(item["body"], lang), lang)
+    body_html, toc = add_toc(body_html, lang)
     if item.get("medicapedia"):
         mu = f'https://medicapedia.org/{"en/" if lang == "en" else ""}enf/{item["medicapedia"]}.html'
         mb = (f'<section class="mpbox" aria-label="Medicapedia"><p class="mp-ey">{"Historia · Medicapedia" if lang == "es" else "History · Medicapedia"}</p>'
@@ -399,11 +433,11 @@ def article_page(lang, sec, item, siblings, search):
     sib = "".join(f'<li><a href="{base}{sec[0]}/{s["slug"]}/">{esc(s["title"])}</a></li>' for s in sibs)
     crumbs = f'<nav class="crumbs" aria-label="breadcrumb"><a href="{base}">{t["home"]}</a> › <a href="{base}{sec[0]}/">{esc(sec[1])}</a></nav>'
     body = f"""<header class="phead wrap">{crumbs}<span class="eyebrow">{esc(sec[1])}</span><h1>{esc(item['title'])}</h1><p class="lead">{esc(item['desc'])}</p></header>
-<div class="wrap article{' has-ficha' if ficha else ''}"><article class="prose">{disc}{hero}{body_html}<p class="meta">{t['by']} · {t['upd']}: {item.get('updated', TODAY)} · {t['err']} <a href="mailto:{MAIL}">{MAIL}</a></p></article>
+<div class="wrap article{' has-ficha' if ficha else ''}"><article class="prose">{disc}{hero}{toc}{body_html}<p class="meta"><a href="{base}{AUTHOR_PATH[lang].replace('en/', '', 1)}">{t['by']}</a> · {t['upd']}: {item.get('updated', TODAY)} · {t['err']} <a href="mailto:{MAIL}">{MAIL}</a></p></article>
 <aside class="aside">{ficha}<div class="box"><h4>{t['more']}: {esc(item.get('grupo') or sec[1])}</h4><ul>{sib}</ul></div></aside></div>"""
     body = body.replace("@@R@@", r)
     ldtype = "MedicalWebPage" if item.get("health") == "si" else "Article"
-    extra = {"headline": item["title"], "author": {"@type": "Person", "name": "Alejandro Rosàs", "jobTitle": "Médico de familia" if lang == "es" else "Family physician"}, "datePublished": item.get("updated", TODAY)}
+    extra = {"headline": item["title"], "author": AUTHOR_LD(lang), "datePublished": item.get("published", TODAY), "dateModified": item.get("updated", TODAY)}
     if ldtype == "MedicalWebPage":
         extra["lastReviewed"] = item.get("updated", TODAY)
     write(path, page(lang, path, item["title"], item["desc"], body, ldtype=ldtype, extra_ld=extra, og_type="article", alt=item.get("alt")))
@@ -456,8 +490,13 @@ def topics_page(lang, allsec, search):
     word = "artículos" if lang == "es" else "articles"
     cards = "".join(f'<a class="card" href="../{s[0]}/"><span class="num">{i:02d}</span><span class="tag">{esc(s[1])}</span><h3>{esc(s[2])}</h3><p>{esc(s[3])}</p><span class="more">{len(allsec.get(s[0], []))} {word} →</span></a>'
                     for i, s in enumerate([s for s in SECTIONS[lang] if allsec.get(s[0])], 1))
+    XD = {"atlas": ("Atlas de 273 entidades y subtipos", "Atlas of 273 entities and subtypes"), "historia": ("Cronología de la oncología", ""), "history": ("", "A timeline of oncology"),
+          "glosario": ("Los términos de la oncología, explicados", ""), "glossary": ("", "Oncology terms, explained"), "quiz": ("Pon a prueba lo que sabes", "Test what you know"),
+          "fuentes": ("Las fuentes que usamos", ""), "sources": ("", "The sources we use"), "blog": ("Novedades y artículos", "News and articles")}
+    extra_cards = "".join(f'<a class="card" href="../{u}/"><span class="tag">{esc(n)}</span><h3>{esc(XD.get(u, ("", ""))[0 if lang == "es" else 1] or n)}</h3><span class="more">→</span></a>' for u, n in EXTRA[lang] if u in avail(lang))
     body = f"""<header class="phead wrap"><span class="eyebrow">{"Mapa del sitio" if lang == "es" else "Site map"}</span><h1>{title}</h1><p class="lead">{desc}</p></header>
-<section class="wrap section" style="padding-top:0"><div class="grid">{cards}</div></section>"""
+<section class="wrap section" style="padding-top:0"><div class="grid">{cards}</div>
+<h2 class="ghead" style="margin-top:36px">{"Herramientas y recursos" if lang == "es" else "Tools and resources"}</h2><div class="grid">{extra_cards}</div></section>"""
     write(path, page(lang, path, title, desc, body, ldtype="CollectionPage"))
     search.append({"t": title, "d": desc, "u": path[len(lp):], "k": title, "n": ""})
 

@@ -1,12 +1,13 @@
 ---
 title: Linfomas de la zona marginal
-desc: Linfomas indolentes a menudo ligados a infecciones o inflamación crónica. El MALT gástrico puede curarse solo con antibióticos contra el Helicobacter pylori.
+desc: Linfomas indolentes a menudo ligados a infecciones o inflamación crónica. El MALT gástrico localizado y con Helicobacter pylori puede desaparecer solo con antibióticos en muchos casos.
 health: si
 grupo: Sangre: leucemias, linfomas y mieloma
 img: t-linfomas-de-la-zona-marginal.jpg
 img_alt: Linfomas de la zona marginal al microscopio
 img_pie: Linfomas de la zona marginal al microscopio.
 medicapedia: linfoma-malt
+updated: 2026-11-25
 ---
 ## En resumen
 

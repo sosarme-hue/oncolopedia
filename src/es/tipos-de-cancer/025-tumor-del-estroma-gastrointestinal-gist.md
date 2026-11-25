@@ -1,12 +1,13 @@
 ---
 title: Tumor del estroma gastrointestinal (GIST)
-desc: Un sarcoma del tubo digestivo que cambió la oncología: fue el primer tumor sólido controlado con una pastilla dirigida, el imatinib.
+desc: Un sarcoma del tubo digestivo que marcó un hito: fue el primer tumor sólido en el que una pastilla dirigida, el imatinib, controló la enfermedad avanzada durante años en muchos pacientes con la mutación adecuada.
 health: si
 grupo: Aparato digestivo
 img: t-tumor-del-estroma-gastrointestinal-gist.jpg
 img_alt: Tumor del estroma gastrointestinal (GIST): tinción especial al microscopio
 img_pie: Tumor del estroma gastrointestinal (GIST): tinción especial al microscopio.
 medicapedia: tumor-del-estroma-gastrointestinal
+updated: 2026-11-25
 ---
 ## En resumen
 

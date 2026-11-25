@@ -1,12 +1,13 @@
 ---
 title: Wilms tumour (nephroblastoma)
-desc: The kidney cancer of young children. It is usually found as a lump in the abdomen and over 90% are cured.
+desc: The kidney cancer of young children. It is usually found as a lump in the abdomen; in well-resourced countries about 90% are cured, fewer with unfavourable histology.
 health: si
 grupo: Children and other
 img: t-tumor-de-wilms.jpg
 img_alt: Wilms tumour under the microscope
 img_pie: Wilms tumour under the microscope.
 medicapedia: tumor-de-wilms
+updated: 2026-11-25
 ---
 ## At a glance
 

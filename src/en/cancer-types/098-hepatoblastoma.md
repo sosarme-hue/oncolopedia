@@ -1,12 +1,13 @@
 ---
 title: Hepatoblastoma
-desc: The most common liver cancer in young children. Cisplatin chemotherapy and surgery, or liver transplant, cure most.
+desc: The most common liver cancer in young children. Cisplatin chemotherapy and surgery, or liver transplant, cure most children when the tumour can be removed.
 health: si
 grupo: Children and other
 img: t-hepatoblastoma.jpg
 img_alt: Hepatoblastoma under the microscope
 img_pie: Hepatoblastoma under the microscope.
 medicapedia: hepatoblastoma
+updated: 2026-11-25
 ---
 ## At a glance
 

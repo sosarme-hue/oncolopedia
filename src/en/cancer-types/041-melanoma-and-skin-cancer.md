@@ -1,12 +1,13 @@
 ---
 title: Melanoma
-desc: The most serious skin cancer, although almost always cured if found early. Checking moles with the ABCDE rule, sun protection and immunotherapy have changed its story.
+desc: The most serious skin cancer. Found very early, surgery cures the great majority. Immunotherapy has lengthened survival in advanced disease, although not every patient responds.
 health: si
 grupo: Skin
 img: t-melanoma-y-cancer-de-piel.jpg
 img_alt: Melanoma under the microscope
 img_pie: Melanoma under the microscope.
 medicapedia: cancer-de-piel
+updated: 2026-11-25
 ---
 ## At a glance
 

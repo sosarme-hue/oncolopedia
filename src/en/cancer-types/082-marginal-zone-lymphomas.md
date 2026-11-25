@@ -1,12 +1,13 @@
 ---
 title: Marginal zone lymphomas
-desc: Indolent lymphomas often linked to infection or chronic inflammation. Gastric MALT lymphoma can be cured with antibiotics against Helicobacter pylori alone.
+desc: Indolent lymphomas often linked to infection or chronic inflammation. Localised gastric MALT lymphoma with Helicobacter pylori can disappear with antibiotics alone in many cases.
 health: si
 grupo: Blood: leukaemias, lymphomas and myeloma
 img: t-linfomas-de-la-zona-marginal.jpg
 img_alt: Marginal zone lymphomas under the microscope
 img_pie: Marginal zone lymphomas under the microscope.
 medicapedia: linfoma-malt
+updated: 2026-11-25
 ---
 ## At a glance
 

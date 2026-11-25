@@ -1,12 +1,13 @@
 ---
 title: Leucemias
-desc: Cánceres de las células de la sangre que se forman en la médula ósea. Hay formas agudas, que necesitan tratamiento urgente, y crónicas, que a veces solo requieren vigilancia. Las curaciones han crecido gracias a la quimioterapia, el trasplante, las terapias dirigidas y las CAR-T.
+desc: Cánceres de las células de la sangre que se forman en la médula ósea. Hay formas agudas, que necesitan tratamiento urgente, y crónicas, que a veces solo requieren vigilancia. El pronóstico varía mucho según el tipo, la edad y las alteraciones genéticas.
 health: si
 grupo: Sangre: leucemias, linfomas y mieloma
 img: t-leucemias.jpg
 img_alt: Frotis de sangre en una leucemia aguda
 img_pie: Frotis de sangre en una leucemia aguda.
 medicapedia: leucemia
+updated: 2026-11-25
 ---
 ## En resumen
 
@@ -64,7 +65,7 @@ Depende del tipo y se explica en cada ficha. Las grandes herramientas son:
 
 ## Pronóstico
 
-Ha mejorado de forma espectacular: la LLA infantil se cura en el 90 %, la promielocítica en más del 90 % y las personas con LMC tienen una esperanza de vida casi normal. La LMA del anciano sigue siendo el gran reto.
+Ha mejorado mucho, aunque de forma desigual según el tipo y la edad: la LLA infantil se cura en el 90 %, la promielocítica en más del 90 % y las personas con LMC tienen una esperanza de vida casi normal. La LMA del anciano sigue siendo el gran reto.
 
 ## Donar médula
 

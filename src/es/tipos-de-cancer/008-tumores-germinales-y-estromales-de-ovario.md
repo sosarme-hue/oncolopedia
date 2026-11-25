@@ -1,12 +1,13 @@
 ---
 title: Tumores germinales y estromales de ovario
-desc: Tumores de ovario poco frecuentes que afectan a menudo a niñas y mujeres jóvenes. Muchos se curan conservando la fertilidad.
+desc: Tumores de ovario poco frecuentes que afectan a menudo a niñas y mujeres jóvenes. Los germinales, sobre todo en estadios iniciales, se curan con frecuencia conservando la fertilidad.
 health: si
 grupo: Mama y ginecológicos
 img: t-tumores-germinales-y-estromales-de-ovario.jpg
 img_alt: Tumores germinales y estromales de ovario al microscopio
 img_pie: Tumores germinales y estromales de ovario al microscopio.
 medicapedia: tumor-de-celulas-germinales
+updated: 2026-11-25
 ---
 ## En resumen
 

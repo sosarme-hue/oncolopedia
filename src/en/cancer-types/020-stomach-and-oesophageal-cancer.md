@@ -1,13 +1,16 @@
 ---
 title: Stomach and oesophageal cancer
-desc: Two upper digestive tract cancers that share symptoms and treatments. Helicobacter pylori, tobacco, alcohol and reflux are the main causes; perioperative chemotherapy and immunotherapy have improved the outlook.
+desc: A comparison of the two upper digestive cancers: what they share, how they differ and why tumours at the junction between them are treated alike. Each organ also has its own main page.
 health: si
 grupo: Digestive system
 img: t-cancer-de-estomago-y-esofago.jpg
 img_alt: Gastric adenocarcinoma under the microscope
 img_pie: Gastric adenocarcinoma under the microscope.
 medicapedia: cancer-de-estomago
+updated: 2026-11-25
 ---
+<div class="note"><b>This page compares the two cancers.</b> For full information on each, see the main pages: <a href="../stomach-cancer/">Stomach cancer</a> and <a href="../oesophageal-cancer/">Oesophageal cancer</a>.</div>
+
 ## At a glance
 
 | | |
@@ -17,7 +20,7 @@ medicapedia: cancer-de-estomago
 | **Signs** | Difficulty swallowing, persistent indigestion, weight loss, anaemia, vomiting |
 | **Diagnosis** | Endoscopy with biopsy |
 | **Treatment** | Surgery with chemotherapy before and after; chemoradiotherapy for the oesophagus; immunotherapy and targeted therapy |
-| **Survival** | About 25-30% at five years; over 90% for very early tumours |
+| **Survival** | Varies widely by stage; see "Outlook" and the page for each organ |
 
 ## What they are
 
@@ -95,7 +98,7 @@ Digestive complaints are very common; endoscopy is mainly indicated for **alarm 
 
 ## Outlook
 
-Five-year survival is about 25-30% for stomach and 20% for oesophagus in Europe, but over 90% for tumours found very early. In Japan and Korea, thanks to screening, more than half are diagnosed early.
+In Europe about one in four people with stomach cancer survive five years (EUROCARE-5, diagnosed 2000-2007, relative survival). In Spain, for oesophageal cancer, 13% of men and 16% of women do (net survival, diagnosed 2008-2013, REDECAN). Tumours found very early are cured in the great majority of cases. In Japan and Korea, thanks to screening, more than half are diagnosed early.
 
 ## After treatment
 

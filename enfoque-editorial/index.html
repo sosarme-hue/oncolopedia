@@ -11,8 +11,8 @@
 <meta name="theme-color" content="#123746">
 <link rel="alternate" type="application/rss+xml" title="Oncolopedia" href="../blog/feed.xml">
 <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:opsz,wght@8..60,600&display=swap">
+<link rel="preload" href="../assets/fonts/SourceSans3-400-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="../assets/fonts/fonts.css?v=1">
 <link rel="stylesheet" href="../assets/site.css?v=1">
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://oncolopedia.com/#org", "name": "Oncolopedia", "url": "https://oncolopedia.com/", "logo": "https://oncolopedia.com/assets/favicon.svg"}, {"@type": "WebSite", "@id": "https://oncolopedia.com/#web", "name": "Oncolopedia", "url": "https://oncolopedia.com/", "inLanguage": ["es", "en"], "publisher": {"@id": "https://oncolopedia.com/#org"}}, {"@type": "WebPage", "@id": "https://oncolopedia.com/enfoque-editorial/#page", "url": "https://oncolopedia.com/enfoque-editorial/", "name": "Enfoque editorial", "description": "Rigor, fuentes oficiales y lenguaje claro. Sin falsas esperanzas y sin alarmismo.", "inLanguage": "es", "isPartOf": {"@id": "https://oncolopedia.com/#web"}, "dateModified": "2026-11-24"}]}</script>
 </head>
@@ -37,15 +37,65 @@
 <p>Evitamos el lenguaje bélico que culpa a quien «pierde la batalla», y expresiones como «sufre de» o «víctima». Nadie tiene la culpa de su cáncer. Incluimos las asociaciones de pacientes como fuente de apoyo.</p>
 <h2>No sustituimos a tu equipo</h2>
 <p>Oncolopedia no sirve para elegir un tratamiento. Queremos ayudarte a entender y a preguntar mejor.</p>
-<h2>Fechas de actualización y correcciones</h2>
-<p>Cada artículo indica cuándo se actualizó. La oncología cambia deprisa: si encuentras un error o algo desactualizado, escríbenos a <a href="mailto:partenopides@gmail.com">partenopides@gmail.com</a> y lo revisaremos.</p>
+<h2 id="procedimiento">Procedimiento de revisión</h2>
+<p><strong>Quién escribe.</strong> Los textos los escribe Alejandro Rosàs, médico de familia y especialista en Medicina Preventiva y Salud Pública, a partir de las fuentes citadas en cada artículo.</p>
+<p><strong>Revisión especializada.</strong> Por ahora las fichas <strong>no tienen revisión externa</strong> por un oncólogo u otro especialista. Cuando una ficha la tenga, el nombre y la especialidad de quien la revisó aparecerán al pie del artículo y en los datos de la página. Si una ficha no muestra revisor, es que no lo ha tenido.</p>
+<p><strong>Cada cuánto se revisa cada tema.</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Contenido</th>
+<th>Revisión periódica</th>
+<th>Revisión inmediata</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cribados, prevención y síntomas</td>
+<td>Cada <strong>6 meses</strong></td>
+<td>Cuando cambia una norma del BOE o del Ministerio de Sanidad</td>
+</tr>
+<tr>
+<td>Tipos de cáncer, diagnóstico y tratamientos</td>
+<td>Al menos <strong>una vez al año</strong></td>
+<td>Cuando una guía (ESMO, SEOM, NCCN) o la aprobación de un fármaco cambia la práctica</td>
+</tr>
+<tr>
+<td>Vivir con cáncer y preguntas frecuentes</td>
+<td>Una vez al año</td>
+<td>Cuando cambia un recurso o un derecho</td>
+</tr>
+<tr>
+<td>Historia, personajes y glosario</td>
+<td>Cada dos años</td>
+<td>Si se detecta un error</td>
+</tr>
+</tbody>
+</table></div>
+<p>Los errores clínicos que nos comunican los lectores se revisan en un plazo máximo de <strong>siete días</strong>.</p>
+<p><strong>Dos tipos de cambio.</strong> Cada artículo muestra dos fechas, porque no es lo mismo corregir un dato médico que cambiar el diseño:</p>
+<ul>
+<li><strong>Corrección clínica</strong>: cambia una cifra, una recomendación, una indicación, un plazo o cualquier dato que pueda influir en una decisión. Actualiza la fecha «<strong>Contenido clínico revisado</strong>» y se anota en el registro de abajo.</li>
+<li><strong>Cambio de presentación</strong>: diseño, enlaces, créditos de imágenes, índice o redacción sin cambiar el contenido. Solo actualiza la fecha «<strong>Actualizado</strong>».</li>
+</ul>
+<p>Si encuentras un error o algo desactualizado, escríbenos a <a href="mailto:partenopides@gmail.com">partenopides@gmail.com</a>.</p>
+<h2>Registro de correcciones clínicas</h2>
+<p><strong>25 de noviembre de 2026</strong></p>
+<ul>
+<li>Cribados: el de colon pasa a 50-74 años (Orden SND/356/2026) y el de cuello uterino al nuevo esquema con prueba del VPH de 30 a 65 (Orden SND/454/2025). La ampliación del de mama a 45-74 figura como proyecto aprobado, aún no en vigor. Se separa la norma nacional, el calendario de implantación y la oferta de cada comunidad.</li>
+<li>Síntomas que no hay que ignorar: se organizan en tres niveles de urgencia en lugar de un plazo único de dos o tres semanas.</li>
+<li>Cáncer de mama: se indica el país, el registro, los años y el tipo de supervivencia de cada cifra; se separa la histología de la presentación clínica.</li>
+<li>27 resúmenes de fichas: se matizan las afirmaciones sobre curación y tratamientos recientes por estadio, subtipo o selección de pacientes.</li>
+<li>Nuevas fichas de cáncer de estómago, esófago, vejiga y riñón.</li>
+<li>Atlas: se revisan una a una las asociaciones entre cada entidad y su ficha.</li>
+</ul>
 <h2>Red de webs</h2>
 <p>Enlazamos con otras enciclopedias de la red cuando ayuda al lector: <a href="https://medicapedia.org" rel="noopener">Medicapedia</a> para la medicina y su historia, <a href="https://farmacos.ai" rel="noopener">Farmacos.ai</a> para los medicamentos, <a href="https://geneticapedia.com" rel="noopener">Geneticapedia</a> para la genética y el cáncer hereditario, <a href="https://psycholopedia.com" rel="noopener">Psycholopedia</a> para la psicología y <a href="https://enciclopedias.si" rel="noopener">Enciclopedias.si</a> para todas las demás.</p></div>
 </main>
 <footer class="foot"><div class="wrap">
   <div class="cols">
     <div><a class="brand" href="../"><span class="sym" aria-hidden="true"><img src="../assets/favicon.svg" alt="" width="26" height="26" style="display:block"></span>Oncolopedia</a><p style="margin-top:10px">Enciclopedia divulgativa de oncología: ciencia, salud e historia. No ofrece diagnóstico, tratamiento ni segunda opinión individual.</p><div class="help">¿Tienes un síntoma que no se va o te preocupa un diagnóstico? Habla con tu médico de familia o con tu equipo de oncología. Para apoyo y orientación gratuita: <b>Infocáncer de la AECC, 900 100 036</b>, 24 horas.</div></div>
-    <div><h4>Secciones</h4><a href="../tipos-de-cancer/">Tipos de cáncer</a><a href="../diagnostico/">Diagnóstico</a><a href="../tratamientos/">Tratamientos</a><a href="../prevencion-y-cribado/">Prevención y cribado</a><a href="../vivir-con-cancer/">Vivir con cáncer</a><a href="../personajes/">Personajes</a><a href="../investigacion/">Investigación</a><a href="../preguntas-frecuentes/">Preguntas frecuentes</a><a href="../atlas/">Atlas</a><a href="../historia/">Historia</a><a href="../glosario/">Glosario</a><a href="../quiz/">Quiz</a><a href="../fuentes/">Fuentes</a><a href="../blog/">Blog</a></div>
+    <div><h4>Secciones</h4><a href="../tipos-de-cancer/">Tipos de cáncer</a><a href="../diagnostico/">Diagnóstico</a><a href="../tratamientos/">Tratamientos</a><a href="../prevencion-y-cribado/">Prevención y cribado</a><a href="../vivir-con-cancer/">Vivir con cáncer</a><a href="../psicooncologia/">Psicooncología</a><a href="../personajes/">Personajes</a><a href="../investigacion/">Investigación</a><a href="../preguntas-frecuentes/">Preguntas frecuentes</a><a href="../atlas/">Atlas</a><a href="../historia/">Historia</a><a href="../glosario/">Glosario</a><a href="../quiz/">Quiz</a><a href="../fuentes/">Fuentes</a><a href="../blog/">Blog</a></div>
     <div><h4>Proyecto</h4><a href="../quien-esta-detras/">Quién está detrás</a><a href="../enfoque-editorial/">Enfoque editorial</a><a href="../aviso-legal/">Aviso legal</a><a href="../privacidad/">Privacidad</a><a href="../cookies/">Cookies</a></div>
     <div><h4>Red de webs</h4><a href="https://medicapedia.org" rel="noopener">Medicapedia</a><a href="https://farmacos.ai" rel="noopener">Farmacos.ai</a><a href="https://geneticapedia.com" rel="noopener">Geneticapedia</a><a href="https://psycholopedia.com" rel="noopener">Psycholopedia</a><a href="https://enfermeria.si" rel="noopener">Enfermeria.si</a><a href="https://enciclopedias.si" rel="noopener">Enciclopedias.si</a></div>
   </div>

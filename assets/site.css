@@ -363,3 +363,17 @@ a.gl:hover{color:var(--gold)}
 /* Oncolopedia · atlas */
 .afam{padding:22px 0;border-top:1px solid var(--line)}.afam h2{margin:0 0 14px}.afam .door p{margin:6px 0 0;font-size:15px}
 .alist{columns:2 280px;column-gap:28px;padding-left:18px;margin:12px 0 0}.alist li{break-inside:avoid;margin:0 0 6px;font-size:15px}
+.gchips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 8px}
+.gchip{display:inline-block;padding:7px 13px;border:1px solid var(--line);border-radius:999px;background:var(--card);font:500 14px var(--sans);color:var(--ink);text-decoration:none}
+.gchip small{color:var(--mute);margin-left:3px}
+.gchip:hover{border-color:var(--accent);color:var(--accent)}
+.ghead{font:600 26px var(--serif);margin:42px 0 16px;scroll-margin-top:90px}
+.prose figure.fig.hero{display:block;padding:0;gap:0}
+.prose figure.fig.hero img{max-height:420px}
+.card img.cimg{width:calc(100% + 32px);max-width:none;height:auto;object-fit:cover}
+.mpbox{background:var(--card);border:1px solid var(--line);border-left:5px solid #8a5a2b;border-radius:12px;padding:16px 20px;margin:28px 0}
+.mpbox .mp-ey{margin:0;font:700 12px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:#8a5a2b}
+.prose .mpbox h2{margin:4px 0 6px;font-size:1.25rem;border:0;padding:0}
+.mpbox p{margin:0 0 12px;color:var(--mute)}
+.mpbox .mp-btn{display:inline-block;background:#5b3a1a;color:#fff;padding:9px 16px;border-radius:999px;font-weight:600;text-decoration:none}
+.mpbox .mp-btn:hover{background:#8a5a2b}

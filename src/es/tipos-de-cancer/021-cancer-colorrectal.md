@@ -8,6 +8,7 @@ img_alt: Cáncer colorrectal al microscopio
 img_pie: Cáncer colorrectal al microscopio.
 medicapedia: cancer-colorrectal
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

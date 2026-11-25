@@ -8,6 +8,7 @@ img_alt: Carcinoma de células de Merkel al microscopio
 img_pie: Carcinoma de células de Merkel al microscopio.
 medicapedia: carcinoma-de-celulas-de-merkel
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

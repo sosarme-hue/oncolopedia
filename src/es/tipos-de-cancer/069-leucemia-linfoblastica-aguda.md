@@ -8,6 +8,7 @@ img_alt: Leucemia linfoblástica aguda: frotis de sangre al microscopio
 img_pie: Leucemia linfoblástica aguda: frotis de sangre al microscopio.
 medicapedia: leucemia-linfoide-aguda
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

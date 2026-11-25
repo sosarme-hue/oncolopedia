@@ -8,6 +8,7 @@ img_alt: Merkel cell carcinoma under the microscope
 img_pie: Merkel cell carcinoma under the microscope.
 medicapedia: carcinoma-de-celulas-de-merkel
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

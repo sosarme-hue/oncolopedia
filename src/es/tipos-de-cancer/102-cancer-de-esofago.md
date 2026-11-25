@@ -2,8 +2,10 @@
 title: Cáncer de esófago
 desc: Un cáncer poco frecuente pero de los más difíciles, con dos tipos distintos: el epidermoide, ligado al tabaco y al alcohol, y el adenocarcinoma, ligado al reflujo y la obesidad. La dificultad para tragar es su señal principal.
 health: si
+orden: 20.2
 grupo: Aparato digestivo
 updated: 2026-11-25
+revisado: 2026-11-25
 published: 2026-11-25
 ---
 ## En resumen

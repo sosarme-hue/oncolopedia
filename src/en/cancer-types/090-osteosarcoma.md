@@ -8,6 +8,7 @@ img_alt: Osteosarcoma under the microscope
 img_pie: Osteosarcoma under the microscope.
 medicapedia: osteosarcoma
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

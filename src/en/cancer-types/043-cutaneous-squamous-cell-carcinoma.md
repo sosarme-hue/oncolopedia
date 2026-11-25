@@ -8,6 +8,7 @@ img_alt: Cutaneous squamous cell carcinoma under the microscope
 img_pie: Cutaneous squamous cell carcinoma under the microscope.
 medicapedia: carcinoma-espinocelular
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

@@ -8,6 +8,7 @@ img_alt: Brain MRI showing metastases
 img_pie: Brain MRI showing metastases.
 medicapedia: metastasis-cerebral
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

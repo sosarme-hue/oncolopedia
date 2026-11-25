@@ -8,6 +8,7 @@ img_alt: Cáncer de ano al microscopio
 img_pie: Cáncer de ano al microscopio.
 medicapedia: cancer-anal
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

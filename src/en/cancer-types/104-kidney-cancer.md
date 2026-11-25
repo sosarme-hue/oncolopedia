@@ -2,9 +2,11 @@
 title: Kidney cancer
 desc: More than half are found by chance on an ultrasound or CT scan. Small tumours are often treated by removing only part of the kidney, and in advanced disease immunotherapy has lengthened survival for many patients.
 health: si
+orden: 34.2
 grupo: Urological and adrenal
 medicapedia: carcinoma-renal
 updated: 2026-11-25
+revisado: 2026-11-25
 published: 2026-11-25
 ---
 ## At a glance

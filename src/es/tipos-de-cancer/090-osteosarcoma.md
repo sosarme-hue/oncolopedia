@@ -8,6 +8,7 @@ img_alt: Osteosarcoma al microscopio
 img_pie: Osteosarcoma al microscopio.
 medicapedia: osteosarcoma
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

@@ -8,6 +8,7 @@ img_alt: Marginal zone lymphomas under the microscope
 img_pie: Marginal zone lymphomas under the microscope.
 medicapedia: linfoma-malt
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

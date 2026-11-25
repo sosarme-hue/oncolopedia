@@ -8,6 +8,7 @@ img_alt: Tumor del estroma gastrointestinal (GIST): tinción especial al microsc
 img_pie: Tumor del estroma gastrointestinal (GIST): tinción especial al microscopio.
 medicapedia: tumor-del-estroma-gastrointestinal
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

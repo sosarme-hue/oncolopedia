@@ -8,6 +8,7 @@ img_alt: Ovarian germ cell and stromal tumours under the microscope
 img_pie: Ovarian germ cell and stromal tumours under the microscope.
 medicapedia: tumor-de-celulas-germinales
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

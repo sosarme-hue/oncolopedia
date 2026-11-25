@@ -8,6 +8,7 @@ img_alt: Lung carcinoid tumours under the microscope
 img_pie: Lung carcinoid tumours under the microscope.
 medicapedia: tumor-carcinoide
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

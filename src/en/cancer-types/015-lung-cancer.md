@@ -8,6 +8,7 @@ img_alt: Lung cancer under the microscope
 img_pie: Lung cancer under the microscope.
 medicapedia: cancer-de-pulmon
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

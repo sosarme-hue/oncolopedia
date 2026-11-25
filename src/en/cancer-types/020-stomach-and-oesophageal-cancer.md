@@ -8,6 +8,7 @@ img_alt: Gastric adenocarcinoma under the microscope
 img_pie: Gastric adenocarcinoma under the microscope.
 medicapedia: cancer-de-estomago
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 <div class="note"><b>This page compares the two cancers.</b> For full information on each, see the main pages: <a href="../stomach-cancer/">Stomach cancer</a> and <a href="../oesophageal-cancer/">Oesophageal cancer</a>.</div>
 

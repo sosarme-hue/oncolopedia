@@ -8,6 +8,7 @@ img_alt: Tumores carcinoides de pulmón al microscopio
 img_pie: Tumores carcinoides de pulmón al microscopio.
 medicapedia: tumor-carcinoide
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

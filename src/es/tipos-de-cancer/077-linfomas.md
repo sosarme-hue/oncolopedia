@@ -8,6 +8,7 @@ img_alt: Linfomas al microscopio
 img_pie: Linfomas al microscopio.
 medicapedia: linfoma
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

@@ -8,6 +8,7 @@ img_alt: Lymphomas under the microscope
 img_pie: Lymphomas under the microscope.
 medicapedia: linfoma
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

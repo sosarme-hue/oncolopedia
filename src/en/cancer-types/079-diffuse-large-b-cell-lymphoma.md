@@ -8,6 +8,7 @@ img_alt: Diffuse large B-cell lymphoma under the microscope
 img_pie: Diffuse large B-cell lymphoma under the microscope.
 medicapedia: linfoma-difuso-de-celulas-b-grandes
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

@@ -8,6 +8,7 @@ img_alt: Acute lymphoblastic leukaemia: blood smear under the microscope
 img_pie: Acute lymphoblastic leukaemia: blood smear under the microscope.
 medicapedia: leucemia-linfoide-aguda
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

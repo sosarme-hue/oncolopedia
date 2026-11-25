@@ -8,6 +8,7 @@ img_alt: Carcinoma urotelial de vejiga al microscopio
 img_pie: Carcinoma urotelial de vejiga al microscopio.
 medicapedia: cancer-de-vejiga
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 <div class="note"><b>Esta página compara los dos cánceres.</b> Para la información completa de cada uno, consulta las fichas principales: <a href="../cancer-de-vejiga/">Cáncer de vejiga</a> y <a href="../cancer-de-rinon/">Cáncer de riñón</a>.</div>
 

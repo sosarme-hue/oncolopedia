@@ -8,6 +8,7 @@ img_alt: Tumor de Wilms al microscopio
 img_pie: Tumor de Wilms al microscopio.
 medicapedia: tumor-de-wilms
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

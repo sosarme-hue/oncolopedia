@@ -7,6 +7,7 @@ img: t-cancer-infantil.jpg
 img_alt: Children receiving chemotherapy in hospital
 img_pie: Children receiving chemotherapy in hospital.
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

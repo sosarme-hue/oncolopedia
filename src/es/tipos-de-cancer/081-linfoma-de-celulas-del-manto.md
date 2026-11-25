@@ -8,6 +8,7 @@ img_alt: Linfoma de células del manto al microscopio
 img_pie: Linfoma de células del manto al microscopio.
 medicapedia: linfoma-de-celulas-de-manto
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

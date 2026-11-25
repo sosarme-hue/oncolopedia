@@ -7,6 +7,7 @@ img: t-cancer-infantil.jpg
 img_alt: Niños recibiendo quimioterapia en un hospital
 img_pie: Niños recibiendo quimioterapia en un hospital.
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

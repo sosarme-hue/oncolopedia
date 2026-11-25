@@ -8,6 +8,7 @@ img_alt: Melanoma al microscopio
 img_pie: Melanoma al microscopio.
 medicapedia: cancer-de-piel
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

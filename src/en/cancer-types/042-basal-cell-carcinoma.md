@@ -8,6 +8,7 @@ img_alt: Basal cell carcinoma under the microscope
 img_pie: Basal cell carcinoma under the microscope.
 medicapedia: basalioma
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

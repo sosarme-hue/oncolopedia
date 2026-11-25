@@ -8,6 +8,7 @@ img_alt: Cáncer de pulmón al microscopio
 img_pie: Cáncer de pulmón al microscopio.
 medicapedia: cancer-de-pulmon
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

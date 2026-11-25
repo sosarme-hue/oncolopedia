@@ -8,6 +8,7 @@ img_alt: Hepatoblastoma al microscopio
 img_pie: Hepatoblastoma al microscopio.
 medicapedia: hepatoblastoma
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

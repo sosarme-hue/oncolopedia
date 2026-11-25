@@ -8,6 +8,7 @@ img_alt: Frotis de sangre en una leucemia aguda
 img_pie: Frotis de sangre en una leucemia aguda.
 medicapedia: leucemia
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

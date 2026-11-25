@@ -8,6 +8,7 @@ img_alt: Anal cancer under the microscope
 img_pie: Anal cancer under the microscope.
 medicapedia: cancer-anal
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

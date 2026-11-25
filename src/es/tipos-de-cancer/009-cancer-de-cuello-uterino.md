@@ -8,6 +8,7 @@ img_alt: Cáncer de cuello uterino: tinción especial al microscopio
 img_pie: Cáncer de cuello uterino: tinción especial al microscopio.
 medicapedia: cancer-cervical
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

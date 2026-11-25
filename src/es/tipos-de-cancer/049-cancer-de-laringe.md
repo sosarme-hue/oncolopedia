@@ -8,6 +8,7 @@ img_alt: Tumor de laringe visto por laringoscopia
 img_pie: Tumor de laringe visto por laringoscopia.
 medicapedia: cancer-de-laringe
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

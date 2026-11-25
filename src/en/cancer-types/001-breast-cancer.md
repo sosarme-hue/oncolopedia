@@ -8,6 +8,7 @@ img_alt: Breast cancer under the microscope
 img_pie: Breast cancer under the microscope.
 medicapedia: cancer-de-mama
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

@@ -2,12 +2,14 @@
 title: Bladder cancer
 desc: One of the most common cancers in Spain, especially in men and smokers. Blood in the urine, even once, is its main sign. Most are found before they invade the muscle and do not threaten life, although they often come back.
 health: si
+orden: 34.1
 grupo: Urological and adrenal
 img: t-cancer-de-vejiga-y-rinon.jpg
 img_alt: Urothelial bladder carcinoma under the microscope
 img_pie: Urothelial carcinoma invading the bladder muscle.
 medicapedia: cancer-de-vejiga
 updated: 2026-11-25
+revisado: 2026-11-25
 published: 2026-11-25
 ---
 ## At a glance

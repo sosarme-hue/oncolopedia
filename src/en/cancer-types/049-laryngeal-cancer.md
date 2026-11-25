@@ -8,6 +8,7 @@ img_alt: Laryngeal tumour seen on laryngoscopy
 img_pie: Laryngeal tumour seen on laryngoscopy.
 medicapedia: cancer-de-laringe
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

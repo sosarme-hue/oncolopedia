@@ -2,8 +2,10 @@
 title: Oesophageal cancer
 desc: An uncommon but very difficult cancer, with two distinct types: squamous cell carcinoma, linked to smoking and alcohol, and adenocarcinoma, linked to reflux and obesity. Difficulty swallowing is its main sign.
 health: si
+orden: 20.2
 grupo: Digestive system
 updated: 2026-11-25
+revisado: 2026-11-25
 published: 2026-11-25
 ---
 ## At a glance

@@ -8,6 +8,7 @@ img_alt: Endometrial cancer under the microscope
 img_pie: Endometrial cancer under the microscope.
 medicapedia: cancer-de-endometrio
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

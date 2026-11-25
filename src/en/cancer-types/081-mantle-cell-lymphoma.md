@@ -8,6 +8,7 @@ img_alt: Mantle cell lymphoma under the microscope
 img_pie: Mantle cell lymphoma under the microscope.
 medicapedia: linfoma-de-celulas-de-manto
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

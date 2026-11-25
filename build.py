@@ -23,7 +23,8 @@ SECTIONS = {
         ("diagnostico", "Diagnóstico", "Del síntoma al informe", "Biopsia y anatomía patológica, pruebas de imagen, estadio y grado, biomarcadores, marcadores tumorales y estudio del riesgo hereditario."),
         ("tratamientos", "Tratamientos", "Las armas contra el cáncer", "Cirugía, radioterapia, quimioterapia, hormonoterapia, terapias dirigidas, inmunoterapia, trasplante y cuidados paliativos: para qué sirve cada uno y qué esperar."),
         ("prevencion-y-cribado", "Prevención y cribado", "Prevenir y detectar a tiempo", "El Código Europeo contra el Cáncer, tabaco, alcohol y sol, vacunas, los programas de cribado en España y los síntomas que no hay que ignorar."),
-        ("vivir-con-cancer", "Vivir con cáncer", "Durante y después del tratamiento", "Efectos secundarios, alimentación y ejercicio, apoyo emocional, fertilidad, trabajo y derechos, y la vida de los largos supervivientes."),
+        ("vivir-con-cancer", "Vivir con cáncer", "Durante y después del tratamiento", "Guías prácticas para pacientes y familias: entender el informe, la primera consulta, cuándo llamar al equipo, dolor y síntomas, sexualidad, cuidadores, decisiones compartidas, trabajo y derechos."),
+        ("psicooncologia", "Psicooncología", "La mente también se cuida", "El impacto emocional del cáncer en la persona y en su familia: miedo, ansiedad y depresión, miedo a la recaída, hablar con los hijos, imagen corporal, duelo y dónde pedir ayuda psicológica."),
         ("personajes", "Personajes", "Las personas detrás de la oncología", "Médicos, científicos y pacientes que cambiaron la historia del cáncer, de Percivall Pott a la inmunoterapia."),
         ("investigacion", "Investigación", "La investigación, con contexto", "Ensayos clínicos, medicina de precisión, nuevos fármacos y cómo leer una noticia sobre cáncer sin falsas esperanzas ni alarmas."),
         ("preguntas-frecuentes", "Preguntas frecuentes", "Preguntas frecuentes", "Respuestas cortas y claras a las dudas y los mitos más habituales sobre el cáncer."),
@@ -33,7 +34,8 @@ SECTIONS = {
         ("diagnosis", "Diagnosis", "From symptom to report", "Biopsy and pathology, imaging, stage and grade, biomarkers, tumour markers and assessing inherited risk."),
         ("treatments", "Treatments", "The tools against cancer", "Surgery, radiotherapy, chemotherapy, hormone therapy, targeted therapy, immunotherapy, transplantation and palliative care: what each one is for and what to expect."),
         ("prevention-and-screening", "Prevention and screening", "Prevent and detect early", "The European Code Against Cancer, tobacco, alcohol and sun, vaccines, screening programmes and the symptoms you should not ignore."),
-        ("living-with-cancer", "Living with cancer", "During and after treatment", "Side effects, diet and exercise, emotional support, fertility, work and rights, and life as a long-term survivor."),
+        ("living-with-cancer", "Living with cancer", "During and after treatment", "Practical guides for patients and families: reading the report, the first appointment, when to call your team, pain and symptoms, sexuality, carers, shared decisions, work and rights."),
+        ("psycho-oncology", "Psycho-oncology", "Caring for the mind too", "The emotional impact of cancer on the person and their family: fear, anxiety and depression, fear of recurrence, talking to children, body image, grief and where to get psychological help."),
         ("people", "People", "The people behind oncology", "Doctors, scientists and patients who changed the history of cancer, from Percivall Pott to immunotherapy."),
         ("research", "Research", "Research, in context", "Clinical trials, precision medicine, new drugs and how to read cancer news without false hope or alarm."),
         ("faq", "FAQ", "Frequently asked questions", "Short, clear answers to the most common questions and myths about cancer."),
@@ -166,8 +168,8 @@ def page(lang, path, title, desc, body, *, ldtype="WebPage", extra_ld=None, full
 <meta name="theme-color" content="#123746">
 {rss}
 <link rel="icon" href="{r}assets/favicon.svg" type="image/svg+xml">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:opsz,wght@8..60,600&display=swap">
+<link rel="preload" href="{r}assets/fonts/SourceSans3-400-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="{r}assets/fonts/fonts.css?v={V}">
 <link rel="stylesheet" href="{r}assets/site.css?v={V}">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 </head>
@@ -295,6 +297,8 @@ def load_section(lang, slug):
             meta["num"] = str(int(mm.group(1))) if mm else fn[:-3]
             meta["body"] = body
             items.append(meta)
+    # «orden» permite colocar una ficha nueva junto a las relacionadas sin renumerar archivos
+    items.sort(key=lambda m: float(m.get("orden") or (m["num"] if m["num"].isdigit() else 0)))
     return items
 
 
@@ -367,6 +371,8 @@ def glos_link(h, lang, maxn=14):
 
 
 AUTHOR_PATH = {"es": "quien-esta-detras/", "en": "en/about/"}
+EDIT_PATH = {"es": "enfoque-editorial/#procedimiento", "en": "editorial-approach/#procedure"}
+PUBLISHED = "2026-11-24"
 
 
 def AUTHOR_LD(lang):
@@ -394,7 +400,8 @@ def add_toc(h, lang, minimum=6):
         return f'<h2 id="{sid}">{m.group(1)}</h2>'
     h = re.sub(r"<h2>(.*?)</h2>", rep, h)
     lab = "En esta página" if lang == "es" else "On this page"
-    toc = f'<nav class="toc" aria-label="{lab}"><p class="toc-t">{lab}</p><ul>' + "".join(f'<li><a href="#{i}">{x}</a></li>' for i, x in items) + "</ul></nav>"
+    toc = (f'<nav class="toc" aria-label="{lab}"><details open><summary class="toc-t">{lab} <small>· {len(items)} {"apartados" if lang == "es" else "sections"}</small></summary><ul>'
+           + "".join(f'<li><a href="#{i}">{x}</a></li>' for i, x in items) + "</ul></details></nav>")
     return h, toc
 
 
@@ -432,14 +439,19 @@ def article_page(lang, sec, item, siblings, search):
     sibs = [s for s in siblings if s["slug"] != item["slug"] and (not item.get("grupo") or s.get("grupo") == item["grupo"])]
     sib = "".join(f'<li><a href="{base}{sec[0]}/{s["slug"]}/">{esc(s["title"])}</a></li>' for s in sibs)
     crumbs = f'<nav class="crumbs" aria-label="breadcrumb"><a href="{base}">{t["home"]}</a> › <a href="{base}{sec[0]}/">{esc(sec[1])}</a></nav>'
+    rev = item.get("revisado", PUBLISHED)
+    revline = (f' · {"Revisión clínica" if lang == "es" else "Clinical review"}: {esc(item["revisor"])}' if item.get("revisor") else "") + \
+              (f' · {"Contenido clínico revisado" if lang == "es" else "Clinical content reviewed"}: {rev}' if item.get("health") == "si" else "")
     body = f"""<header class="phead wrap">{crumbs}<span class="eyebrow">{esc(sec[1])}</span><h1>{esc(item['title'])}</h1><p class="lead">{esc(item['desc'])}</p></header>
-<div class="wrap article{' has-ficha' if ficha else ''}"><article class="prose">{disc}{hero}{toc}{body_html}<p class="meta"><a href="{base}{AUTHOR_PATH[lang].replace('en/', '', 1)}">{t['by']}</a> · {t['upd']}: {item.get('updated', TODAY)} · {t['err']} <a href="mailto:{MAIL}">{MAIL}</a></p></article>
+<div class="wrap article{' has-ficha' if ficha else ''}"><article class="prose">{disc}{hero}{toc}{body_html}<p class="meta"><a href="{base}{AUTHOR_PATH[lang].replace('en/', '', 1)}">{t['by']}</a>{revline} · {t['upd']}: {item.get('updated', TODAY)} · <a href="{base}{EDIT_PATH[lang]}">{"Cómo revisamos" if lang == "es" else "How we review"}</a> · {t['err']} <a href="mailto:{MAIL}">{MAIL}</a></p></article>
 <aside class="aside">{ficha}<div class="box"><h4>{t['more']}: {esc(item.get('grupo') or sec[1])}</h4><ul>{sib}</ul></div></aside></div>"""
     body = body.replace("@@R@@", r)
     ldtype = "MedicalWebPage" if item.get("health") == "si" else "Article"
-    extra = {"headline": item["title"], "author": AUTHOR_LD(lang), "datePublished": item.get("published", TODAY), "dateModified": item.get("updated", TODAY)}
+    extra = {"headline": item["title"], "author": AUTHOR_LD(lang), "datePublished": item.get("published", PUBLISHED), "dateModified": item.get("updated", TODAY)}
     if ldtype == "MedicalWebPage":
-        extra["lastReviewed"] = item.get("updated", TODAY)
+        extra["lastReviewed"] = item.get("revisado", PUBLISHED)
+        if item.get("revisor"):
+            extra["reviewedBy"] = {"@type": "Person", "name": item["revisor"]}
     write(path, page(lang, path, item["title"], item["desc"], body, ldtype=ldtype, extra_ld=extra, og_type="article", alt=item.get("alt")))
     search.append({"t": item["title"], "d": item["desc"], "u": path[len(lp):], "k": sec[1], "n": strip_tags(body_html.replace("@@R@@", ""))[:600]})
 
@@ -461,12 +473,13 @@ def section_index(lang, sec, items, search):
     def card(i, it):
         return f'<a class="card{" person" if it.get("vida") else ""}" href="./{it["slug"]}/">{thumb(it)}<span class="num">{i:02d}</span>{sub(it)}<h3>{esc(it["title"])}</h3><p>{esc(it["desc"])}</p><span class="more">{t["read"]}</span></a>'
     if any(it.get("grupo") for it in items):
-        groups = []
+        groups, gi = [], {}
         for i, it in enumerate(items, 1):
             g = it.get("grupo", "")
-            if not groups or groups[-1][0] != g:
+            if g not in gi:
+                gi[g] = len(groups)
                 groups.append((g, []))
-            groups[-1][1].append(card(i, it))
+            groups[gi[g]][1].append(card(i, it))
         gid = lambda g: "g-" + re.sub(r"[^a-z0-9]+", "-", g.lower().translate(str.maketrans("áéíóúñü", "aeiounu"))).strip("-")
         chips = "".join(f'<a class="gchip" href="#{gid(g)}">{esc(g)} <small>{len(c)}</small></a>' for g, c in groups)
         grids = "".join(f'<h2 class="ghead" id="{gid(g)}">{esc(g)}</h2><div class="grid">{"".join(c)}</div>' for g, c in groups)

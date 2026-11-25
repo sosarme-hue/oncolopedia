@@ -2,12 +2,14 @@
 title: Cáncer de vejiga
 desc: Uno de los cánceres más frecuentes en España, sobre todo en hombres y fumadores. La sangre en la orina, aunque sea una sola vez, es su señal principal. La mayoría se detectan sin invadir el músculo y no ponen en peligro la vida, aunque recaen a menudo.
 health: si
+orden: 34.1
 grupo: Urológicos y suprarrenales
 img: t-cancer-de-vejiga-y-rinon.jpg
 img_alt: Carcinoma urotelial de vejiga al microscopio
 img_pie: Carcinoma urotelial que invade el músculo de la vejiga.
 medicapedia: cancer-de-vejiga
 updated: 2026-11-25
+revisado: 2026-11-25
 published: 2026-11-25
 ---
 ## En resumen

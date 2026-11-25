@@ -8,6 +8,7 @@ img_alt: Linfoma de Hodgkin al microscopio
 img_pie: Linfoma de Hodgkin al microscopio.
 medicapedia: enfermedad-de-hodgkin
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

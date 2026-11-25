@@ -8,6 +8,7 @@ img_alt: Urothelial bladder carcinoma under the microscope
 img_pie: Urothelial bladder carcinoma under the microscope.
 medicapedia: cancer-de-vejiga
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 <div class="note"><b>This page compares the two cancers.</b> For full information on each, see the main pages: <a href="../bladder-cancer/">Bladder cancer</a> and <a href="../kidney-cancer/">Kidney cancer</a>.</div>
 

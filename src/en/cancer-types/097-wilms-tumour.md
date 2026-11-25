@@ -8,6 +8,7 @@ img_alt: Wilms tumour under the microscope
 img_pie: Wilms tumour under the microscope.
 medicapedia: tumor-de-wilms
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

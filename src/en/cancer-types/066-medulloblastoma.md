@@ -8,6 +8,7 @@ img_alt: Medulloblastoma under the microscope
 img_pie: Medulloblastoma under the microscope.
 medicapedia: meduloblastoma
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

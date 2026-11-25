@@ -8,6 +8,7 @@ img_alt: Gastrointestinal stromal tumour (GIST): special staining under the micr
 img_pie: Gastrointestinal stromal tumour (GIST): special staining under the microscope.
 medicapedia: tumor-del-estroma-gastrointestinal
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

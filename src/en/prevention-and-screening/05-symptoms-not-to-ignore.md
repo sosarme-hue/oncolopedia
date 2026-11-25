@@ -3,6 +3,7 @@ title: Symptoms not to ignore
 desc: Which symptoms need help straight away, which to get checked soon even if they happened only once, and which only if they persist. Most are not caused by cancer.
 health: si
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## Not every symptom can wait
 

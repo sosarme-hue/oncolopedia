@@ -8,6 +8,7 @@ img_alt: Burkitt lymphoma under the microscope
 img_pie: Burkitt lymphoma under the microscope.
 medicapedia: linfoma-de-burkitt
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

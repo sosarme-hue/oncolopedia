@@ -8,6 +8,7 @@ img_alt: Cáncer de mama al microscopio
 img_pie: Cáncer de mama al microscopio.
 medicapedia: cancer-de-mama
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

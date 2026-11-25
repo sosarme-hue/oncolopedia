@@ -3,6 +3,7 @@ title: Cancer screening
 desc: Breast, bowel and cervical screening programmes: who they are for, how often, and what their benefits and limits are. Lung screening is spreading too.
 health: si
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## What screening is
 

@@ -2,9 +2,6 @@
 import html, json, os, re, runpy, unicodedata
 from email.utils import format_datetime
 from datetime import datetime, timezone
-import sys as _sys
-_sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "tools"))
-from atlas_map import match as atlas_match
 
 esc = html.escape
 
@@ -233,6 +230,7 @@ def build(lang, g, allsec, search):
     # ---------- atlas ----------
     AT = json.load(open(os.path.join(SRC, "atlas.json"), encoding="utf-8"))
     PR = json.load(open(os.path.join(SRC, "profiles.json"), encoding="utf-8"))
+    AFICHA = json.load(open(os.path.join(SRC, "atlas_fichas.json"), encoding="utf-8"))  # entidad -> ficha, revisada a mano
     sec0 = SECTIONS[lang][0][0]
     PMAP = {  # perfil -> número de ficha en tipos de cáncer
         'breast': '1', 'lung': '15', 'digestive': '21', 'prostate': '33', 'skin': '41', 'pancreas': '28', 'liver': '30', 'urinary': '34', 'gynecology': '7', 'leukemia': '68', 'lymphoma': '77', 'pediatric': '95', 'cns': '59', 'headneck': '47', 'endocrine': '54', 'soft': '87', 'bone': '87', 'testis': '37'}
@@ -249,7 +247,7 @@ def build(lang, g, allsec, search):
         art = bynum.get(PMAP.get(k, ""))
         link = f'<a class="btn primary" href="../{sec0}/{art["slug"]}/">{lab[4]}: {esc(art["title"])} →</a> ' if art else ""
         def ali(x):
-            fa = bynum.get(atlas_match(x["es"]) or "")
+            fa = bynum.get(AFICHA.get(x["id"], ""))
             fl = f' <a class="alink" href="../{sec0}/{fa["slug"]}/">{"Ficha" if lang == "es" else "Fact sheet"}: {esc(fa["title"])} →</a>' if fa else ""
             return f'<li id="{esc(x["id"])}" data-s="{esc(slugify(x["es"] + " " + x["en"]))}"><b>{esc(x[lang])}</b><span class="meta"> · {esc(x["en" if lang == "es" else "es"])}</span>{fl}</li>'
         lis = "".join(ali(x) for x in ents)

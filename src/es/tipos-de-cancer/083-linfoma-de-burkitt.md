@@ -8,6 +8,7 @@ img_alt: Linfoma de Burkitt al microscopio
 img_pie: Linfoma de Burkitt al microscopio.
 medicapedia: linfoma-de-burkitt
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

@@ -2,9 +2,11 @@
 title: Cáncer de riñón
 desc: Más de la mitad se descubren por casualidad en una ecografía o un TAC. Los tumores pequeños se tratan a menudo quitando solo parte del riñón, y en la enfermedad avanzada la inmunoterapia ha alargado la supervivencia de muchos pacientes.
 health: si
+orden: 34.2
 grupo: Urológicos y suprarrenales
 medicapedia: carcinoma-renal
 updated: 2026-11-25
+revisado: 2026-11-25
 published: 2026-11-25
 ---
 ## En resumen

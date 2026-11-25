@@ -8,6 +8,7 @@ img_alt: Carcinoma epidermoide cutáneo al microscopio
 img_pie: Carcinoma epidermoide cutáneo al microscopio.
 medicapedia: carcinoma-espinocelular
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

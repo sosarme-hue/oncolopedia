@@ -8,6 +8,7 @@ img_alt: Blood smear in acute leukaemia
 img_pie: Blood smear in acute leukaemia.
 medicapedia: leucemia
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

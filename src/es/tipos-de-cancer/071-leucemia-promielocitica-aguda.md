@@ -8,6 +8,7 @@ img_alt: Leucemia promielocítica aguda: frotis de sangre al microscopio
 img_pie: Leucemia promielocítica aguda: frotis de sangre al microscopio.
 medicapedia: leucemia-promielocitica-aguda
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

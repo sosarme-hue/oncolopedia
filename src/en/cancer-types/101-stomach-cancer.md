@@ -2,12 +2,14 @@
 title: Stomach cancer
 desc: A cancer that has fallen sharply in Europe but remains common worldwide. Helicobacter pylori is its main avoidable cause; in localised tumours, chemotherapy before and after surgery improves the outlook.
 health: si
+orden: 20.1
 grupo: Digestive system
 img: t-cancer-de-estomago-y-esofago.jpg
 img_alt: Gastric adenocarcinoma under the microscope
 img_pie: Gastric adenocarcinoma under the microscope.
 medicapedia: cancer-de-estomago
 updated: 2026-11-25
+revisado: 2026-11-25
 published: 2026-11-25
 ---
 ## At a glance

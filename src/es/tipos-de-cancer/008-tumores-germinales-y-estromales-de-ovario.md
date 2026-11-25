@@ -8,6 +8,7 @@ img_alt: Tumores germinales y estromales de ovario al microscopio
 img_pie: Tumores germinales y estromales de ovario al microscopio.
 medicapedia: tumor-de-celulas-germinales
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

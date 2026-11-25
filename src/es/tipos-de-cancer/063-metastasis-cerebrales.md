@@ -8,6 +8,7 @@ img_alt: Resonancia magnética cerebral con metástasis
 img_pie: Resonancia magnética cerebral con metástasis.
 medicapedia: metastasis-cerebral
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

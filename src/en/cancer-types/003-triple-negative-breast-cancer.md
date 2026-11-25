@@ -8,6 +8,7 @@ img_alt: Triple-negative breast cancer under the microscope
 img_pie: Triple-negative breast cancer under the microscope.
 medicapedia: cancer-de-mama-triple-negativo
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

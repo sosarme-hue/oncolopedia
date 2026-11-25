@@ -8,6 +8,7 @@ img_alt: Linfoma difuso de células B grandes al microscopio
 img_pie: Linfoma difuso de células B grandes al microscopio.
 medicapedia: linfoma-difuso-de-celulas-b-grandes
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

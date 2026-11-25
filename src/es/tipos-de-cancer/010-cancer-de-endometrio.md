@@ -8,6 +8,7 @@ img_alt: Cáncer de endometrio al microscopio
 img_pie: Cáncer de endometrio al microscopio.
 medicapedia: cancer-de-endometrio
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

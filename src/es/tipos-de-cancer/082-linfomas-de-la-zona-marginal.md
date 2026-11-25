@@ -8,6 +8,7 @@ img_alt: Linfomas de la zona marginal al microscopio
 img_pie: Linfomas de la zona marginal al microscopio.
 medicapedia: linfoma-malt
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

@@ -8,6 +8,7 @@ img_alt: Adenocarcinoma gástrico al microscopio
 img_pie: Adenocarcinoma gástrico al microscopio.
 medicapedia: cancer-de-estomago
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 <div class="note"><b>Esta página compara los dos cánceres.</b> Para la información completa de cada uno, consulta las fichas principales: <a href="../cancer-de-estomago/">Cáncer de estómago</a> y <a href="../cancer-de-esofago/">Cáncer de esófago</a>.</div>
 

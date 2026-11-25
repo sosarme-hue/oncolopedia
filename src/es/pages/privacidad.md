@@ -3,11 +3,13 @@ title: Privacidad
 desc: Qué datos se tratan cuando visitas Oncolopedia.
 eyebrow: Proyecto
 ---
-Oncolopedia **no utiliza cookies de seguimiento ni guarda datos personales**. Las búsquedas y las respuestas al quiz se procesan solo en tu navegador: no se envían a ningún servidor ni se almacenan.
+Oncolopedia **no usa cookies, ni herramientas de estadísticas, ni publicidad, y no recoge datos personales a través de formularios ni cuentas**. Las búsquedas y las respuestas al quiz se procesan solo en tu navegador: no se envían a ningún servidor ni se guardan.
 
-Las tipografías se cargan desde Google Fonts, que puede registrar tu dirección IP según su propia política de privacidad.
+Las tipografías y todos los demás archivos se sirven desde el propio dominio, sin llamadas a servicios de terceros.
 
-El servidor de alojamiento (Hostinger) puede registrar datos técnicos de las visitas, como la dirección IP, por motivos de seguridad y funcionamiento.
+Hay una excepción técnica que no depende de nosotros: como en cualquier web, el **servidor de alojamiento (Hostinger)** registra automáticamente algunos datos de cada visita, como la dirección IP, la fecha y la página solicitada, por motivos de seguridad y funcionamiento. No usamos esos registros para identificarte ni para elaborar perfiles.
+
+Si nos escribes por correo electrónico, usaremos tu dirección y tu mensaje solo para responderte.
 
 Si en el futuro añadimos estadísticas de visitas o publicidad, se activarán solo con tu consentimiento y lo explicaremos aquí.
 

@@ -8,6 +8,7 @@ img_alt: Acute promyelocytic leukaemia: blood smear under the microscope
 img_pie: Acute promyelocytic leukaemia: blood smear under the microscope.
 medicapedia: leucemia-promielocitica-aguda
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## At a glance
 

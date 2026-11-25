@@ -8,6 +8,7 @@ img_alt: Carcinoma basocelular al microscopio
 img_pie: Carcinoma basocelular al microscopio.
 medicapedia: basalioma
 updated: 2026-11-25
+revisado: 2026-11-25
 ---
 ## En resumen
 

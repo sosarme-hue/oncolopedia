@@ -2,12 +2,14 @@
 title: Cáncer de estómago
 desc: Un cáncer que ha bajado mucho en Europa pero sigue siendo frecuente en el mundo. El Helicobacter pylori es su gran causa evitable; en tumores localizados, la quimioterapia antes y después de la cirugía mejora el pronóstico.
 health: si
+orden: 20.1
 grupo: Aparato digestivo
 img: t-cancer-de-estomago-y-esofago.jpg
 img_alt: Adenocarcinoma gástrico al microscopio
 img_pie: Adenocarcinoma gástrico al microscopio.
 medicapedia: cancer-de-estomago
 updated: 2026-11-25
+revisado: 2026-11-25
 published: 2026-11-25
 ---
 ## En resumen

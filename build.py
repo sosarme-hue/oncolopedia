@@ -128,7 +128,7 @@ def page(lang, path, title, desc, body, *, ldtype="WebPage", extra_ld=None, full
             alt = ("en/" + PAIR[rel]) if rel in PAIR else None
             seg = PAIR.get(rel, "").strip("/").split("/")[0]
             proj = [u for u, _ in PROJECT["en"]]
-            if alt and seg and seg not in avail("en") and seg not in proj:
+            if alt and seg and seg not in avail("en") and seg not in proj and seg != "topics":
                 alt = None
         else:
             inv = {v: k for k, v in PAIR.items()}

@@ -1,6 +1,9 @@
 ---
 title: Pain and other symptoms
 desc: Pain, tiredness, loss of appetite or insomnia can be relieved. What supportive care is, how cancer pain is treated and which myths get in the way of treating it well.
+img: a-dolor-y-otros-sintomas.jpg
+img_alt: A nurse with a cancer patient
+img_pie: A nurse with a cancer patient.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

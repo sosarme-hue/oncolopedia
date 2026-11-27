@@ -1,6 +1,9 @@
 ---
 title: Dolor y otros síntomas
 desc: El dolor, el cansancio, la falta de apetito o el insomnio se pueden aliviar. Qué son los cuidados de soporte, cómo se trata el dolor oncológico y qué mitos impiden tratarlo bien.
+img: a-dolor-y-otros-sintomas.jpg
+img_alt: Enfermera junto a un paciente con cáncer
+img_pie: Enfermera junto a un paciente con cáncer.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

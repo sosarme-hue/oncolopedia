@@ -7,6 +7,7 @@ img: t-cancer-de-cabeza-y-cuello.jpg
 img_alt: Cáncer de cabeza y cuello al microscopio
 img_pie: Cáncer de cabeza y cuello al microscopio.
 medicapedia: cancer-de-cabeza-y-cuello
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -93,3 +94,10 @@ Ver también: [Cáncer de boca](../cancer-de-boca/), [Cáncer de laringe](../can
 3. Uppaluri R, et al. Neoadjuvant and adjuvant pembrolizumab in locally advanced head and neck cancer (KEYNOTE-689). *N Engl J Med*. 2025.
 4. Ang KK, et al. Human papillomavirus and survival of patients with oropharyngeal cancer. *N Engl J Med*. 2010;363:24-35. [doi:10.1056/NEJMoa0912217](https://doi.org/10.1056/NEJMoa0912217)
 5. Bray F, et al. Global cancer statistics 2022: GLOBOCAN. *CA Cancer J Clin*. 2024;74:229-263. [doi:10.3322/caac.21834](https://doi.org/10.3322/caac.21834)
+
+**Guías y documentos recientes (2024-2026)**
+
+6. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+7. NCCN Guidelines Insights: Head and Neck Cancers, version 2.2025. *J Natl Compr Canc Netw*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39938471/)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

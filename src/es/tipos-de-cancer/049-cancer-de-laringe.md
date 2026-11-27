@@ -7,7 +7,7 @@ img: t-cancer-de-laringe.jpg
 img_alt: Tumor de laringe visto por laringoscopia
 img_pie: Tumor de laringe visto por laringoscopia.
 medicapedia: cancer-de-laringe
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -49,3 +49,10 @@ Ver también: [Cáncer de cabeza y cuello](../cancer-de-cabeza-y-cuello/), [Taba
 1. Machiels JP, et al. EHNS-ESMO-ESTRO Clinical Practice Guidelines (oral cavity, larynx, oropharynx, hypopharynx). *Ann Oncol*. 2020;31:1462-1475. [doi:10.1016/j.annonc.2020.07.011](https://doi.org/10.1016/j.annonc.2020.07.011)
 2. Forastiere AA, et al. Concurrent chemotherapy and radiotherapy for organ preservation in advanced laryngeal cancer (RTOG 91-11). *N Engl J Med*. 2003;349:2091-2098. [doi:10.1056/NEJMoa031317](https://doi.org/10.1056/NEJMoa031317)
 3. NCI. Cáncer de laringe (PDQ). [cancer.gov/espanol/tipos/cabeza-cuello](https://www.cancer.gov/espanol/tipos/cabeza-cuello)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. NCCN Guidelines Insights: Head and Neck Cancers, version 2.2025. *J Natl Compr Canc Netw*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39938471/)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

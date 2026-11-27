@@ -8,7 +8,7 @@ img: t-cancer-de-estomago-y-esofago.jpg
 img_alt: Adenocarcinoma gástrico al microscopio
 img_pie: Adenocarcinoma gástrico al microscopio.
 medicapedia: cancer-de-estomago
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 published: 2026-11-25
 ---
@@ -113,3 +113,11 @@ Ver también: [Cáncer de esófago](../cancer-de-esofago/), [Tumor del estroma g
 4. De Angelis R, et al. Cancer survival in Europe 1999-2007 by country and age: results of EUROCARE-5. *Lancet Oncol*. 2014;15:23-34. [doi:10.1016/S1470-2045(13)70546-1](https://doi.org/10.1016/S1470-2045(13)70546-1)
 5. Bray F, et al. Global cancer statistics 2022: GLOBOCAN. *CA Cancer J Clin*. 2024;74:229-263. [doi:10.3322/caac.21834](https://doi.org/10.3322/caac.21834)
 6. SEOM y REDECAN. Las cifras del cáncer en España 2025. [seom.org](https://www.seom.org/images/LAS_CIFRAS_DMC2025.pdf)
+
+**Guías y documentos recientes (2024-2026)**
+
+7. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+8. Al-Batran SE, et al., on behalf of the ESMO Guidelines Committee. Gastric and oesophageal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2026. [esmo.org](https://esmo.org/guidelines/gastrointestinal-cancers/gastric-cancer)
+9. Immunotherapy and targeted therapy for advanced gastroesophageal cancer: ASCO guideline update. *J Clin Oncol*. 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41747202/)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

@@ -7,6 +7,7 @@ img: t-timoma-y-carcinoma-timico.jpg
 img_alt: Thymoma and thymic carcinoma under the microscope
 img_pie: Thymoma and thymic carcinoma under the microscope.
 medicapedia: timoma
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -48,3 +49,9 @@ See also: [Mesothelioma](../mesothelioma/), [Lung carcinoid tumours](../lung-car
 1. Girard N, et al. Thymic epithelial tumours: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2015;26(Suppl 5):v40-v55. [doi:10.1093/annonc/mdv277](https://doi.org/10.1093/annonc/mdv277)
 2. NCI. Thymoma and thymic carcinoma treatment (PDQ). [cancer.gov/types/thymoma](https://www.cancer.gov/types/thymoma)
 3. International Thymic Malignancy Interest Group (ITMIG). [itmig.org](https://www.itmig.org)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

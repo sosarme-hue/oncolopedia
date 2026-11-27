@@ -7,7 +7,7 @@ img: t-metastasis-cerebrales.jpg
 img_alt: Brain MRI showing metastases
 img_pie: Brain MRI showing metastases.
 medicapedia: metastasis-cerebral
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -40,3 +40,9 @@ See also: [Brain tumours](../brain-tumours/), [Lung cancer](../lung-cancer/), [H
 
 1. Le Rhun E, et al. EANO-ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up of patients with brain metastasis from solid tumours. *Ann Oncol*. 2021;32:1332-1347.
 2. Brown PD, et al. Hippocampal avoidance during whole-brain radiotherapy plus memantine for patients with brain metastases (NRG CC001). *J Clin Oncol*. 2020;38:1019-1029. [doi:10.1200/JCO.19.02767](https://doi.org/10.1200/JCO.19.02767)
+
+**Recent guidelines and documents (2024-2026)**
+
+3. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

@@ -7,6 +7,7 @@ img_pie: Well-differentiated pancreatic neuroendocrine tumour under the microsco
 health: si
 grupo: Digestive system
 medicapedia: islet-cell-carcinoma
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -55,3 +56,9 @@ See also: [Pancreatic cancer](../pancreatic-cancer/), [Gastrointestinal neuroend
 2. Raymond E, et al. Sunitinib malate for the treatment of pancreatic neuroendocrine tumors. *N Engl J Med*. 2011;364:501-513. [doi:10.1056/NEJMoa1003825](https://doi.org/10.1056/NEJMoa1003825)
 3. Yao JC, et al. Everolimus for advanced pancreatic neuroendocrine tumors (RADIANT-3). *N Engl J Med*. 2011;364:514-523. [doi:10.1056/NEJMoa1009290](https://doi.org/10.1056/NEJMoa1009290)
 4. Chan JA, et al. Phase 3 trial of cabozantinib to treat advanced neuroendocrine tumors (CABINET). *N Engl J Med*. 2025.
+
+**Recent guidelines and documents (2024-2026)**
+
+5. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

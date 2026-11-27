@@ -7,6 +7,7 @@ img: t-neuroblastoma.jpg
 img_alt: Neuroblastoma al microscopio
 img_pie: Neuroblastoma al microscopio.
 medicapedia: neuroblastoma
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -39,3 +40,10 @@ Ver también: [Cáncer infantil](../cancer-infantil/), [Tumor de Wilms](../tumor
 1. Matthay KK, et al. Neuroblastoma. *Nat Rev Dis Primers*. 2016;2:16078. [doi:10.1038/nrdp.2016.78](https://doi.org/10.1038/nrdp.2016.78)
 2. Yu AL, et al. Anti-GD2 antibody with GM-CSF, interleukin-2, and isotretinoin for neuroblastoma. *N Engl J Med*. 2010;363:1324-1334. [doi:10.1056/NEJMoa0911123](https://doi.org/10.1056/NEJMoa0911123)
 3. Ladenstein R, et al. Interleukin 2 with anti-GD2 antibody ch14.18/CHO (dinutuximab beta) in high-risk neuroblastoma (HR-NBL1/SIOPEN). *Lancet Oncol*. 2018;19:1617-1629.30578-3)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. SIOP Europe y Childhood Cancer International Europe. European Standards of Care for Children and Adolescents with Cancer 2025. Viena; 2025. [ccieurope.eu](https://ccieurope.eu/wp-content/uploads/2025/09/European-Standards-of-Care-for-Children-and-Adolescents-with-Cancer-2025.pdf)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

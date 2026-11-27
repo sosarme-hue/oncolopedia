@@ -7,7 +7,7 @@ img: t-tumor-de-wilms.jpg
 img_alt: Wilms tumour under the microscope
 img_pie: Wilms tumour under the microscope.
 medicapedia: tumor-de-wilms
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -35,3 +35,10 @@ See also: [Childhood cancer](../childhood-cancer/), [Neuroblastoma](../neuroblas
 
 1. van den Heuvel-Eibrink MM, et al. Position paper: rationale for the treatment of Wilms tumour in the UMBRELLA SIOP-RTSG 2016 protocol. *Nat Rev Urol*. 2017;14:743-752.
 2. NCI. Wilms tumor and other childhood kidney tumors treatment (PDQ). [cancer.gov/types/kidney](https://www.cancer.gov/types/kidney)
+
+**Recent guidelines and documents (2024-2026)**
+
+3. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+4. SIOP Europe and Childhood Cancer International Europe. European Standards of Care for Children and Adolescents with Cancer 2025. Vienna; 2025. [ccieurope.eu](https://ccieurope.eu/wp-content/uploads/2025/09/European-Standards-of-Care-for-Children-and-Adolescents-with-Cancer-2025.pdf)
+
+*Sources reviewed and updated in November 2026.*

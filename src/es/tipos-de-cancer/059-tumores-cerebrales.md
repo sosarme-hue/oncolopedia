@@ -7,6 +7,7 @@ img: t-tumores-cerebrales.jpg
 img_alt: Resonancia magnética de un tumor cerebral
 img_pie: Resonancia magnética de un tumor cerebral.
 medicapedia: tumor-cerebral
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -91,3 +92,10 @@ Ver también: [Glioblastoma](../glioblastoma/), [Meningioma](../meningioma/), [M
 3. Mellinghoff IK, et al. Vorasidenib in IDH1- or IDH2-mutant low-grade glioma (INDIGO). *N Engl J Med*. 2023;389:589-601. [doi:10.1056/NEJMoa2304194](https://doi.org/10.1056/NEJMoa2304194)
 4. Karipidis K, et al. The effect of exposure to radiofrequency fields on cancer risk in the general and working population: a systematic review. *Environ Int*. 2024;191:108983.
 5. Grupo Español de Investigación en Neurooncología (GEINO). [geino.es](https://www.geino.es)
+
+**Guías y documentos recientes (2024-2026)**
+
+6. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+7. EANO guideline on molecular testing of gliomas, glioneuronal, and neuronal tumors in adults: update 1. *Neuro Oncol*. 2025;27:331-337. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39387386/)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

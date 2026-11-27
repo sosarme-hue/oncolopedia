@@ -7,6 +7,7 @@ img: t-melanoma-uveal.jpg
 img_alt: Melanoma del iris, una forma de melanoma uveal
 img_pie: Melanoma del iris, una forma de melanoma uveal.
 medicapedia: melanoma-uveal
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -43,3 +44,10 @@ Ver también: [Melanoma](../melanoma-y-cancer-de-piel/), [Retinoblastoma](../ret
 1. Nathan P, et al. Overall survival benefit with tebentafusp in metastatic uveal melanoma. *N Engl J Med*. 2021;385:1196-1206. [doi:10.1056/NEJMoa2103485](https://doi.org/10.1056/NEJMoa2103485)
 2. Collaborative Ocular Melanoma Study Group. The COMS randomized trial of iodine 125 brachytherapy for choroidal melanoma: V. Twelve-year mortality rates. *Arch Ophthalmol*. 2006;124:1684-1693.
 3. NCI. Melanoma intraocular (uveal) (PDQ). [cancer.gov/espanol/tipos/ojo](https://www.cancer.gov/espanol/tipos/ojo)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. Piperno-Neumann S, et al. Uveal melanoma: ESMO-EURACAN Clinical Practice Guideline for diagnosis, treatment and follow-up. *ESMO Open*. 2026;11:106888. [doi:10.1016/j.esmoop.2026.106888](https://doi.org/10.1016/j.esmoop.2026.106888)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

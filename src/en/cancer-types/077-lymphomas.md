@@ -7,7 +7,7 @@ img: t-linfomas.jpg
 img_alt: Lymphomas under the microscope
 img_pie: Lymphomas under the microscope.
 medicapedia: linfoma
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -96,3 +96,10 @@ See also: [Hodgkin lymphoma](../hodgkin-lymphoma/), [Diffuse large B-cell lympho
 1. Alaggio R, et al. The 5th edition of the World Health Organization Classification of Haematolymphoid Tumours: Lymphoid Neoplasms. *Leukemia*. 2022;36:1720-1748. [doi:10.1038/s41375-022-01620-2](https://doi.org/10.1038/s41375-022-01620-2)
 2. Cheson BD, et al. Recommendations for initial evaluation, staging, and response assessment of Hodgkin and non-Hodgkin lymphoma: the Lugano classification. *J Clin Oncol*. 2014;32:3059-3068. [doi:10.1200/JCO.2013.54.8800](https://doi.org/10.1200/JCO.2013.54.8800)
 3. Lymphoma Action. [lymphoma-action.org.uk](https://lymphoma-action.org.uk)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. ESMO Guidelines Committee. Lymphomas: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2025;36:1263-1284. [doi:10.1016/j.annonc.2025.07.014](https://doi.org/10.1016/j.annonc.2025.07.014)
+
+*Sources reviewed and updated in November 2026.*

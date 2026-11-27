@@ -6,6 +6,7 @@ grupo: Aparato digestivo
 img: t-cancer-de-recto.jpg
 img_alt: Cáncer de recto al microscopio
 img_pie: Cáncer de recto al microscopio.
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -65,3 +66,10 @@ Ver también: [Cáncer colorrectal](../cancer-colorrectal/), [Cáncer de ano](..
 3. Garcia-Aguilar J, et al. Organ preservation in patients with rectal adenocarcinoma treated with total neoadjuvant therapy (OPRA). *J Clin Oncol*. 2022;40:2546-2556. [doi:10.1200/JCO.22.00032](https://doi.org/10.1200/JCO.22.00032)
 4. Cercek A, et al. PD-1 blockade in mismatch repair-deficient, locally advanced rectal cancer. *N Engl J Med*. 2022;386:2363-2376. [doi:10.1056/NEJMoa2201445](https://doi.org/10.1056/NEJMoa2201445)
 5. Heald RJ, Husband EM, Ryall RD. The mesorectum in rectal cancer surgery: the clue to pelvic recurrence? *Br J Surg*. 1982;69:613-616. [doi:10.1002/bjs.1800691019](https://doi.org/10.1002/bjs.1800691019)
+
+**Guías y documentos recientes (2024-2026)**
+
+6. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+7. Cremolini C, et al., on behalf of the ESMO Guidelines Committee. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2026;37:759-776. [annalsofoncology.org](https://www.annalsofoncology.org/article/S0923-7534(26)00108-0/fulltext)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

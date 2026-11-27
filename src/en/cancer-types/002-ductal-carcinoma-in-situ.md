@@ -7,6 +7,7 @@ img: t-carcinoma-ductal-in-situ.jpg
 img_alt: Ductal carcinoma in situ under the microscope
 img_pie: Ductal carcinoma in situ under the microscope.
 medicapedia: carcinoma-ductal-in-situ
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -80,3 +81,9 @@ See also: [Breast cancer](../breast-cancer/), [Cancer screening](../../preventio
 2. Hwang ES, et al. Active monitoring with or without endocrine therapy for low-risk ductal carcinoma in situ: the COMET randomized clinical trial. *JAMA*. 2025.
 3. Loibl S, et al. Early breast cancer: ESMO Clinical Practice Guideline. *Ann Oncol*. 2024;35:159-182. [doi:10.1016/j.annonc.2023.11.016](https://doi.org/10.1016/j.annonc.2023.11.016)
 4. NCI. Ductal carcinoma in situ treatment (PDQ). [cancer.gov/types/breast](https://www.cancer.gov/types/breast/patient/breast-treatment-pdq)
+
+**Recent guidelines and documents (2024-2026)**
+
+5. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

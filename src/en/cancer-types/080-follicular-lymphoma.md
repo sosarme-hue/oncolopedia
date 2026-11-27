@@ -7,6 +7,7 @@ img: t-linfoma-folicular.jpg
 img_alt: Follicular lymphoma under the microscope
 img_pie: Follicular lymphoma under the microscope.
 medicapedia: linfoma-folicular
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -35,3 +36,10 @@ See also: [Lymphomas](../lymphomas/), [Marginal zone lymphomas](../marginal-zone
 
 1. Dreyling M, et al. Newly diagnosed and relapsed follicular lymphoma: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2021;32:298-308. [doi:10.1016/j.annonc.2020.11.008](https://doi.org/10.1016/j.annonc.2020.11.008)
 2. Budde LE, et al. Mosunetuzumab in relapsed or refractory follicular lymphoma. *Lancet Oncol*. 2022;23:1055-1065.00335-7)
+
+**Recent guidelines and documents (2024-2026)**
+
+3. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+4. ESMO Guidelines Committee. Lymphomas: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2025;36:1263-1284. [doi:10.1016/j.annonc.2025.07.014](https://doi.org/10.1016/j.annonc.2025.07.014)
+
+*Sources reviewed and updated in November 2026.*

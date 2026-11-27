@@ -7,6 +7,7 @@ img: t-metastasis-oseas.jpg
 img_alt: Femoral head with a bone metastasis (surgical specimen)
 img_pie: Femoral head with a bone metastasis (surgical specimen).
 medicapedia: metastasis-osea
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -44,3 +45,9 @@ See also: [Prostate cancer](../prostate-cancer/), [Breast cancer](../breast-canc
 1. Coleman R, et al. Bone health in cancer: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2020;31:1650-1663.
 2. Parker C, et al. Alpha emitter radium-223 and survival in metastatic prostate cancer (ALSYMPCA). *N Engl J Med*. 2013;369:213-223. [doi:10.1056/NEJMoa1213755](https://doi.org/10.1056/NEJMoa1213755)
 3. Hoskin PJ, et al. Effect of single-fraction vs multifraction radiotherapy on ambulatory status among patients with spinal canal compression from metastatic cancer (SCORAD III). *JAMA*. 2019;322:2084-2094. [doi:10.1001/jama.2019.17913](https://doi.org/10.1001/jama.2019.17913)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

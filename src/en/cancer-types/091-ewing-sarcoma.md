@@ -7,6 +7,7 @@ img: t-sarcoma-de-ewing.jpg
 img_alt: Ewing sarcoma under the microscope
 img_pie: Ewing sarcoma under the microscope.
 medicapedia: sarcoma-de-ewing
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -31,3 +32,9 @@ See also: [Osteosarcoma](../osteosarcoma/), [Sarcomas](../sarcomas/), [Childhood
 
 1. Strauss SJ, et al. Bone sarcomas: ESMO-EURACAN-GENTURIS-ERN PaedCan Clinical Practice Guideline. *Ann Oncol*. 2021;32:1520-1536.
 2. Grünewald TGP, et al. Ewing sarcoma. *Nat Rev Dis Primers*. 2018;4:5.
+
+**Recent guidelines and documents (2024-2026)**
+
+3. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

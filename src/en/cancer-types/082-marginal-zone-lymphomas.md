@@ -7,7 +7,7 @@ img: t-linfomas-de-la-zona-marginal.jpg
 img_alt: Marginal zone lymphomas under the microscope
 img_pie: Marginal zone lymphomas under the microscope.
 medicapedia: linfoma-malt
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -35,3 +35,10 @@ See also: [Lymphomas](../lymphomas/), [Follicular lymphoma](../follicular-lympho
 
 1. Zucca E, et al. Marginal zone lymphomas: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2020;31:17-29. [doi:10.1016/j.annonc.2019.10.010](https://doi.org/10.1016/j.annonc.2019.10.010)
 2. Wotherspoon AC, et al. Regression of primary low-grade B-cell gastric lymphoma of MALT type after eradication of Helicobacter pylori. *Lancet*. 1993;342:575-577. [doi:10.1016/0140-6736(93)91409-F](https://doi.org/10.1016/0140-6736(93)91409-F)
+
+**Recent guidelines and documents (2024-2026)**
+
+3. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+4. ESMO Guidelines Committee. Lymphomas: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2025;36:1263-1284. [doi:10.1016/j.annonc.2025.07.014](https://doi.org/10.1016/j.annonc.2025.07.014)
+
+*Sources reviewed and updated in November 2026.*

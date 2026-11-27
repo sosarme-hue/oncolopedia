@@ -7,6 +7,7 @@ img: t-cancer-de-higado.jpg
 img_alt: Cáncer de hígado al microscopio
 img_pie: Cáncer de hígado al microscopio.
 medicapedia: hepatocarcinoma
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -111,3 +112,10 @@ Ver también: [Colangiocarcinoma](../colangiocarcinoma/), [Hepatoblastoma](../he
 4. Abou-Alfa GK, et al. Tremelimumab plus durvalumab in unresectable hepatocellular carcinoma (HIMALAYA). *NEJM Evid*. 2022;1(8). [doi:10.1056/EVIDoa2100070](https://doi.org/10.1056/EVIDoa2100070)
 5. Mazzaferro V, et al. Liver transplantation for the treatment of small hepatocellular carcinomas in patients with cirrhosis. *N Engl J Med*. 1996;334:693-699. [doi:10.1056/NEJM199603143341104](https://doi.org/10.1056/NEJM199603143341104)
 6. Bray F, et al. Global cancer statistics 2022: GLOBOCAN. *CA Cancer J Clin*. 2024;74:229-263. [doi:10.3322/caac.21834](https://doi.org/10.3322/caac.21834)
+
+**Guías y documentos recientes (2024-2026)**
+
+7. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+8. Vogel A, et al. Hepatocellular carcinoma: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2025;36:491-506. [doi:10.1016/j.annonc.2025.02.006](https://doi.org/10.1016/j.annonc.2025.02.006)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

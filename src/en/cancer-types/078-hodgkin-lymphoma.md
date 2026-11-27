@@ -7,7 +7,7 @@ img: t-linfoma-de-hodgkin.jpg
 img_alt: Hodgkin lymphoma under the microscope
 img_pie: Hodgkin lymphoma under the microscope.
 medicapedia: enfermedad-de-hodgkin
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -42,3 +42,10 @@ See also: [Lymphomas](../lymphomas/), [Fertility and cancer](../../living-with-c
 1. Borchmann P, et al. Treatment-related morbidity and efficacy of BrECADD versus eBEACOPP in advanced Hodgkin lymphoma (HD21). *Lancet*. 2024;404:341-352.01315-1)
 2. Herrera AF, et al. Nivolumab+AVD in advanced-stage classic Hodgkin's lymphoma (S1826). *N Engl J Med*. 2024;391:1379-1389.
 3. Eichenauer DA, et al. Hodgkin lymphoma: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2018;29(Suppl 4):iv19-iv29.
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. ESMO Guidelines Committee. Lymphomas: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2025;36:1263-1284. [doi:10.1016/j.annonc.2025.07.014](https://doi.org/10.1016/j.annonc.2025.07.014)
+
+*Sources reviewed and updated in November 2026.*

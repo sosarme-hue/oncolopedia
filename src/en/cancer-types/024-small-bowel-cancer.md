@@ -7,6 +7,7 @@ img: t-cancer-de-intestino-delgado.jpg
 img_alt: Small intestine adenocarcinoma (surgical specimen)
 img_pie: Small intestine adenocarcinoma (surgical specimen).
 medicapedia: cancer-del-intestino-delgado
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -47,3 +48,9 @@ See also: [Colorectal cancer](../colorectal-cancer/), [Lymphomas](../lymphomas/)
 1. Locher C, et al. Small bowel adenocarcinoma: French intergroup clinical practice guidelines. *Dig Liver Dis*. 2018;50:15-19.
 2. NCI. Small intestine cancer treatment (PDQ). [cancer.gov/types/small-intestine](https://www.cancer.gov/types/small-intestine)
 3. NCCN. Small Bowel Adenocarcinoma guidelines. [nccn.org](https://www.nccn.org)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

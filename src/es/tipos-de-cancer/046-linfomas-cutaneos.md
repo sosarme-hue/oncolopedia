@@ -6,6 +6,7 @@ grupo: Piel
 img: t-linfomas-cutaneos.jpg
 img_alt: Linfomas cutáneos al microscopio
 img_pie: Linfomas cutáneos al microscopio.
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -40,3 +41,9 @@ Ver también: [Linfomas](../linfomas/), [Linfomas T](../linfomas-t/), [Linfomas 
 1. Willemze R, et al. Primary cutaneous lymphomas: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2018;29(Suppl 4):iv30-iv40. [doi:10.1093/annonc/mdy133](https://doi.org/10.1093/annonc/mdy133)
 2. Kim YH, et al. Mogamulizumab versus vorinostat in previously treated cutaneous T-cell lymphoma (MAVORIC). *Lancet Oncol*. 2018;19:1192-1204. [doi:10.1016/S1470-2045(18)30379-6](https://doi.org/10.1016/S1470-2045(18)30379-6)
 3. Cutaneous Lymphoma Foundation. [clfoundation.org](https://www.clfoundation.org)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

@@ -7,6 +7,7 @@ img: t-cancer-de-pene.jpg
 img_alt: Penile cancer under the microscope
 img_pie: Penile cancer under the microscope.
 medicapedia: cancer-de-pene
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -46,3 +47,10 @@ See also: [Anal cancer](../anal-cancer/), [Vaccines and cancer](../../prevention
 
 1. Brouwer OR, et al. European Association of Urology-American Society of Clinical Oncology Collaborative Guideline on Penile Cancer: 2023 Update. *Eur Urol*. 2023;83:548-560.
 2. NCI. Penile cancer treatment (PDQ). [cancer.gov/types/penile](https://www.cancer.gov/types/penile)
+
+**Recent guidelines and documents (2024-2026)**
+
+3. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+4. European Association of Urology. EAU Guidelines, 2026 edition (urological cancers). [uroweb.org](https://uroweb.org/guidelines)
+
+*Sources reviewed and updated in November 2026.*

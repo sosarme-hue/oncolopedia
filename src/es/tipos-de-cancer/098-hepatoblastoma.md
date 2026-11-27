@@ -7,7 +7,7 @@ img: t-hepatoblastoma.jpg
 img_alt: Hepatoblastoma al microscopio
 img_pie: Hepatoblastoma al microscopio.
 medicapedia: hepatoblastoma
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -30,3 +30,10 @@ Ver también: [Cáncer infantil](../cancer-infantil/), [Cáncer de hígado](../c
 
 1. Brock PR, et al. Sodium thiosulfate for protection from cisplatin-induced hearing loss (SIOPEL 6). *N Engl J Med*. 2018;378:2376-2385. [doi:10.1056/NEJMoa1801109](https://doi.org/10.1056/NEJMoa1801109)
 2. NCI. Cáncer de hígado infantil (PDQ). [cancer.gov/espanol/tipos/higado](https://www.cancer.gov/espanol/tipos/higado)
+
+**Guías y documentos recientes (2024-2026)**
+
+3. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+4. SIOP Europe y Childhood Cancer International Europe. European Standards of Care for Children and Adolescents with Cancer 2025. Viena; 2025. [ccieurope.eu](https://ccieurope.eu/wp-content/uploads/2025/09/European-Standards-of-Care-for-Children-and-Adolescents-with-Cancer-2025.pdf)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

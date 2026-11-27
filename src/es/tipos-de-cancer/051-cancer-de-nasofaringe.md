@@ -7,6 +7,7 @@ img: t-cancer-de-nasofaringe.jpg
 img_alt: Cáncer de nasofaringe al microscopio
 img_pie: Cáncer de nasofaringe al microscopio.
 medicapedia: carcinoma-de-cavum
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -43,3 +44,10 @@ Ver también: [Cáncer de cabeza y cuello](../cancer-de-cabeza-y-cuello/), [Linf
 1. Bossi P, et al. Nasopharyngeal carcinoma: ESMO-EURACAN Clinical Practice Guidelines. *Ann Oncol*. 2021;32:452-465.
 2. Zhang Y, et al. Gemcitabine and cisplatin induction chemotherapy in nasopharyngeal carcinoma. *N Engl J Med*. 2019;381:1124-1135. [doi:10.1056/NEJMoa1905287](https://doi.org/10.1056/NEJMoa1905287)
 3. Chen YP, et al. Nasopharyngeal carcinoma. *Lancet*. 2019;394:64-80.30956-0)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. NCCN Guidelines Insights: Head and Neck Cancers, version 2.2025. *J Natl Compr Canc Netw*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39938471/)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

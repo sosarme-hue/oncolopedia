@@ -6,6 +6,7 @@ grupo: Breast and gynaecological
 img: t-cancer-de-mama-her2-positivo.jpg
 img_alt: Positive HER2 staining in breast cancer
 img_pie: Positive HER2 staining in breast cancer.
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -74,3 +75,11 @@ See also: [Breast cancer](../breast-cancer/), [Targeted therapy](../../treatment
 2. von Minckwitz G, et al. Trastuzumab emtansine for residual invasive HER2-positive breast cancer (KATHERINE). *N Engl J Med*. 2019;380:617-628. [doi:10.1056/NEJMoa1814017](https://doi.org/10.1056/NEJMoa1814017)
 3. Swain SM, et al. Pertuzumab, trastuzumab, and docetaxel in HER2-positive metastatic breast cancer (CLEOPATRA). *N Engl J Med*. 2015;372:724-734. [doi:10.1056/NEJMoa1413513](https://doi.org/10.1056/NEJMoa1413513)
 4. Cortés J, et al. Trastuzumab deruxtecan versus trastuzumab emtansine for breast cancer (DESTINY-Breast03). *N Engl J Med*. 2022;386:1143-1154. [doi:10.1056/NEJMoa2115022](https://doi.org/10.1056/NEJMoa2115022)
+
+**Recent guidelines and documents (2024-2026)**
+
+5. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+6. Loibl S, et al. Early breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2024;35:159-182. [doi:10.1016/j.annonc.2023.11.016](https://doi.org/10.1016/j.annonc.2023.11.016)
+7. Loi S, Harbeck N, et al., on behalf of the ESMO Guidelines Committee. Metastatic breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2026. [doi:10.1016/j.annonc.2026.05.707](https://doi.org/10.1016/j.annonc.2026.05.707)
+
+*Sources reviewed and updated in November 2026.*

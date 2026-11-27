@@ -7,6 +7,7 @@ img: t-tumores-neuroendocrinos-digestivos.jpg
 img_alt: Gastrointestinal neuroendocrine tumours under the microscope
 img_pie: Gastrointestinal neuroendocrine tumours under the microscope.
 medicapedia: tumor-neuroendocrino
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -63,3 +64,9 @@ See also: [Pancreatic neuroendocrine tumours](../pancreatic-neuroendocrine-tumou
 3. Singh S, et al. [177Lu]Lu-DOTA-TATE plus long-acting octreotide versus high-dose long-acting octreotide in newly diagnosed grade 2-3 GEP-NETs (NETTER-2). *Lancet*. 2024;403:2807-2817.00701-3)
 4. Caplin ME, et al. Lanreotide in metastatic enteropancreatic neuroendocrine tumors (CLARINET). *N Engl J Med*. 2014;371:224-233. [doi:10.1056/NEJMoa1316158](https://doi.org/10.1056/NEJMoa1316158)
 5. Neuroendocrine Cancer UK. [neuroendocrinecancer.org.uk](https://www.neuroendocrinecancer.org.uk)
+
+**Recent guidelines and documents (2024-2026)**
+
+6. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

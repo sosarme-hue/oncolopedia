@@ -7,6 +7,7 @@ img: t-cancer-de-rinon-de-celulas-claras.jpg
 img_alt: Clear cell kidney cancer under the microscope
 img_pie: Clear cell kidney cancer under the microscope.
 medicapedia: carcinoma-renal
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -44,3 +45,11 @@ See also: [Bladder and kidney cancer](../bladder-and-kidney-cancer/), [Phaeochro
 2. Jonasch E, et al. Belzutifan for renal cell carcinoma in von Hippel-Lindau disease. *N Engl J Med*. 2021;385:2036-2046. [doi:10.1056/NEJMoa2103425](https://doi.org/10.1056/NEJMoa2103425)
 3. Motzer RJ, et al. Nivolumab plus ipilimumab versus sunitinib in advanced renal-cell carcinoma (CheckMate 214). *N Engl J Med*. 2018;378:1277-1290. [doi:10.1056/NEJMoa1712126](https://doi.org/10.1056/NEJMoa1712126)
 4. The Nobel Prize in Physiology or Medicine 2019. [nobelprize.org](https://www.nobelprize.org/prizes/medicine/2019/summary/)
+
+**Recent guidelines and documents (2024-2026)**
+
+5. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+6. Powles T, et al. Renal cell carcinoma: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2024;35:692-706. [doi:10.1016/j.annonc.2024.05.537](https://doi.org/10.1016/j.annonc.2024.05.537)
+7. European Association of Urology. EAU Guidelines, 2026 edition (urological cancers). [uroweb.org](https://uroweb.org/guidelines)
+
+*Sources reviewed and updated in November 2026.*

@@ -4,6 +4,7 @@ desc: An uncommon cancer of the external female genitals. Persistent itching or 
 health: si
 grupo: Breast and gynaecological
 medicapedia: cancer-vulvar
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -61,3 +62,9 @@ See also: [Vaginal cancer](../vaginal-cancer/), [Cervical cancer](../cervical-ca
 1. Oonk MHM, et al. European Society of Gynaecological Oncology guidelines for the management of patients with vulvar cancer – update 2023. *Int J Gynecol Cancer*. 2023;33:1023-1043.
 2. Van der Zee AGJ, et al. Sentinel node dissection is safe in the treatment of early-stage vulvar cancer (GROINSS-V). *J Clin Oncol*. 2008;26:884-889. [doi:10.1200/JCO.2007.14.0566](https://doi.org/10.1200/JCO.2007.14.0566)
 3. NCI. Vulvar cancer. [cancer.gov/types/vulvar](https://www.cancer.gov/types/vulvar)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

@@ -7,7 +7,7 @@ img: t-osteosarcoma.jpg
 img_alt: Osteosarcoma under the microscope
 img_pie: Osteosarcoma under the microscope.
 medicapedia: osteosarcoma
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -47,3 +47,9 @@ See also: [Sarcomas](../sarcomas/), [Ewing sarcoma](../ewing-sarcoma/), [Childho
 
 1. Strauss SJ, et al. Bone sarcomas: ESMO-EURACAN-GENTURIS-ERN PaedCan Clinical Practice Guideline. *Ann Oncol*. 2021;32:1520-1536.
 2. Bielack SS, et al. Methotrexate, doxorubicin, and cisplatin (MAP) plus maintenance pegylated interferon alfa-2b versus MAP alone (EURAMOS-1). *J Clin Oncol*. 2015;33:2279-2287. [doi:10.1200/JCO.2014.60.0734](https://doi.org/10.1200/JCO.2014.60.0734)
+
+**Recent guidelines and documents (2024-2026)**
+
+3. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

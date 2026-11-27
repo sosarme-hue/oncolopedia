@@ -7,7 +7,7 @@ img: t-meduloblastoma.jpg
 img_alt: Medulloblastoma under the microscope
 img_pie: Medulloblastoma under the microscope.
 medicapedia: meduloblastoma
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -52,3 +52,10 @@ See also: [Childhood cancer](../childhood-cancer/), [Brain tumours](../brain-tum
 1. Northcott PA, et al. Medulloblastoma. *Nat Rev Dis Primers*. 2019;5:11. [doi:10.1038/s41572-019-0063-6](https://doi.org/10.1038/s41572-019-0063-6)
 2. Louis DN, et al. The 2021 WHO Classification of Tumors of the Central Nervous System: a summary. *Neuro Oncol*. 2021;23:1231-1251. [doi:10.1093/neuonc/noab106](https://doi.org/10.1093/neuonc/noab106)
 3. Children's Cancer and Leukaemia Group (CCLG). [cclg.org.uk](https://www.cclg.org.uk)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. SIOP Europe and Childhood Cancer International Europe. European Standards of Care for Children and Adolescents with Cancer 2025. Vienna; 2025. [ccieurope.eu](https://ccieurope.eu/wp-content/uploads/2025/09/European-Standards-of-Care-for-Children-and-Adolescents-with-Cancer-2025.pdf)
+
+*Sources reviewed and updated in November 2026.*

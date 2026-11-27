@@ -8,7 +8,7 @@ health: si
 orden: 34.2
 grupo: Urológicos y suprarrenales
 medicapedia: carcinoma-renal
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 published: 2026-11-25
 ---
@@ -99,3 +99,10 @@ Ver también: [Cáncer de riñón de células claras](../cancer-de-rinon-de-celu
 4. European Association of Urology. EAU Guidelines on renal cell carcinoma. [uroweb.org](https://uroweb.org/guidelines)
 5. Bray F, et al. Global cancer statistics 2022: GLOBOCAN. *CA Cancer J Clin*. 2024;74:229-263. [doi:10.3322/caac.21834](https://doi.org/10.3322/caac.21834)
 6. SEOM y REDECAN. Las cifras del cáncer en España 2025. [seom.org](https://www.seom.org/images/LAS_CIFRAS_DMC2025.pdf)
+
+**Guías y documentos recientes (2024-2026)**
+
+7. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+8. Powles T, et al. Renal cell carcinoma: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2024;35:692-706. [doi:10.1016/j.annonc.2024.05.537](https://doi.org/10.1016/j.annonc.2024.05.537)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

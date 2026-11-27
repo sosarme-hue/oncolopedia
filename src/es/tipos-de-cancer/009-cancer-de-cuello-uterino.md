@@ -7,7 +7,7 @@ img: t-cancer-de-cuello-uterino.jpg
 img_alt: Cáncer de cuello uterino: tinción especial al microscopio
 img_pie: Cáncer de cuello uterino: tinción especial al microscopio.
 medicapedia: cancer-cervical
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -103,3 +103,9 @@ Ver también: [Vacunas que previenen el cáncer](../../prevencion-y-cribado/vacu
 4. Plante M, et al. Simple versus radical hysterectomy in women with low-risk cervical cancer (SHAPE). *N Engl J Med*. 2024;390:819-829. [doi:10.1056/NEJMoa2308900](https://doi.org/10.1056/NEJMoa2308900)
 5. OMS. Cáncer de cuello uterino. Nota descriptiva. [who.int](https://www.who.int/es/news-room/fact-sheets/detail/cervical-cancer)
 6. Orden SND/454/2025, de 9 de mayo, que modifica el cribado de cáncer de cuello uterino en la cartera común del SNS. *BOE* núm. 115, 13 de mayo de 2025. [boe.es](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-9277)
+
+**Guías y documentos recientes (2024-2026)**
+
+7. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

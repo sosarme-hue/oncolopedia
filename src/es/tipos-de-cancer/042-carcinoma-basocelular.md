@@ -7,7 +7,7 @@ img: t-carcinoma-basocelular.jpg
 img_alt: Carcinoma basocelular al microscopio
 img_pie: Carcinoma basocelular al microscopio.
 medicapedia: basalioma
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -50,3 +50,9 @@ Ver también: [Melanoma](../melanoma-y-cancer-de-piel/), [Carcinoma epidermoide 
 1. Peris K, et al. European consensus-based interdisciplinary guideline for diagnosis and treatment of basal cell carcinoma – update 2023. *Eur J Cancer*. 2023;192:113254.
 2. Chen AC, et al. A phase 3 randomized trial of nicotinamide for skin-cancer chemoprevention (ONTRAC). *N Engl J Med*. 2015;373:1618-1626. [doi:10.1056/NEJMoa1506197](https://doi.org/10.1056/NEJMoa1506197)
 3. AEDV. Fundación Piel Sana. [fundacionpielsana.es](https://fundacionpielsana.es)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

@@ -7,6 +7,7 @@ img: t-carcinoma-anaplasico-de-tiroides.jpg
 img_alt: Carcinoma anaplásico de tiroides al microscopio
 img_pie: Carcinoma anaplásico de tiroides al microscopio.
 medicapedia: cancer-anaplasico-de-tiroides
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -39,3 +40,9 @@ Ver también: [Cáncer de tiroides](../cancer-de-tiroides/), [Terapias dirigidas
 
 1. Bible KC, et al. 2021 American Thyroid Association guidelines for management of patients with anaplastic thyroid cancer. *Thyroid*. 2021;31:337-386. [doi:10.1089/thy.2020.0944](https://doi.org/10.1089/thy.2020.0944)
 2. Subbiah V, et al. Dabrafenib and trametinib treatment in patients with locally advanced or metastatic BRAF V600-mutant anaplastic thyroid cancer. *J Clin Oncol*. 2018;36:7-13. [doi:10.1200/JCO.2017.73.6785](https://doi.org/10.1200/JCO.2017.73.6785)
+
+**Guías y documentos recientes (2024-2026)**
+
+3. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

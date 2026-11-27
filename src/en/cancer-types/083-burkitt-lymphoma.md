@@ -7,7 +7,7 @@ img: t-linfoma-de-burkitt.jpg
 img_alt: Burkitt lymphoma under the microscope
 img_pie: Burkitt lymphoma under the microscope.
 medicapedia: linfoma-de-burkitt
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -34,3 +34,9 @@ See also: [Lymphomas](../lymphomas/), [Childhood cancer](../childhood-cancer/), 
 
 1. Ribrag V, et al. Rituximab and dose-dense chemotherapy for adults with Burkitt's lymphoma. *Lancet*. 2016;387:2402-2411.01317-3)
 2. Epstein MA, Achong BG, Barr YM. Virus particles in cultured lymphoblasts from Burkitt's lymphoma. *Lancet*. 1964;1:702-703. [doi:10.1016/S0140-6736(64)91524-7](https://doi.org/10.1016/S0140-6736(64)91524-7)
+
+**Recent guidelines and documents (2024-2026)**
+
+3. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

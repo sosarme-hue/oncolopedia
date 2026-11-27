@@ -7,7 +7,7 @@ img: t-tumores-carcinoides-de-pulmon.jpg
 img_alt: Tumores carcinoides de pulmón al microscopio
 img_pie: Tumores carcinoides de pulmón al microscopio.
 medicapedia: tumor-carcinoide
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -54,3 +54,10 @@ Ver también: [Tumores neuroendocrinos digestivos](../tumores-neuroendocrinos-di
 1. Baudin E, et al. Lung and thymic carcinoids: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2021;32:439-451. [doi:10.1016/j.annonc.2021.01.003](https://doi.org/10.1016/j.annonc.2021.01.003)
 2. NCI. Tumores carcinoides de pulmón. [cancer.gov/espanol](https://www.cancer.gov/espanol/tipos/pulmon)
 3. Grupo Español de Tumores Neuroendocrinos y Endocrinos (GETNE). [getne.org](https://getne.org)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. Baudin E, et al. European Society of Neuroendocrine Tumors (ENETS) 2025 guidance paper for lung and thymic carcinoids. *J Neuroendocrinol*. 2026. [doi:10.1111/jne.70174](https://doi.org/10.1111/jne.70174)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

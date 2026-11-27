@@ -7,6 +7,7 @@ img: t-mieloma-multiple.jpg
 img_alt: Mieloma múltiple al microscopio
 img_pie: Mieloma múltiple al microscopio.
 medicapedia: mieloma-multiple
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -63,3 +64,10 @@ Ver también: [Macroglobulinemia de Waldenström](../macroglobulinemia-de-walden
 3. Sonneveld P, et al. Daratumumab, bortezomib, lenalidomide, and dexamethasone for multiple myeloma (PERSEUS). *N Engl J Med*. 2024;390:301-313. [doi:10.1056/NEJMoa2312054](https://doi.org/10.1056/NEJMoa2312054)
 4. San-Miguel J, et al. Cilta-cel or standard care in lenalidomide-refractory multiple myeloma (CARTITUDE-4). *N Engl J Med*. 2023;389:335-347. [doi:10.1056/NEJMoa2303379](https://doi.org/10.1056/NEJMoa2303379)
 5. Grupo Español de Mieloma (GEM-PETHEMA). [gem-pethema.es](https://www.gem-pethema.es)
+
+**Guías y documentos recientes (2024-2026)**
+
+6. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+7. Dimopoulos MA, Terpos E, et al. EHA-EMN evidence-based guidelines for diagnosis, treatment and follow-up of patients with multiple myeloma. *Nat Rev Clin Oncol*. 2025;22:680-700. [doi:10.1038/s41571-025-01041-x](https://doi.org/10.1038/s41571-025-01041-x)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

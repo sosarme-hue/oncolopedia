@@ -7,6 +7,7 @@ img: t-cancer-de-glandulas-salivales.jpg
 img_alt: Cáncer de glándulas salivales al microscopio
 img_pie: Cáncer de glándulas salivales al microscopio.
 medicapedia: neoplasia-de-las-glandulas-salivales
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -39,3 +40,10 @@ Ver también: [Cáncer de cabeza y cuello](../cancer-de-cabeza-y-cuello/), [Biom
 
 1. van Herpen C, et al. Salivary gland cancer: ESMO-EURACAN Clinical Practice Guideline. *ESMO Open*. 2022;7:100602.
 2. NCI. Cáncer de glándulas salivales (PDQ). [cancer.gov/espanol/tipos/cabeza-cuello](https://www.cancer.gov/espanol/tipos/cabeza-cuello)
+
+**Guías y documentos recientes (2024-2026)**
+
+3. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+4. NCCN Guidelines Insights: Head and Neck Cancers, version 2.2025. *J Natl Compr Canc Netw*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39938471/)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

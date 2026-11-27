@@ -7,6 +7,7 @@ img: t-cancer-de-testiculo.jpg
 img_alt: Cáncer de testículo al microscopio
 img_pie: Cáncer de testículo al microscopio.
 medicapedia: cancer-de-testiculo
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -79,3 +80,10 @@ Ver también: [Tumores germinales y estromales de ovario](../tumores-germinales-
 2. Einhorn LH, Donohue J. Cis-diamminedichloroplatinum, vinblastine, and bleomycin combination chemotherapy in disseminated testicular cancer. *Ann Intern Med*. 1977;87:293-298. [doi:10.7326/0003-4819-87-3-293](https://doi.org/10.7326/0003-4819-87-3-293)
 3. Gillessen S, et al. Predicting outcomes in men with metastatic nonseminomatous germ cell tumors: an update of the IGCCCG classification. *J Clin Oncol*. 2021;39:1563-1574.
 4. NCI. Cáncer de testículo. [cancer.gov/espanol/tipos/testicular](https://www.cancer.gov/espanol/tipos/testicular)
+
+**Guías y documentos recientes (2024-2026)**
+
+5. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+6. European Association of Urology. EAU Guidelines, edición 2026 (tumores urológicos). [uroweb.org](https://uroweb.org/guidelines)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

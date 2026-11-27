@@ -274,6 +274,7 @@ def md(text, lang):
     # lista de fuentes con estilo .refs
     ref = T[lang]["refs"]
     h = re.sub(rf"(<h2[^>]*>{ref}</h2>\s*)<ol>", r'\1<ol class="refs">', h)
+    h = re.sub(r'(<p><strong>(?:Guías y documentos recientes|Recent guidelines and documents) \(2024-2026\)</strong></p>\s*)<ol start="(\d+)">', r'\1<ol class="refs" start="\2">', h)
     h = re.sub(r"<table>", '<div class="table-scroll"><table>', h).replace("</table>", "</table></div>")
     # enlaces externos
     h = re.sub(r'<a href="(https?://[^"]+)">', r'<a href="\1" rel="noopener">', h)

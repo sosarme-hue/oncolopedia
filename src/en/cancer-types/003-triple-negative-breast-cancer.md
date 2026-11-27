@@ -7,7 +7,7 @@ img: t-cancer-de-mama-triple-negativo.jpg
 img_alt: Triple-negative breast cancer under the microscope
 img_pie: Triple-negative breast cancer under the microscope.
 medicapedia: cancer-de-mama-triple-negativo
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -72,3 +72,10 @@ See also: [Breast cancer](../breast-cancer/), [Immunotherapy](../../treatments/i
 2. Bardia A, et al. Sacituzumab govitecan in metastatic triple-negative breast cancer. *N Engl J Med*. 2021;384:1529-1541. [doi:10.1056/NEJMoa2028485](https://doi.org/10.1056/NEJMoa2028485)
 3. Tutt ANJ, et al. Adjuvant olaparib for patients with BRCA1- or BRCA2-mutated breast cancer (OlympiA). *N Engl J Med*. 2021;384:2394-2405. [doi:10.1056/NEJMoa2105215](https://doi.org/10.1056/NEJMoa2105215)
 4. Loibl S, et al. Early breast cancer: ESMO Clinical Practice Guideline. *Ann Oncol*. 2024;35:159-182. [doi:10.1016/j.annonc.2023.11.016](https://doi.org/10.1016/j.annonc.2023.11.016)
+
+**Recent guidelines and documents (2024-2026)**
+
+5. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+6. Loi S, Harbeck N, et al., on behalf of the ESMO Guidelines Committee. Metastatic breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2026. [doi:10.1016/j.annonc.2026.05.707](https://doi.org/10.1016/j.annonc.2026.05.707)
+
+*Sources reviewed and updated in November 2026.*

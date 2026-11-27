@@ -7,7 +7,7 @@ img: t-cancer-colorrectal.jpg
 img_alt: Cáncer colorrectal al microscopio
 img_pie: Cáncer colorrectal al microscopio.
 medicapedia: cancer-colorrectal
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -148,3 +148,10 @@ Ver también: [Cáncer de recto](../cancer-de-recto/), [Cáncer de ano](../cance
 6. Bouvard V, et al. Carcinogenicity of consumption of red and processed meat. *Lancet Oncol*. 2015;16:1599-1600. [doi:10.1016/S1470-2045(15)00444-1](https://doi.org/10.1016/S1470-2045(15)00444-1)
 7. SEOM. Las cifras del cáncer en España 2025. [seom.org](https://www.seom.org/images/LAS_CIFRAS_DMC2025.pdf)
 8. Orden SND/356/2026, de 13 de abril, que amplía el cribado de cáncer colorrectal a los 50-74 años. *BOE* núm. 96, 20 de abril de 2026. [boe.es](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8592)
+
+**Guías y documentos recientes (2024-2026)**
+
+9. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+10. Cremolini C, et al., on behalf of the ESMO Guidelines Committee. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2026;37:759-776. [annalsofoncology.org](https://www.annalsofoncology.org/article/S0923-7534(26)00108-0/fulltext)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

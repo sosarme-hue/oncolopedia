@@ -7,6 +7,7 @@ img: t-glioblastoma.jpg
 img_alt: Glioblastoma under the microscope
 img_pie: Glioblastoma under the microscope.
 medicapedia: glioblastoma
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -50,3 +51,10 @@ See also: [Brain tumours](../brain-tumours/), [Low-grade gliomas](../low-grade-g
 2. Stupp R, et al. Effect of tumor-treating fields plus maintenance temozolomide vs maintenance temozolomide alone on survival in patients with glioblastoma (EF-14). *JAMA*. 2017;318:2306-2316. [doi:10.1001/jama.2017.18718](https://doi.org/10.1001/jama.2017.18718)
 3. Hegi ME, et al. MGMT gene silencing and benefit from temozolomide in glioblastoma. *N Engl J Med*. 2005;352:997-1003. [doi:10.1056/NEJMoa043331](https://doi.org/10.1056/NEJMoa043331)
 4. Weller M, et al. EANO guidelines on the diagnosis and treatment of diffuse gliomas of adulthood. *Nat Rev Clin Oncol*. 2021;18:170-186. [doi:10.1038/s41571-020-00447-z](https://doi.org/10.1038/s41571-020-00447-z)
+
+**Recent guidelines and documents (2024-2026)**
+
+5. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+6. EANO guideline on molecular testing of gliomas, glioneuronal, and neuronal tumors in adults: update 1. *Neuro Oncol*. 2025;27:331-337. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39387386/)
+
+*Sources reviewed and updated in November 2026.*

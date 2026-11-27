@@ -7,6 +7,7 @@ img: t-sindromes-mielodisplasicos.jpg
 img_alt: Síndromes mielodisplásicos: frotis de sangre al microscopio
 img_pie: Síndromes mielodisplásicos: frotis de sangre al microscopio.
 medicapedia: sindrome-mielodisplasico
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -43,3 +44,9 @@ Ver también: [Leucemia mieloide aguda](../leucemia-mieloide-aguda/), [Neoplasia
 1. Bernard E, et al. Molecular International Prognostic Scoring System for myelodysplastic syndromes (IPSS-M). *NEJM Evid*. 2022;1(7). [doi:10.1056/EVIDoa2200008](https://doi.org/10.1056/EVIDoa2200008)
 2. Fenaux P, et al. Myelodysplastic syndromes: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2021;32:142-156.
 3. Grupo Español de Síndromes Mielodisplásicos (GESMD). [gesmd.es](https://www.gesmd.es)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

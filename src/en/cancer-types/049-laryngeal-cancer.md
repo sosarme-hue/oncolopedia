@@ -7,7 +7,7 @@ img: t-cancer-de-laringe.jpg
 img_alt: Laryngeal tumour seen on laryngoscopy
 img_pie: Laryngeal tumour seen on laryngoscopy.
 medicapedia: cancer-de-laringe
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -49,3 +49,10 @@ See also: [Head and neck cancer](../head-and-neck-cancer/), [Tobacco, alcohol an
 1. Machiels JP, et al. EHNS-ESMO-ESTRO Clinical Practice Guidelines (oral cavity, larynx, oropharynx, hypopharynx). *Ann Oncol*. 2020;31:1462-1475. [doi:10.1016/j.annonc.2020.07.011](https://doi.org/10.1016/j.annonc.2020.07.011)
 2. Forastiere AA, et al. Concurrent chemotherapy and radiotherapy for organ preservation in advanced laryngeal cancer (RTOG 91-11). *N Engl J Med*. 2003;349:2091-2098. [doi:10.1056/NEJMoa031317](https://doi.org/10.1056/NEJMoa031317)
 3. National Association of Laryngectomee Clubs (UK). [laryngectomy.org.uk](https://www.laryngectomy.org.uk)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. NCCN Guidelines Insights: Head and Neck Cancers, version 2.2025. *J Natl Compr Canc Netw*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39938471/)
+
+*Sources reviewed and updated in November 2026.*

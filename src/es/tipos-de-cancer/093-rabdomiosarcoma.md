@@ -7,6 +7,7 @@ img: t-rabdomiosarcoma.jpg
 img_alt: Rabdomiosarcoma al microscopio
 img_pie: Rabdomiosarcoma al microscopio.
 medicapedia: rabdomiosarcoma
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -31,3 +32,10 @@ Ver también: [Sarcomas](../sarcomas/), [Cáncer infantil](../cancer-infantil/),
 
 1. Skapek SX, et al. Rhabdomyosarcoma. *Nat Rev Dis Primers*. 2019;5:1.
 2. Bisogno G, et al. Vinorelbine and continuous low-dose cyclophosphamide as maintenance chemotherapy in high-risk rhabdomyosarcoma (RMS 2005). *Lancet Oncol*. 2019;20:1566-1575.30617-5)
+
+**Guías y documentos recientes (2024-2026)**
+
+3. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+4. SIOP Europe y Childhood Cancer International Europe. European Standards of Care for Children and Adolescents with Cancer 2025. Viena; 2025. [ccieurope.eu](https://ccieurope.eu/wp-content/uploads/2025/09/European-Standards-of-Care-for-Children-and-Adolescents-with-Cancer-2025.pdf)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

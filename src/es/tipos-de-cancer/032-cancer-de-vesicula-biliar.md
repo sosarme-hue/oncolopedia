@@ -7,6 +7,7 @@ img: t-cancer-de-vesicula-biliar.jpg
 img_alt: Cáncer de vesícula biliar al microscopio
 img_pie: Cáncer de vesícula biliar al microscopio.
 medicapedia: cancer-de-vesicula
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -48,3 +49,10 @@ Ver también: [Colangiocarcinoma](../colangiocarcinoma/), [Cáncer de hígado](.
 1. Vogel A, et al. Biliary tract cancer: ESMO Clinical Practice Guideline. *Ann Oncol*. 2023;34:127-140. [doi:10.1016/j.annonc.2022.10.506](https://doi.org/10.1016/j.annonc.2022.10.506)
 2. Roa JC, et al. Gallbladder cancer. *Nat Rev Dis Primers*. 2022;8:69.
 3. NCI. Cáncer de vesícula biliar (PDQ). [cancer.gov/espanol/tipos/vesicula-biliar](https://www.cancer.gov/espanol/tipos/vesicula-biliar)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. ESMO Guidelines Committee. ESMO Clinical Practice Guideline interim update on the management of biliary tract cancer. *ESMO Open*. 2025;10:104003. [esmo.org](https://esmo.org/guidelines/guidelines-by-topic/esmo-clinical-practice-guidelines-gastrointestinal-cancers/clinical-practice-guideline-biliary-tract-cancer/eupdate-biliary-tract-cancer-recommendations)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

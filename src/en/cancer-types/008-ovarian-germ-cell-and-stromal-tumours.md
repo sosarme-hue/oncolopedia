@@ -7,7 +7,7 @@ img: t-tumores-germinales-y-estromales-de-ovario.jpg
 img_alt: Ovarian germ cell and stromal tumours under the microscope
 img_pie: Ovarian germ cell and stromal tumours under the microscope.
 medicapedia: tumor-de-celulas-germinales
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -63,3 +63,9 @@ See also: [Ovarian cancer](../ovarian-cancer/), [Testicular cancer](../testicula
 1. Ray-Coquard I, et al. Non-epithelial ovarian cancer: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2018;29(Suppl 4):iv1-iv18. [doi:10.1093/annonc/mdy001](https://doi.org/10.1093/annonc/mdy001)
 2. NCI. Ovarian germ cell tumors treatment (PDQ). [cancer.gov/types/ovarian](https://www.cancer.gov/types/ovarian/patient/ovarian-germ-cell-treatment-pdq)
 3. Shah SP, et al. Mutation of FOXL2 in granulosa-cell tumors of the ovary. *N Engl J Med*. 2009;360:2719-2729. [doi:10.1056/NEJMoa0902542](https://doi.org/10.1056/NEJMoa0902542)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

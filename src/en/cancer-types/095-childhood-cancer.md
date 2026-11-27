@@ -6,7 +6,7 @@ grupo: Children and other
 img: t-cancer-infantil.jpg
 img_alt: Children receiving chemotherapy in hospital
 img_pie: Children receiving chemotherapy in hospital.
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -77,3 +77,11 @@ See also: [Acute lymphoblastic leukaemia](../acute-lymphoblastic-leukaemia/), [N
 2. Botta L, et al. Long-term survival and cure fraction estimates for childhood cancer in Europe (EUROCARE-6). *Lancet Oncol*. 2022;23:1525-1536.00637-4)
 3. WHO. Global Initiative for Childhood Cancer (CureAll). [who.int](https://www.who.int/initiatives/the-global-initiative-for-childhood-cancer)
 4. Cancer Research UK. Children's cancer statistics. [cancerresearchuk.org](https://www.cancerresearchuk.org/health-professional/cancer-statistics/childrens-cancers)
+
+**Recent guidelines and documents (2024-2026)**
+
+5. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+6. SIOP Europe and Childhood Cancer International Europe. European Standards of Care for Children and Adolescents with Cancer 2025. Vienna; 2025. [ccieurope.eu](https://ccieurope.eu/wp-content/uploads/2025/09/European-Standards-of-Care-for-Children-and-Adolescents-with-Cancer-2025.pdf)
+7. SIOPE HGG Working Group. European standard clinical practice recommendations for paediatric high-grade gliomas. *EJC Paediatric Oncology*. 2025. [doaj.org](https://doaj.org/article/7dde28fa49ac4e54b05f8ed0ca5953c6)
+
+*Sources reviewed and updated in November 2026.*

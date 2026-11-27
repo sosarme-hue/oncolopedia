@@ -7,6 +7,7 @@ img: t-cancer-de-pulmon-microcitico.jpg
 img_alt: Small cell lung cancer under the microscope
 img_pie: Small cell lung cancer under the microscope.
 medicapedia: cancer-de-pulmon-de-celulas-pequenas
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -60,3 +61,9 @@ See also: [Lung cancer](../lung-cancer/), [Lung carcinoid tumours](../lung-carci
 3. Horn L, et al. First-line atezolizumab plus chemotherapy in extensive-stage small-cell lung cancer (IMpower133). *N Engl J Med*. 2018;379:2220-2229. [doi:10.1056/NEJMoa1809064](https://doi.org/10.1056/NEJMoa1809064)
 4. Mountzios G, et al. Tarlatamab in small-cell lung cancer after platinum-based chemotherapy (DeLLphi-304). *N Engl J Med*. 2025.
 5. NCI. Small cell lung cancer treatment (PDQ). [cancer.gov/types/lung](https://www.cancer.gov/types/lung/patient/small-cell-lung-treatment-pdq)
+
+**Recent guidelines and documents (2024-2026)**
+
+6. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

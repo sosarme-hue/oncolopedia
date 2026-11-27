@@ -7,6 +7,7 @@ img: t-sarcomas.jpg
 img_alt: Sarcomas al microscopio
 img_pie: Sarcomas al microscopio.
 medicapedia: sarcoma
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -87,3 +88,11 @@ Ver también: [Osteosarcoma](../osteosarcoma/), [Sarcoma de Ewing](../sarcoma-de
 2. Strauss SJ, et al. Bone sarcomas: ESMO-EURACAN-GENTURIS-ERN PaedCan Clinical Practice Guideline. *Ann Oncol*. 2021;32:1520-1536.
 3. WHO Classification of Tumours Editorial Board. *Soft Tissue and Bone Tumours*. 5.ª ed. Lyon: IARC; 2020.
 4. Grupo Español de Investigación en Sarcomas (GEIS). [grupogeis.org](https://www.grupogeis.org)
+
+**Guías y documentos recientes (2024-2026)**
+
+5. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+6. Vaz-Salgado MA, et al. Diagnosis and therapy of soft tissue sarcomas: Spanish Group for Research in Sarcomas (GEIS) guidelines. *Cancers*. 2025;17:3158. [mdpi.com](https://www.mdpi.com/2072-6694/17/19/3158)
+7. SEOM-GEIS Spanish clinical guidelines for the management of soft-tissue sarcomas (2024). *Clin Transl Oncol*. 2025;27:1460-1471. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39918719/)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

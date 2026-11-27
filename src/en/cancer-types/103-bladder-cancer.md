@@ -8,7 +8,7 @@ img: t-cancer-de-vejiga-y-rinon.jpg
 img_alt: Urothelial bladder carcinoma under the microscope
 img_pie: Urothelial carcinoma invading the bladder muscle.
 medicapedia: cancer-de-vejiga
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 published: 2026-11-25
 ---
@@ -101,3 +101,10 @@ See also: [Kidney cancer](../kidney-cancer/), [Upper tract urothelial cancer](..
 3. Powles T, et al. Perioperative durvalumab with neoadjuvant chemotherapy in operable bladder cancer (NIAGARA). *N Engl J Med*. 2024;391:1773-1786.
 4. Bajorin DF, et al. Adjuvant nivolumab versus placebo in muscle-invasive urothelial carcinoma (CheckMate 274). *N Engl J Med*. 2021;384:2102-2114. [doi:10.1056/NEJMoa2034442](https://doi.org/10.1056/NEJMoa2034442)
 5. European Association of Urology. EAU Guidelines on non-muscle-invasive and muscle-invasive bladder cancer. [uroweb.org](https://uroweb.org/guidelines)
+
+**Recent guidelines and documents (2024-2026)**
+
+6. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+7. ESMO Guidelines Committee. ESMO Clinical Practice Guideline interim update on first-line therapy in advanced urothelial carcinoma. *Ann Oncol*. 2024;35:485-490. [doi:10.1016/j.annonc.2024.03.001](https://doi.org/10.1016/j.annonc.2024.03.001)
+
+*Sources reviewed and updated in November 2026.*

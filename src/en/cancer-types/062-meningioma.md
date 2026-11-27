@@ -7,6 +7,7 @@ img: t-meningioma.jpg
 img_alt: Meningioma under the microscope
 img_pie: Meningioma under the microscope.
 medicapedia: meningioma
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -44,3 +45,9 @@ See also: [Brain tumours](../brain-tumours/), [Pituitary tumours](../pituitary-t
 
 1. Goldbrunner R, et al. EANO guideline on the diagnosis and management of meningiomas. *Neuro Oncol*. 2021;23:1821-1834.
 2. European Medicines Agency. Cyproterone: restrictions due to meningioma risk (2020). [ema.europa.eu](https://www.ema.europa.eu)
+
+**Recent guidelines and documents (2024-2026)**
+
+3. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

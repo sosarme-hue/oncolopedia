@@ -7,6 +7,7 @@ img: t-carcinoma-suprarrenal.jpg
 img_alt: Carcinoma suprarrenal al microscopio
 img_pie: Carcinoma suprarrenal al microscopio.
 medicapedia: carcinoma-adrenocortical
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -53,3 +54,9 @@ Ver también: [Feocromocitoma y paraganglioma](../feocromocitoma-y-paraganglioma
 
 1. Fassnacht M, et al. Adrenocortical carcinomas and malignant phaeochromocytomas: ESMO-EURACAN Clinical Practice Guidelines. *Ann Oncol*. 2020;31:1476-1490. [doi:10.1016/j.annonc.2020.08.2099](https://doi.org/10.1016/j.annonc.2020.08.2099)
 2. European Network for the Study of Adrenal Tumors (ENSAT). [ensat.org](https://www.ensat.org)
+
+**Guías y documentos recientes (2024-2026)**
+
+3. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

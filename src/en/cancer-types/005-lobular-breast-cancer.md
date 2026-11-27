@@ -7,6 +7,7 @@ img: t-carcinoma-lobulillar-de-mama.jpg
 img_alt: Lobular breast cancer under the microscope
 img_pie: Lobular breast cancer under the microscope.
 medicapedia: carcinoma-lobulillar-infiltrante
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -61,3 +62,10 @@ See also: [Breast cancer](../breast-cancer/), [Ductal carcinoma in situ](../duct
 2. WHO Classification of Tumours Editorial Board. *Breast Tumours*. 5th ed. IARC; 2019.
 3. Loibl S, et al. Early breast cancer: ESMO Clinical Practice Guideline. *Ann Oncol*. 2024;35:159-182. [doi:10.1016/j.annonc.2023.11.016](https://doi.org/10.1016/j.annonc.2023.11.016)
 4. Lobular Breast Cancer Alliance. [lobularbreastcancer.org](https://lobularbreastcancer.org/)
+
+**Recent guidelines and documents (2024-2026)**
+
+5. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+6. Loi S, Harbeck N, et al., on behalf of the ESMO Guidelines Committee. Metastatic breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2026. [doi:10.1016/j.annonc.2026.05.707](https://doi.org/10.1016/j.annonc.2026.05.707)
+
+*Sources reviewed and updated in November 2026.*

@@ -7,6 +7,7 @@ img: t-ependimoma.jpg
 img_alt: Ependimoma: tinción especial al microscopio
 img_pie: Ependimoma: tinción especial al microscopio.
 medicapedia: ependimoma
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -38,3 +39,10 @@ Ver también: [Meduloblastoma](../meduloblastoma/), [Tumores cerebrales](../tumo
 1. Louis DN, et al. The 2021 WHO Classification of Tumors of the Central Nervous System: a summary. *Neuro Oncol*. 2021;23:1231-1251. [doi:10.1093/neuonc/noab106](https://doi.org/10.1093/neuonc/noab106)
 2. Rudà R, et al. EANO guidelines for the diagnosis and treatment of ependymal tumors. *Neuro Oncol*. 2018;20:445-456.
 3. NCI. Ependimoma infantil (PDQ). [cancer.gov/espanol/tipos/cerebro](https://www.cancer.gov/espanol/tipos/cerebro)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. SIOP Europe y Childhood Cancer International Europe. European Standards of Care for Children and Adolescents with Cancer 2025. Viena; 2025. [ccieurope.eu](https://ccieurope.eu/wp-content/uploads/2025/09/European-Standards-of-Care-for-Children-and-Adolescents-with-Cancer-2025.pdf)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

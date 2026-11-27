@@ -3,6 +3,7 @@ title: Macroglobulinemia de Waldenström
 desc: Un linfoma indolente que fabrica una proteína IgM que espesa la sangre. Casi siempre lleva la mutación MYD88 y responde a los inhibidores de BTK.
 health: si
 grupo: Sangre: leucemias, linfomas y mieloma
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -31,3 +32,9 @@ Ver también: [Mieloma múltiple](../mieloma-multiple/), [Linfomas](../linfomas/
 1. Kastritis E, et al. Waldenström's macroglobulinaemia: EHA-ESMO Clinical Practice Guideline. *Ann Oncol*. 2018;29(Suppl 4):iv41-iv50.
 2. Treon SP, et al. MYD88 L265P somatic mutation in Waldenström's macroglobulinemia. *N Engl J Med*. 2012;367:826-833. [doi:10.1056/NEJMoa1200710](https://doi.org/10.1056/NEJMoa1200710)
 3. International Waldenstrom's Macroglobulinemia Foundation. [iwmf.com](https://iwmf.com)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

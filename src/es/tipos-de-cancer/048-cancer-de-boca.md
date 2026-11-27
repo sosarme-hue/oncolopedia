@@ -7,6 +7,7 @@ img: t-cancer-de-boca.jpg
 img_alt: Cáncer de boca al microscopio
 img_pie: Cáncer de boca al microscopio.
 medicapedia: cancer-de-boca
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -56,3 +57,10 @@ Ver también: [Cáncer de cabeza y cuello](../cancer-de-cabeza-y-cuello/), [Cán
 1. Machiels JP, et al. Squamous cell carcinoma of the oral cavity, larynx, oropharynx and hypopharynx: EHNS-ESMO-ESTRO Clinical Practice Guidelines. *Ann Oncol*. 2020;31:1462-1475. [doi:10.1016/j.annonc.2020.07.011](https://doi.org/10.1016/j.annonc.2020.07.011)
 2. Warnakulasuriya S, et al. Oral potentially malignant disorders: a consensus report from an international seminar (WHO Collaborating Centre). *Oral Dis*. 2021;27:1862-1880.
 3. NCI. Cáncer de labio y de cavidad oral (PDQ). [cancer.gov/espanol/tipos/cabeza-cuello](https://www.cancer.gov/espanol/tipos/cabeza-cuello)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. NCCN Guidelines Insights: Head and Neck Cancers, version 2.2025. *J Natl Compr Canc Netw*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39938471/)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

@@ -7,7 +7,7 @@ img: t-cancer-de-ano.jpg
 img_alt: Anal cancer under the microscope
 img_pie: Anal cancer under the microscope.
 medicapedia: cancer-anal
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -56,3 +56,9 @@ See also: [Rectal cancer](../rectal-cancer/), [Cervical cancer](../cervical-canc
 1. Rao S, et al. Anal cancer: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2021;32:1087-1100. [doi:10.1016/j.annonc.2021.06.015](https://doi.org/10.1016/j.annonc.2021.06.015)
 2. Palefsky JM, et al. Treatment of anal high-grade squamous intraepithelial lesions to prevent anal cancer (ANCHOR). *N Engl J Med*. 2022;386:2273-2282. [doi:10.1056/NEJMoa2201048](https://doi.org/10.1056/NEJMoa2201048)
 3. NCI. Anal cancer. [cancer.gov/types/anal](https://www.cancer.gov/types/anal)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

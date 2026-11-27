@@ -7,6 +7,7 @@ img: t-cancer-de-mama-en-el-hombre.jpg
 img_alt: Cáncer de mama en el hombre: tinción de receptores hormonales
 img_pie: Cáncer de mama en el hombre: tinción de receptores hormonales.
 medicapedia: male-breast-cancer
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -67,3 +68,11 @@ Ver también: [Cáncer de mama](../cancer-de-mama/), [Riesgo hereditario y conse
 1. Giordano SH. Breast cancer in men. *N Engl J Med*. 2018;378:2311-2320. [doi:10.1056/NEJMra1707939](https://doi.org/10.1056/NEJMra1707939)
 2. Hassett MJ, et al. Management of male breast cancer: ASCO guideline. *J Clin Oncol*. 2020;38:1849-1863. [doi:10.1200/JCO.19.03120](https://doi.org/10.1200/JCO.19.03120)
 3. NCI. Cáncer de seno (mama) masculino (PDQ). [cancer.gov/espanol/tipos/seno](https://www.cancer.gov/espanol/tipos/seno)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. Loibl S, et al. Early breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2024;35:159-182. [doi:10.1016/j.annonc.2023.11.016](https://doi.org/10.1016/j.annonc.2023.11.016)
+6. Loi S, Harbeck N, et al., on behalf of the ESMO Guidelines Committee. Metastatic breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2026. [doi:10.1016/j.annonc.2026.05.707](https://doi.org/10.1016/j.annonc.2026.05.707)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

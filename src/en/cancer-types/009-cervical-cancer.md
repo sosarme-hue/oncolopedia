@@ -7,6 +7,7 @@ img: t-cancer-de-cuello-uterino.jpg
 img_alt: Cervical cancer: special staining under the microscope
 img_pie: Cervical cancer: special staining under the microscope.
 medicapedia: cancer-cervical
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -100,3 +101,9 @@ See also: [Vaccines that prevent cancer](../../prevention-and-screening/vaccines
 3. Ramirez PT, et al. Minimally invasive versus abdominal radical hysterectomy for cervical cancer (LACC). *N Engl J Med*. 2018;379:1895-1904. [doi:10.1056/NEJMoa1806395](https://doi.org/10.1056/NEJMoa1806395)
 4. Plante M, et al. Simple versus radical hysterectomy in women with low-risk cervical cancer (SHAPE). *N Engl J Med*. 2024;390:819-829. [doi:10.1056/NEJMoa2308900](https://doi.org/10.1056/NEJMoa2308900)
 5. WHO. Cervical cancer. Fact sheet. [who.int](https://www.who.int/news-room/fact-sheets/detail/cervical-cancer)
+
+**Recent guidelines and documents (2024-2026)**
+
+6. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

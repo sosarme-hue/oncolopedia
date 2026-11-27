@@ -4,6 +4,7 @@ desc: Uno de los cánceres ginecológicos más raros. Casi siempre es un carcino
 health: si
 grupo: Mama y ginecológicos
 medicapedia: cancer-de-vagina
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -49,3 +50,9 @@ Ver también: [Cáncer de cuello uterino](../cancer-de-cuello-uterino/), [Cánce
 1. NCI. Tratamiento del cáncer de vagina (PDQ). [cancer.gov/espanol/tipos/vaginal](https://www.cancer.gov/espanol/tipos/vaginal)
 2. Adams TS, Rogers LJ, Cuello MA. Cancer of the vagina: 2021 update. *Int J Gynaecol Obstet*. 2021;155(Suppl 1):19-27.
 3. Bray F, et al. Global cancer statistics 2022 (GLOBOCAN). *CA Cancer J Clin*. 2024;74:229-263. [doi:10.3322/caac.21834](https://doi.org/10.3322/caac.21834)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

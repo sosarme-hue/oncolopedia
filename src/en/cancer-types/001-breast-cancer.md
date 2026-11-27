@@ -7,7 +7,7 @@ img: t-cancer-de-mama.jpg
 img_alt: Breast cancer under the microscope
 img_pie: Breast cancer under the microscope.
 medicapedia: cancer-de-mama
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -179,3 +179,10 @@ See also: [Ductal carcinoma in situ](../ductal-carcinoma-in-situ/), [Triple-nega
 5. Early Breast Cancer Trialists' Collaborative Group. Effect of radiotherapy after breast-conserving surgery on 10-year recurrence and 15-year breast cancer death. *Lancet*. 2011;378:1707-1716. [doi:10.1016/S0140-6736(11)61629-2](https://doi.org/10.1016/S0140-6736(11)61629-2)
 6. US Preventive Services Task Force. Breast cancer: screening (2024). [uspreventiveservicestaskforce.org](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening)
 7. National Cancer Institute. SEER Cancer Stat Facts: Female Breast Cancer (five-year relative survival by stage, diagnosed 2015-2021, United States). [seer.cancer.gov](https://seer.cancer.gov/statfacts/html/breast.html)
+
+**Recent guidelines and documents (2024-2026)**
+
+8. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+9. Loi S, Harbeck N, et al., on behalf of the ESMO Guidelines Committee. Metastatic breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2026. [doi:10.1016/j.annonc.2026.05.707](https://doi.org/10.1016/j.annonc.2026.05.707)
+
+*Sources reviewed and updated in November 2026.*

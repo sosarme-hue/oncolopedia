@@ -7,6 +7,7 @@ img: t-cancer-de-vesicula-biliar.jpg
 img_alt: Gallbladder cancer under the microscope
 img_pie: Gallbladder cancer under the microscope.
 medicapedia: cancer-de-vesicula
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -48,3 +49,10 @@ See also: [Cholangiocarcinoma](../cholangiocarcinoma/), [Liver cancer](../liver-
 1. Vogel A, et al. Biliary tract cancer: ESMO Clinical Practice Guideline. *Ann Oncol*. 2023;34:127-140. [doi:10.1016/j.annonc.2022.10.506](https://doi.org/10.1016/j.annonc.2022.10.506)
 2. Roa JC, et al. Gallbladder cancer. *Nat Rev Dis Primers*. 2022;8:69.
 3. NCI. Gallbladder cancer treatment (PDQ). [cancer.gov/types/gallbladder](https://www.cancer.gov/types/gallbladder)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. ESMO Guidelines Committee. ESMO Clinical Practice Guideline interim update on the management of biliary tract cancer. *ESMO Open*. 2025;10:104003. [esmo.org](https://esmo.org/guidelines/guidelines-by-topic/esmo-clinical-practice-guidelines-gastrointestinal-cancers/clinical-practice-guideline-biliary-tract-cancer/eupdate-biliary-tract-cancer-recommendations)
+
+*Sources reviewed and updated in November 2026.*

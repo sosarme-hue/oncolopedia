@@ -7,6 +7,7 @@ img: t-cancer-de-glandulas-salivales.jpg
 img_alt: Salivary gland cancer under the microscope
 img_pie: Salivary gland cancer under the microscope.
 medicapedia: neoplasia-de-las-glandulas-salivales
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -39,3 +40,10 @@ See also: [Head and neck cancer](../head-and-neck-cancer/), [Biomarkers and mole
 
 1. van Herpen C, et al. Salivary gland cancer: ESMO-EURACAN Clinical Practice Guideline. *ESMO Open*. 2022;7:100602.
 2. NCI. Salivary gland cancer treatment (PDQ). [cancer.gov/types/head-and-neck](https://www.cancer.gov/types/head-and-neck)
+
+**Recent guidelines and documents (2024-2026)**
+
+3. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+4. NCCN Guidelines Insights: Head and Neck Cancers, version 2.2025. *J Natl Compr Canc Netw*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39938471/)
+
+*Sources reviewed and updated in November 2026.*

@@ -7,7 +7,7 @@ img: t-melanoma-y-cancer-de-piel.jpg
 img_alt: Melanoma al microscopio
 img_pie: Melanoma al microscopio.
 medicapedia: cancer-de-piel
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -136,3 +136,10 @@ Ver también: [Carcinoma basocelular](../carcinoma-basocelular/), [Carcinoma epi
 5. Green AC, et al. Reduced melanoma after regular sunscreen use: randomized trial follow-up. *J Clin Oncol*. 2011;29:257-263. [doi:10.1200/JCO.2010.28.7078](https://doi.org/10.1200/JCO.2010.28.7078)
 6. Faries MB, et al. Completion dissection or observation for sentinel-node metastasis in melanoma (MSLT-II). *N Engl J Med*. 2017;376:2211-2222. [doi:10.1056/NEJMoa1613210](https://doi.org/10.1056/NEJMoa1613210)
 7. IARC. Solar and ultraviolet radiation. Monographs Volume 100D.
+
+**Guías y documentos recientes (2024-2026)**
+
+8. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+9. Amaral T, et al. Cutaneous melanoma: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2025;36:10-30. [doi:10.1016/j.annonc.2024.11.006](https://doi.org/10.1016/j.annonc.2024.11.006)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

@@ -6,6 +6,7 @@ grupo: Ojo y sistema nervioso
 img: t-linfoma-primario-del-sistema-nervioso-central.jpg
 img_alt: Linfoma primario del sistema nervioso central al microscopio
 img_pie: Linfoma primario del sistema nervioso central al microscopio.
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -33,3 +34,11 @@ Ver también: [Linfoma difuso de células B grandes](../linfoma-difuso-de-celula
 
 1. Ferreri AJM, et al. Primary central nervous system lymphoma: ESMO Clinical Practice Guideline. *Ann Oncol*. 2023;34:479-494.
 2. Ferreri AJM, et al. Chemoimmunotherapy with methotrexate, cytarabine, thiotepa, and rituximab (MATRix regimen) in primary CNS lymphoma (IELSG32). *Lancet Haematol*. 2016;3:e217-e227.00036-3)
+
+**Guías y documentos recientes (2024-2026)**
+
+3. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+4. Ferreri AJM, et al. Primary central nervous system lymphomas: EHA-ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *HemaSphere*. 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38839484/)
+5. ESMO Guidelines Committee. Lymphomas: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2025;36:1263-1284. [doi:10.1016/j.annonc.2025.07.014](https://doi.org/10.1016/j.annonc.2025.07.014)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

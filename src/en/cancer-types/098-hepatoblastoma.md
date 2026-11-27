@@ -7,7 +7,7 @@ img: t-hepatoblastoma.jpg
 img_alt: Hepatoblastoma under the microscope
 img_pie: Hepatoblastoma under the microscope.
 medicapedia: hepatoblastoma
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -30,3 +30,10 @@ See also: [Childhood cancer](../childhood-cancer/), [Liver cancer](../liver-canc
 
 1. Brock PR, et al. Sodium thiosulfate for protection from cisplatin-induced hearing loss (SIOPEL 6). *N Engl J Med*. 2018;378:2376-2385. [doi:10.1056/NEJMoa1801109](https://doi.org/10.1056/NEJMoa1801109)
 2. NCI. Childhood liver cancer treatment (PDQ). [cancer.gov/types/liver](https://www.cancer.gov/types/liver)
+
+**Recent guidelines and documents (2024-2026)**
+
+3. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+4. SIOP Europe and Childhood Cancer International Europe. European Standards of Care for Children and Adolescents with Cancer 2025. Vienna; 2025. [ccieurope.eu](https://ccieurope.eu/wp-content/uploads/2025/09/European-Standards-of-Care-for-Children-and-Adolescents-with-Cancer-2025.pdf)
+
+*Sources reviewed and updated in November 2026.*

@@ -6,6 +6,7 @@ grupo: Head, neck and thyroid
 img: t-cancer-de-fosas-nasales-y-senos-paranasales.jpg
 img_alt: Nasal cavity and sinus cancer under the microscope
 img_pie: Nasal cavity and sinus cancer under the microscope.
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -38,3 +39,10 @@ See also: [Head and neck cancer](../head-and-neck-cancer/), [Nasopharyngeal canc
 1. NCI. Paranasal sinus and nasal cavity cancer treatment (PDQ). [cancer.gov/types/head-and-neck](https://www.cancer.gov/types/head-and-neck)
 2. IARC. Wood dust. Monographs Volume 100C.
 3. Lund VJ, et al. European position paper on endoscopic management of tumours of the nose, paranasal sinuses and skull base. *Rhinol Suppl*. 2010;22:1-143.
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. NCCN Guidelines Insights: Head and Neck Cancers, version 2.2025. *J Natl Compr Canc Netw*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39938471/)
+
+*Sources reviewed and updated in November 2026.*

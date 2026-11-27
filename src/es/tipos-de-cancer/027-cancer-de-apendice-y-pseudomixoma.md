@@ -7,6 +7,7 @@ img: t-cancer-de-apendice-y-pseudomixoma.jpg
 img_alt: TC de abdomen de un pseudomixoma peritoneal
 img_pie: TC de abdomen de un pseudomixoma peritoneal.
 medicapedia: cancer-de-apendice
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -41,3 +42,9 @@ Ver también: [Tumores neuroendocrinos digestivos](../tumores-neuroendocrinos-di
 1. Carr NJ, et al. A consensus for classification and pathologic reporting of pseudomyxoma peritonei and associated appendiceal neoplasia (PSOGI). *Am J Surg Pathol*. 2016;40:14-26.
 2. NCI. Cáncer de apéndice. [cancer.gov/espanol](https://www.cancer.gov/espanol)
 3. Pseudomyxoma Survivor. [pseudomyxomasurvivor.org](https://www.pseudomyxomasurvivor.org)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

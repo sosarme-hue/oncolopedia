@@ -7,6 +7,7 @@ img: t-colangiocarcinoma.jpg
 img_alt: Cholangiocarcinoma: special staining under the microscope
 img_pie: Cholangiocarcinoma: special staining under the microscope.
 medicapedia: colangiocarcinoma
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -57,3 +58,10 @@ See also: [Liver cancer](../liver-cancer/), [Gallbladder cancer](../gallbladder-
 2. Oh DY, et al. Durvalumab plus gemcitabine and cisplatin in advanced biliary tract cancer (TOPAZ-1). *NEJM Evid*. 2022;1(8). [doi:10.1056/EVIDoa2200015](https://doi.org/10.1056/EVIDoa2200015)
 3. Primrose JN, et al. Capecitabine compared with observation in resected biliary tract cancer (BILCAP). *Lancet Oncol*. 2019;20:663-673. [doi:10.1016/S1470-2045(18)30915-X](https://doi.org/10.1016/S1470-2045(18)30915-X)
 4. AMMF – The Cholangiocarcinoma Charity. [ammf.org.uk](https://ammf.org.uk)
+
+**Recent guidelines and documents (2024-2026)**
+
+5. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+6. ESMO Guidelines Committee. ESMO Clinical Practice Guideline interim update on the management of biliary tract cancer. *ESMO Open*. 2025;10:104003. [esmo.org](https://esmo.org/guidelines/guidelines-by-topic/esmo-clinical-practice-guidelines-gastrointestinal-cancers/clinical-practice-guideline-biliary-tract-cancer/eupdate-biliary-tract-cancer-recommendations)
+
+*Sources reviewed and updated in November 2026.*

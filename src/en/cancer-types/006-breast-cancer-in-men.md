@@ -7,6 +7,7 @@ img: t-cancer-de-mama-en-el-hombre.jpg
 img_alt: Male breast cancer: hormone receptor staining
 img_pie: Male breast cancer: hormone receptor staining.
 medicapedia: male-breast-cancer
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -67,3 +68,11 @@ See also: [Breast cancer](../breast-cancer/), [Inherited risk and genetic counse
 1. Giordano SH. Breast cancer in men. *N Engl J Med*. 2018;378:2311-2320. [doi:10.1056/NEJMra1707939](https://doi.org/10.1056/NEJMra1707939)
 2. Hassett MJ, et al. Management of male breast cancer: ASCO guideline. *J Clin Oncol*. 2020;38:1849-1863. [doi:10.1200/JCO.19.03120](https://doi.org/10.1200/JCO.19.03120)
 3. NCI. Male breast cancer treatment (PDQ). [cancer.gov/types/breast](https://www.cancer.gov/types/breast/patient/male-breast-treatment-pdq)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. Loibl S, et al. Early breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2024;35:159-182. [doi:10.1016/j.annonc.2023.11.016](https://doi.org/10.1016/j.annonc.2023.11.016)
+6. Loi S, Harbeck N, et al., on behalf of the ESMO Guidelines Committee. Metastatic breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2026. [doi:10.1016/j.annonc.2026.05.707](https://doi.org/10.1016/j.annonc.2026.05.707)
+
+*Sources reviewed and updated in November 2026.*

@@ -7,7 +7,7 @@ img: t-tumores-germinales-y-estromales-de-ovario.jpg
 img_alt: Tumores germinales y estromales de ovario al microscopio
 img_pie: Tumores germinales y estromales de ovario al microscopio.
 medicapedia: tumor-de-celulas-germinales
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -63,3 +63,9 @@ Ver también: [Cáncer de ovario](../cancer-de-ovario/), [Cáncer de testículo]
 1. Ray-Coquard I, et al. Non-epithelial ovarian cancer: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2018;29(Suppl 4):iv1-iv18. [doi:10.1093/annonc/mdy001](https://doi.org/10.1093/annonc/mdy001)
 2. NCI. Tumores de células germinales de ovario (PDQ). [cancer.gov/espanol/tipos/ovario](https://www.cancer.gov/espanol/tipos/ovario)
 3. Shah SP, et al. Mutation of FOXL2 in granulosa-cell tumors of the ovary. *N Engl J Med*. 2009;360:2719-2729. [doi:10.1056/NEJMoa0902542](https://doi.org/10.1056/NEJMoa0902542)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

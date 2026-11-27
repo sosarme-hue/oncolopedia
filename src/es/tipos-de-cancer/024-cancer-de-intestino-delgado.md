@@ -7,6 +7,7 @@ img: t-cancer-de-intestino-delgado.jpg
 img_alt: Adenocarcinoma de intestino delgado (pieza quirúrgica)
 img_pie: Adenocarcinoma de intestino delgado (pieza quirúrgica).
 medicapedia: cancer-del-intestino-delgado
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -47,3 +48,9 @@ Ver también: [Cáncer colorrectal](../cancer-colorrectal/), [Linfomas](../linfo
 1. Locher C, et al. Small bowel adenocarcinoma: French intergroup clinical practice guidelines. *Dig Liver Dis*. 2018;50:15-19.
 2. NCI. Cáncer de intestino delgado (PDQ). [cancer.gov/espanol/tipos/intestino-delgado](https://www.cancer.gov/espanol/tipos/intestino-delgado)
 3. NCCN. Small Bowel Adenocarcinoma guidelines. [nccn.org](https://www.nccn.org)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

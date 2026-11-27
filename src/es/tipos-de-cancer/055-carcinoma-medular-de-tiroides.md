@@ -7,6 +7,7 @@ img: t-carcinoma-medular-de-tiroides.jpg
 img_alt: Carcinoma medular de tiroides al microscopio
 img_pie: Carcinoma medular de tiroides al microscopio.
 medicapedia: cancer-medular-tiroideo
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -46,3 +47,9 @@ Ver también: [Cáncer de tiroides](../cancer-de-tiroides/), [Feocromocitoma y p
 
 1. Wells SA, et al. Revised American Thyroid Association guidelines for the management of medullary thyroid carcinoma. *Thyroid*. 2015;25:567-610. [doi:10.1089/thy.2014.0335](https://doi.org/10.1089/thy.2014.0335)
 2. Hadoux J, et al. Phase 3 trial of selpercatinib in advanced RET-mutant medullary thyroid cancer (LIBRETTO-531). *N Engl J Med*. 2023;389:1851-1861.
+
+**Guías y documentos recientes (2024-2026)**
+
+3. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

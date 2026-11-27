@@ -7,6 +7,7 @@ img: t-sindromes-mielodisplasicos.jpg
 img_alt: Myelodysplastic syndromes: blood smear under the microscope
 img_pie: Myelodysplastic syndromes: blood smear under the microscope.
 medicapedia: sindrome-mielodisplasico
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -43,3 +44,9 @@ See also: [Acute myeloid leukaemia](../acute-myeloid-leukaemia/), [Myeloprolifer
 1. Bernard E, et al. Molecular International Prognostic Scoring System for myelodysplastic syndromes (IPSS-M). *NEJM Evid*. 2022;1(7). [doi:10.1056/EVIDoa2200008](https://doi.org/10.1056/EVIDoa2200008)
 2. Fenaux P, et al. Myelodysplastic syndromes: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2021;32:142-156.
 3. MDS UK Patient Support Group. [mdspatientsupport.org.uk](https://mdspatientsupport.org.uk)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

@@ -7,6 +7,7 @@ img: t-gliomas-de-bajo-grado.jpg
 img_alt: Gliomas de bajo grado al microscopio
 img_pie: Gliomas de bajo grado al microscopio.
 medicapedia: glioma
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -39,3 +40,10 @@ Ver también: [Tumores cerebrales](../tumores-cerebrales/), [Glioblastoma](../gl
 1. Mellinghoff IK, et al. Vorasidenib in IDH1- or IDH2-mutant low-grade glioma (INDIGO). *N Engl J Med*. 2023;389:589-601. [doi:10.1056/NEJMoa2304194](https://doi.org/10.1056/NEJMoa2304194)
 2. Buckner JC, et al. Radiation plus procarbazine, CCNU, and vincristine in low-grade glioma (RTOG 9802). *N Engl J Med*. 2016;374:1344-1355. [doi:10.1056/NEJMoa1500925](https://doi.org/10.1056/NEJMoa1500925)
 3. Weller M, et al. EANO guidelines on the diagnosis and treatment of diffuse gliomas of adulthood. *Nat Rev Clin Oncol*. 2021;18:170-186. [doi:10.1038/s41571-020-00447-z](https://doi.org/10.1038/s41571-020-00447-z)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. EANO guideline on molecular testing of gliomas, glioneuronal, and neuronal tumors in adults: update 1. *Neuro Oncol*. 2025;27:331-337. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39387386/)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

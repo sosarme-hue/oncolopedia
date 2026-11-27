@@ -7,6 +7,7 @@ img: t-neoplasias-mieloproliferativas.jpg
 img_alt: Neoplasias mieloproliferativas: tinción especial al microscopio
 img_pie: Neoplasias mieloproliferativas: tinción especial al microscopio.
 medicapedia: sindrome-mieloproliferativo-cronico
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -38,3 +39,9 @@ Ver también: [Leucemia mieloide crónica](../leucemia-mieloide-cronica/), [Sín
 1. Vannucchi AM, et al. Philadelphia chromosome-negative chronic myeloproliferative neoplasms: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2015;26(Suppl 5):v85-v99.
 2. Barbui T, et al. Philadelphia chromosome-negative classical myeloproliferative neoplasms: revised management recommendations from European LeukemiaNet. *Leukemia*. 2018;32:1057-1069. [doi:10.1038/s41375-018-0077-1](https://doi.org/10.1038/s41375-018-0077-1)
 3. Grupo Español de Enfermedades Mieloproliferativas Filadelfia Negativas (GEMFIN). [gemfin.es](https://www.gemfin.es)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

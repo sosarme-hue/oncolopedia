@@ -7,6 +7,7 @@ img: t-leucemia-mieloide-cronica.jpg
 img_alt: Leucemia mieloide crónica: frotis de sangre al microscopio
 img_pie: Leucemia mieloide crónica: frotis de sangre al microscopio.
 medicapedia: leucemia-mieloide
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -40,3 +41,10 @@ Ver también: [Leucemias](../leucemias/), [Neoplasias mieloproliferativas](../ne
 1. Hochhaus A, et al. European LeukemiaNet 2020 recommendations for treating chronic myeloid leukemia. *Leukemia*. 2020;34:966-984. [doi:10.1038/s41375-020-0776-2](https://doi.org/10.1038/s41375-020-0776-2)
 2. Druker BJ, et al. Efficacy and safety of a specific inhibitor of the BCR-ABL tyrosine kinase in chronic myeloid leukemia. *N Engl J Med*. 2001;344:1031-1037. [doi:10.1056/NEJM200104053441401](https://doi.org/10.1056/NEJM200104053441401)
 3. Rowley JD. A new consistent chromosomal abnormality in chronic myelogenous leukaemia. *Nature*. 1973;243:290-293. [doi:10.1038/243290a0](https://doi.org/10.1038/243290a0)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. Apperley JF, et al. 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia. *Leukemia*. 2025;39:1797-1813. [doi:10.1038/s41375-025-02664-w](https://doi.org/10.1038/s41375-025-02664-w)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

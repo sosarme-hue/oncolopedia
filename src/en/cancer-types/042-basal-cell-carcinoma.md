@@ -7,7 +7,7 @@ img: t-carcinoma-basocelular.jpg
 img_alt: Basal cell carcinoma under the microscope
 img_pie: Basal cell carcinoma under the microscope.
 medicapedia: basalioma
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -50,3 +50,9 @@ See also: [Melanoma](../melanoma-and-skin-cancer/), [Cutaneous squamous cell car
 1. Peris K, et al. European consensus-based interdisciplinary guideline for diagnosis and treatment of basal cell carcinoma – update 2023. *Eur J Cancer*. 2023;192:113254.
 2. Chen AC, et al. A phase 3 randomized trial of nicotinamide for skin-cancer chemoprevention (ONTRAC). *N Engl J Med*. 2015;373:1618-1626. [doi:10.1056/NEJMoa1506197](https://doi.org/10.1056/NEJMoa1506197)
 3. British Association of Dermatologists. Basal cell carcinoma. [skinhealthinfo.org.uk](https://www.skinhealthinfo.org.uk)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

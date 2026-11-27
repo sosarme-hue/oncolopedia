@@ -7,6 +7,7 @@ img: t-cancer-del-tracto-urinario-superior.jpg
 img_alt: Cancer of the renal pelvis and ureter under the microscope
 img_pie: Cancer of the renal pelvis and ureter under the microscope.
 medicapedia: carcinoma-urotelial
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -42,3 +43,10 @@ See also: [Bladder and kidney cancer](../bladder-and-kidney-cancer/), [Inherited
 1. Rouprêt M, et al. European Association of Urology Guidelines on Upper Urinary Tract Urothelial Carcinoma: 2023 Update. *Eur Urol*. 2023;84:49-64.
 2. Birtle A, et al. Adjuvant chemotherapy in upper tract urothelial carcinoma (POUT). *Lancet*. 2020;395:1268-1277. [doi:10.1016/S0140-6736(20)30415-3](https://doi.org/10.1016/S0140-6736(20)30415-3)
 3. IARC. Plants containing aristolochic acid. Monographs Volume 100A.
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. European Association of Urology. EAU Guidelines, 2026 edition (urological cancers). [uroweb.org](https://uroweb.org/guidelines)
+
+*Sources reviewed and updated in November 2026.*

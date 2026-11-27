@@ -7,6 +7,7 @@ img: t-cancer-de-origen-desconocido.jpg
 img_alt: Cáncer de origen desconocido al microscopio
 img_pie: Cáncer de origen desconocido al microscopio.
 medicapedia: cancer-de-origen-primario-desconocido
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -40,3 +41,9 @@ Ver también: [Biomarcadores y perfil molecular](../../diagnostico/biomarcadores
 
 1. Krämer A, et al. Cancer of unknown primary: ESMO Clinical Practice Guideline. *Ann Oncol*. 2023;34:228-246.
 2. Krämer A, et al. Molecularly guided therapy versus chemotherapy after disease control in unfavourable cancer of unknown primary (CUPISCO). *Lancet*. 2024;404:527-539.
+
+**Guías y documentos recientes (2024-2026)**
+
+3. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

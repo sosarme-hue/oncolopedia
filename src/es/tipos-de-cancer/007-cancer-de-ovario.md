@@ -7,6 +7,7 @@ img: t-cancer-de-ovario.jpg
 img_alt: Cáncer de ovario al microscopio
 img_pie: Cáncer de ovario al microscopio.
 medicapedia: cancer-de-ovario
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -115,3 +116,10 @@ Ver también: [Tumores germinales y estromales de ovario](../tumores-germinales-
 3. Moore K, et al. Maintenance olaparib in patients with newly diagnosed advanced ovarian cancer (SOLO-1). *N Engl J Med*. 2018;379:2495-2505. [doi:10.1056/NEJMoa1810858](https://doi.org/10.1056/NEJMoa1810858)
 4. van Driel WJ, et al. Hyperthermic intraperitoneal chemotherapy in ovarian cancer. *N Engl J Med*. 2018;378:230-240. [doi:10.1056/NEJMoa1708618](https://doi.org/10.1056/NEJMoa1708618)
 5. NCI. Cáncer de ovario, de trompas de Falopio y peritoneal primario. [cancer.gov/espanol/tipos/ovario](https://www.cancer.gov/espanol/tipos/ovario)
+
+**Guías y documentos recientes (2024-2026)**
+
+6. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+7. Ledermann JA, et al. ESGO-ESMO-ESP consensus conference recommendations on ovarian cancer. *Ann Oncol*. 2024;35:248-266. [doi:10.1016/j.annonc.2023.11.015](https://doi.org/10.1016/j.annonc.2023.11.015)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

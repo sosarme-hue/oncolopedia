@@ -7,6 +7,7 @@ img: t-enfermedad-trofoblastica-gestacional.jpg
 img_alt: Enfermedad trofoblástica gestacional al microscopio
 img_pie: Enfermedad trofoblástica gestacional al microscopio.
 medicapedia: coriocarcinoma
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -51,3 +52,9 @@ Ver también: [Tumores germinales y estromales de ovario](../tumores-germinales-
 1. Seckl MJ, et al. Gestational trophoblastic disease: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2013;24(Suppl 6):vi39-vi50. [doi:10.1093/annonc/mdt345](https://doi.org/10.1093/annonc/mdt345)
 2. NCI. Tratamiento de la enfermedad trofoblástica gestacional (PDQ). [cancer.gov/espanol/tipos/trofoblastico-gestacional](https://www.cancer.gov/espanol/tipos/trofoblastico-gestacional)
 3. Ngan HYS, et al. Diagnosis and management of gestational trophoblastic disease: 2021 update. *Int J Gynaecol Obstet*. 2021;155(Suppl 1):86-93.
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

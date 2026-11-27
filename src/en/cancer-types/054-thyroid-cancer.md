@@ -7,6 +7,7 @@ img: t-cancer-de-tiroides.jpg
 img_alt: Thyroid cancer under the microscope
 img_pie: Thyroid cancer under the microscope.
 medicapedia: cancer-tiroideo
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -77,3 +78,10 @@ See also: [Medullary thyroid cancer](../medullary-thyroid-cancer/), [Anaplastic 
 3. Ahn HS, Kim HJ, Welch HG. Korea's thyroid-cancer "epidemic" – screening and overdiagnosis. *N Engl J Med*. 2014;371:1765-1767. [doi:10.1056/NEJMp1409841](https://doi.org/10.1056/NEJMp1409841)
 4. Leboulleux S, et al. Thyroidectomy without radioiodine in patients with low-risk thyroid cancer (ESTIMABL2). *N Engl J Med*. 2022;386:923-932. [doi:10.1056/NEJMoa2111953](https://doi.org/10.1056/NEJMoa2111953)
 5. Ito Y, et al. Active surveillance for papillary thyroid microcarcinoma. *Thyroid*. 2014;24:27-34.
+
+**Recent guidelines and documents (2024-2026)**
+
+6. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+7. Ringel MD, Sosa JA, et al. 2025 American Thyroid Association management guidelines for adult patients with differentiated thyroid cancer. *Thyroid*. 2025;35:841-. [doi:10.1177/10507256251363120](https://doi.org/10.1177/10507256251363120)
+
+*Sources reviewed and updated in November 2026.*

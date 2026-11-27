@@ -7,6 +7,7 @@ img: t-tumores-de-hipofisis.jpg
 img_alt: Non-functioning pituitary adenoma under the microscope
 img_pie: Non-functioning pituitary adenoma under the microscope.
 medicapedia: tumor-de-hipofisis
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -43,3 +44,9 @@ See also: [Brain tumours](../brain-tumours/), [Meningioma](../meningioma/).
 1. Asa SL, et al. Overview of the 2022 WHO classification of pituitary tumors. *Endocr Pathol*. 2022;33:6-26.
 2. Petersenn S, et al. Diagnosis and management of prolactin-secreting pituitary adenomas: a Pituitary Society international consensus statement. *Nat Rev Endocrinol*. 2023;19:722-740.
 3. The Pituitary Foundation. [pituitary.org.uk](https://www.pituitary.org.uk)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

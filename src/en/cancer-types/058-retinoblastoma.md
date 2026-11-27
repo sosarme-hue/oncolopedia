@@ -7,6 +7,7 @@ img: t-retinoblastoma.jpg
 img_alt: Retinoblastoma
 img_pie: Retinoblastoma.
 medicapedia: retinoblastoma
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -49,3 +50,10 @@ See also: [Childhood cancer](../childhood-cancer/), [Uveal melanoma](../uveal-me
 1. Dimaras H, et al. Retinoblastoma. *Nat Rev Dis Primers*. 2015;1:15021. [doi:10.1038/nrdp.2015.21](https://doi.org/10.1038/nrdp.2015.21)
 2. Knudson AG. Mutation and cancer: statistical study of retinoblastoma. *Proc Natl Acad Sci USA*. 1971;68:820-823. [doi:10.1073/pnas.68.4.820](https://doi.org/10.1073/pnas.68.4.820)
 3. Global Retinoblastoma Study Group. Global retinoblastoma presentation and analysis by national income level. *JAMA Oncol*. 2020;6:685-695.
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. SIOP Europe and Childhood Cancer International Europe. European Standards of Care for Children and Adolescents with Cancer 2025. Vienna; 2025. [ccieurope.eu](https://ccieurope.eu/wp-content/uploads/2025/09/European-Standards-of-Care-for-Children-and-Adolescents-with-Cancer-2025.pdf)
+
+*Sources reviewed and updated in November 2026.*

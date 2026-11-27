@@ -7,6 +7,7 @@ img: t-cancer-colorrectal.jpg
 img_alt: Colorectal cancer under the microscope
 img_pie: Colorectal cancer under the microscope.
 medicapedia: cancer-colorrectal
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -145,3 +146,10 @@ See also: [Rectal cancer](../rectal-cancer/), [Anal cancer](../anal-cancer/), [I
 5. Courneya KS, et al. Structured exercise after adjuvant chemotherapy for colon cancer (CHALLENGE). *N Engl J Med*. 2025.
 6. Bouvard V, et al. Carcinogenicity of consumption of red and processed meat. *Lancet Oncol*. 2015;16:1599-1600. [doi:10.1016/S1470-2045(15)00444-1](https://doi.org/10.1016/S1470-2045(15)00444-1)
 7. NHS. Bowel cancer screening. [nhs.uk](https://www.nhs.uk/conditions/bowel-cancer-screening/)
+
+**Recent guidelines and documents (2024-2026)**
+
+8. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+9. Cremolini C, et al., on behalf of the ESMO Guidelines Committee. Metastatic colorectal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2026;37:759-776. [annalsofoncology.org](https://www.annalsofoncology.org/article/S0923-7534(26)00108-0/fulltext)
+
+*Sources reviewed and updated in November 2026.*

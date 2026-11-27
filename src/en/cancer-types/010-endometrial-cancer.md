@@ -7,7 +7,7 @@ img: t-cancer-de-endometrio.jpg
 img_alt: Endometrial cancer under the microscope
 img_pie: Endometrial cancer under the microscope.
 medicapedia: cancer-de-endometrio
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -102,3 +102,11 @@ See also: [Uterine sarcoma](../uterine-sarcoma/), [Inherited risk and genetic co
 3. Mirza MR, et al. Dostarlimab for primary advanced or recurrent endometrial cancer (RUBY). *N Engl J Med*. 2023;388:2145-2158. [doi:10.1056/NEJMoa2216334](https://doi.org/10.1056/NEJMoa2216334)
 4. Eskander RN, et al. Pembrolizumab plus chemotherapy in advanced endometrial cancer (NRG-GY018). *N Engl J Med*. 2023;388:2159-2170. [doi:10.1056/NEJMoa2302312](https://doi.org/10.1056/NEJMoa2302312)
 5. NCI. Uterine cancer. [cancer.gov/types/uterine](https://www.cancer.gov/types/uterine)
+
+**Recent guidelines and documents (2024-2026)**
+
+6. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+7. Concin N, et al. ESGO-ESTRO-ESP guidelines for the management of patients with endometrial carcinoma: update 2025. *Lancet Oncol*. 2025;26:e423-e435. [doi:10.1016/S1470-2045(25)00167-6](https://doi.org/10.1016/S1470-2045(25)00167-6)
+8. SEOM-GEICO clinical guidelines on endometrial cancer (2025). *Clin Transl Oncol*. 2025;27:4368-4380. [doi:10.1007/s12094-025-04046-1](https://doi.org/10.1007/s12094-025-04046-1)
+
+*Sources reviewed and updated in November 2026.*

@@ -6,6 +6,7 @@ grupo: Cabeza, cuello y tiroides
 img: t-cancer-de-fosas-nasales-y-senos-paranasales.jpg
 img_alt: Cáncer de fosas nasales y senos paranasales al microscopio
 img_pie: Cáncer de fosas nasales y senos paranasales al microscopio.
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -38,3 +39,10 @@ Ver también: [Cáncer de cabeza y cuello](../cancer-de-cabeza-y-cuello/), [Cán
 1. NCI. Cáncer de senos paranasales y de cavidad nasal (PDQ). [cancer.gov/espanol/tipos/cabeza-cuello](https://www.cancer.gov/espanol/tipos/cabeza-cuello)
 2. IARC. Wood dust. Monographs Volume 100C.
 3. Lund VJ, et al. European position paper on endoscopic management of tumours of the nose, paranasal sinuses and skull base. *Rhinol Suppl*. 2010;22:1-143.
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. NCCN Guidelines Insights: Head and Neck Cancers, version 2.2025. *J Natl Compr Canc Netw*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39938471/)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

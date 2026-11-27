@@ -7,6 +7,7 @@ img: t-meningioma.jpg
 img_alt: Meningioma al microscopio
 img_pie: Meningioma al microscopio.
 medicapedia: meningioma
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -44,3 +45,9 @@ Ver también: [Tumores cerebrales](../tumores-cerebrales/), [Tumores de hipófis
 
 1. Goldbrunner R, et al. EANO guideline on the diagnosis and management of meningiomas. *Neuro Oncol*. 2021;23:1821-1834.
 2. Agencia Española de Medicamentos y Productos Sanitarios (AEMPS). Acetato de ciproterona y riesgo de meningioma. [aemps.gob.es](https://www.aemps.gob.es)
+
+**Guías y documentos recientes (2024-2026)**
+
+3. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

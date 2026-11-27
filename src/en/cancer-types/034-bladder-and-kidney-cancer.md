@@ -7,7 +7,7 @@ img: t-cancer-de-vejiga-y-rinon.jpg
 img_alt: Urothelial bladder carcinoma under the microscope
 img_pie: Urothelial bladder carcinoma under the microscope.
 medicapedia: cancer-de-vejiga
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 <div class="note"><b>This page compares the two cancers.</b> For full information on each, see the main pages: <a href="../bladder-cancer/">Bladder cancer</a> and <a href="../kidney-cancer/">Kidney cancer</a>.</div>
@@ -103,3 +103,11 @@ See also: [Clear cell kidney cancer](../clear-cell-kidney-cancer/), [Upper tract
 4. Choueiri TK, et al. Overall survival with adjuvant pembrolizumab in renal-cell carcinoma (KEYNOTE-564). *N Engl J Med*. 2024;390:1359-1371.
 5. Powles T, et al. Perioperative durvalumab with neoadjuvant chemotherapy in operable bladder cancer (NIAGARA). *N Engl J Med*. 2024;391:1773-1786.
 6. European Association of Urology. EAU Guidelines. [uroweb.org](https://uroweb.org/guidelines)
+
+**Recent guidelines and documents (2024-2026)**
+
+7. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+8. Powles T, et al. Renal cell carcinoma: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2024;35:692-706. [doi:10.1016/j.annonc.2024.05.537](https://doi.org/10.1016/j.annonc.2024.05.537)
+9. ESMO Guidelines Committee. ESMO Clinical Practice Guideline interim update on first-line therapy in advanced urothelial carcinoma. *Ann Oncol*. 2024;35:485-490. [doi:10.1016/j.annonc.2024.03.001](https://doi.org/10.1016/j.annonc.2024.03.001)
+
+*Sources reviewed and updated in November 2026.*

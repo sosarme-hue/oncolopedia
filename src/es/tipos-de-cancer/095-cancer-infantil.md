@@ -6,7 +6,7 @@ grupo: Infancia y otros
 img: t-cancer-infantil.jpg
 img_alt: Niños recibiendo quimioterapia en un hospital
 img_pie: Niños recibiendo quimioterapia en un hospital.
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -77,3 +77,11 @@ Ver también: [Leucemia linfoblástica aguda](../leucemia-linfoblastica-aguda/),
 2. Botta L, et al. Long-term survival and cure fraction estimates for childhood cancer in Europe (EUROCARE-6). *Lancet Oncol*. 2022;23:1525-1536.00637-4)
 3. OMS. Iniciativa Mundial contra el Cáncer Infantil (CureAll). [who.int](https://www.who.int/initiatives/the-global-initiative-for-childhood-cancer)
 4. Registro Español de Tumores Infantiles (RETI-SEHOP). [uv.es/rnti](https://www.uv.es/rnti/)
+
+**Guías y documentos recientes (2024-2026)**
+
+5. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+6. SIOP Europe y Childhood Cancer International Europe. European Standards of Care for Children and Adolescents with Cancer 2025. Viena; 2025. [ccieurope.eu](https://ccieurope.eu/wp-content/uploads/2025/09/European-Standards-of-Care-for-Children-and-Adolescents-with-Cancer-2025.pdf)
+7. SIOPE HGG Working Group. European standard clinical practice recommendations for paediatric high-grade gliomas. *EJC Paediatric Oncology*. 2025. [doaj.org](https://doaj.org/article/7dde28fa49ac4e54b05f8ed0ca5953c6)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

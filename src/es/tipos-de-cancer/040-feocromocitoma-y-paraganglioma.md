@@ -7,6 +7,7 @@ img: t-feocromocitoma-y-paraganglioma.jpg
 img_alt: Feocromocitoma y paraganglioma: tinción especial al microscopio
 img_pie: Feocromocitoma y paraganglioma: tinción especial al microscopio.
 medicapedia: feocromocitoma
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -49,3 +50,9 @@ Ver también: [Carcinoma suprarrenal](../carcinoma-suprarrenal/), [Carcinoma med
 1. Lenders JWM, et al. Pheochromocytoma and paraganglioma: an Endocrine Society clinical practice guideline. *J Clin Endocrinol Metab*. 2014;99:1915-1942. [doi:10.1210/jc.2014-1498](https://doi.org/10.1210/jc.2014-1498)
 2. Fassnacht M, et al. Adrenocortical carcinomas and malignant phaeochromocytomas: ESMO-EURACAN Clinical Practice Guidelines. *Ann Oncol*. 2020;31:1476-1490. [doi:10.1016/j.annonc.2020.08.2099](https://doi.org/10.1016/j.annonc.2020.08.2099)
 3. NCI. Feocromocitoma y paraganglioma (PDQ). [cancer.gov/espanol/tipos/feocromocitoma](https://www.cancer.gov/espanol/tipos/feocromocitoma)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

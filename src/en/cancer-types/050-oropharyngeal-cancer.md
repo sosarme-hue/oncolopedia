@@ -7,6 +7,7 @@ img: t-cancer-de-orofaringe.jpg
 img_alt: Oropharyngeal cancer under the microscope
 img_pie: Oropharyngeal cancer under the microscope.
 medicapedia: cancer-de-orofaringe
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -46,3 +47,10 @@ See also: [Head and neck cancer](../head-and-neck-cancer/), [Cervical cancer](..
 1. Ang KK, et al. Human papillomavirus and survival of patients with oropharyngeal cancer. *N Engl J Med*. 2010;363:24-35. [doi:10.1056/NEJMoa0912217](https://doi.org/10.1056/NEJMoa0912217)
 2. Mehanna H, et al. Radiotherapy plus cisplatin or cetuximab in low-risk HPV-positive oropharyngeal cancer (De-ESCALaTE HPV). *Lancet*. 2019;393:51-60. [doi:10.1016/S0140-6736(18)32752-1](https://doi.org/10.1016/S0140-6736(18)32752-1)
 3. Gillison ML, et al. Radiotherapy plus cetuximab or cisplatin in HPV-positive oropharyngeal cancer (NRG Oncology RTOG 1016). *Lancet*. 2019;393:40-50. [doi:10.1016/S0140-6736(18)32779-X](https://doi.org/10.1016/S0140-6736(18)32779-X)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. NCCN Guidelines Insights: Head and Neck Cancers, version 2.2025. *J Natl Compr Canc Netw*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39938471/)
+
+*Sources reviewed and updated in November 2026.*

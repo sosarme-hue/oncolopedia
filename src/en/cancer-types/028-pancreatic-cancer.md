@@ -6,6 +6,7 @@ grupo: Digestive system
 img: t-cancer-de-pancreas.jpg
 img_alt: Pancreatic cancer under the microscope
 img_pie: Pancreatic cancer under the microscope.
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -128,3 +129,10 @@ See also: [Pancreatic neuroendocrine tumours](../pancreatic-neuroendocrine-tumou
 4. Rojas LA, et al. Personalized RNA neoantigen vaccines stimulate T cells in pancreatic cancer. *Nature*. 2023;618:144-150. [doi:10.1038/s41586-023-06063-y](https://doi.org/10.1038/s41586-023-06063-y)
 5. Goggins M, et al. Management of patients with increased risk for familial pancreatic cancer: updated recommendations from the CAPS Consortium. *Gut*. 2020;69:7-17. [doi:10.1136/gutjnl-2019-319352](https://doi.org/10.1136/gutjnl-2019-319352)
 6. Cancer Research UK. Pancreatic cancer statistics. [cancerresearchuk.org](https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/pancreatic-cancer)
+
+**Recent guidelines and documents (2024-2026)**
+
+7. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+8. Conroy T, Ducreux M, on behalf of the ESMO Guidelines Committee. ESMO Clinical Practice Guideline express update on the management of metastatic pancreatic cancer. *ESMO Open*. 2025. [esmo.org](https://esmo.org/guidelines/guidelines-by-topic/esmo-clinical-practice-guidelines-gastrointestinal-cancers/cancer-of-the-pancreas-esmo-clinical-practice-guidelines/eupdate-metastatic-pancreatic-cancer)
+
+*Sources reviewed and updated in November 2026.*

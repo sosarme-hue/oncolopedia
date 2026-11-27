@@ -7,7 +7,7 @@ img: t-linfoma-difuso-de-celulas-b-grandes.jpg
 img_alt: Diffuse large B-cell lymphoma under the microscope
 img_pie: Diffuse large B-cell lymphoma under the microscope.
 medicapedia: linfoma-difuso-de-celulas-b-grandes
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -37,3 +37,11 @@ See also: [Lymphomas](../lymphomas/), [Primary CNS lymphoma](../primary-cns-lymp
 1. Tilly H, et al. Polatuzumab vedotin in previously untreated diffuse large B-cell lymphoma (POLARIX). *N Engl J Med*. 2022;386:351-363. [doi:10.1056/NEJMoa2115304](https://doi.org/10.1056/NEJMoa2115304)
 2. Westin JR, et al. Survival with axicabtagene ciloleucel in large B-cell lymphoma (ZUMA-7). *N Engl J Med*. 2023;389:148-157.
 3. Dickinson MJ, et al. Glofitamab for relapsed or refractory diffuse large B-cell lymphoma. *N Engl J Med*. 2022;387:2220-2231. [doi:10.1056/NEJMoa2206913](https://doi.org/10.1056/NEJMoa2206913)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. ESMO Guidelines Committee. Lymphomas: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2025;36:1263-1284. [doi:10.1016/j.annonc.2025.07.014](https://doi.org/10.1016/j.annonc.2025.07.014)
+6. Large B-cell lymphoma (LBCL): EHA Clinical Practice Guidelines for diagnosis, treatment, and follow-up. *HemaSphere*. 2025;9:e70207. [doi:10.1002/hem3.70207](https://doi.org/10.1002/hem3.70207)
+
+*Sources reviewed and updated in November 2026.*

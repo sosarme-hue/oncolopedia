@@ -7,6 +7,7 @@ img: t-sarcoma-de-kaposi.jpg
 img_alt: Kaposi sarcoma under the microscope
 img_pie: Kaposi sarcoma under the microscope.
 medicapedia: sarcoma-de-kaposi
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -46,3 +47,9 @@ See also: [Angiosarcoma](../angiosarcoma/), [Lymphomas](../lymphomas/).
 1. Lebbe C, et al. Diagnosis and treatment of Kaposi's sarcoma: European consensus-based interdisciplinary guideline (EDF/EADO/EORTC). *Eur J Cancer*. 2019;114:117-127.
 2. Chang Y, et al. Identification of herpesvirus-like DNA sequences in AIDS-associated Kaposi's sarcoma. *Science*. 1994;266:1865-1869. [doi:10.1126/science.7997879](https://doi.org/10.1126/science.7997879)
 3. NCI. Kaposi sarcoma treatment (PDQ). [cancer.gov/types/soft-tissue-sarcoma](https://www.cancer.gov/types/soft-tissue-sarcoma/patient/kaposi-treatment-pdq)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

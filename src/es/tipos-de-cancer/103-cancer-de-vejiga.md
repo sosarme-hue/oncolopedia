@@ -8,7 +8,7 @@ img: t-cancer-de-vejiga-y-rinon.jpg
 img_alt: Carcinoma urotelial de vejiga al microscopio
 img_pie: Carcinoma urotelial que invade el músculo de la vejiga.
 medicapedia: cancer-de-vejiga
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 published: 2026-11-25
 ---
@@ -102,3 +102,10 @@ Ver también: [Cáncer de riñón](../cancer-de-rinon/), [Cáncer del tracto uri
 4. Bajorin DF, et al. Adjuvant nivolumab versus placebo in muscle-invasive urothelial carcinoma (CheckMate 274). *N Engl J Med*. 2021;384:2102-2114. [doi:10.1056/NEJMoa2034442](https://doi.org/10.1056/NEJMoa2034442)
 5. European Association of Urology. EAU Guidelines on non-muscle-invasive and muscle-invasive bladder cancer. [uroweb.org](https://uroweb.org/guidelines)
 6. SEOM y REDECAN. Las cifras del cáncer en España 2025. [seom.org](https://www.seom.org/images/LAS_CIFRAS_DMC2025.pdf)
+
+**Guías y documentos recientes (2024-2026)**
+
+7. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+8. ESMO Guidelines Committee. ESMO Clinical Practice Guideline interim update on first-line therapy in advanced urothelial carcinoma. *Ann Oncol*. 2024;35:485-490. [doi:10.1016/j.annonc.2024.03.001](https://doi.org/10.1016/j.annonc.2024.03.001)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

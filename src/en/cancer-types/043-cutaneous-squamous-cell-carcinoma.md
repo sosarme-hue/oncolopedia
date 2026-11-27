@@ -7,7 +7,7 @@ img: t-carcinoma-epidermoide-cutaneo.jpg
 img_alt: Cutaneous squamous cell carcinoma under the microscope
 img_pie: Cutaneous squamous cell carcinoma under the microscope.
 medicapedia: carcinoma-espinocelular
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -49,3 +49,9 @@ See also: [Basal cell carcinoma](../basal-cell-carcinoma/), [Melanoma](../melano
 1. Stratigos AJ, et al. European consensus-based interdisciplinary guideline for invasive cutaneous squamous cell carcinoma: Part 2. Treatment – update 2023. *Eur J Cancer*. 2023;193:113252.
 2. Migden MR, et al. PD-1 blockade with cemiplimab in advanced cutaneous squamous-cell carcinoma. *N Engl J Med*. 2018;379:341-351. [doi:10.1056/NEJMoa1805131](https://doi.org/10.1056/NEJMoa1805131)
 3. NCI. Skin cancer (PDQ). [cancer.gov/types/skin](https://www.cancer.gov/types/skin)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

@@ -7,7 +7,7 @@ img: t-cancer-de-estomago-y-esofago.jpg
 img_alt: Adenocarcinoma gástrico al microscopio
 img_pie: Adenocarcinoma gástrico al microscopio.
 medicapedia: cancer-de-estomago
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 <div class="note"><b>Esta página compara los dos cánceres.</b> Para la información completa de cada uno, consulta las fichas principales: <a href="../cancer-de-estomago/">Cáncer de estómago</a> y <a href="../cancer-de-esofago/">Cáncer de esófago</a>.</div>
@@ -123,3 +123,12 @@ Ver también: [Tumor del estroma gastrointestinal (GIST)](../tumor-del-estroma-g
 4. Kelly RJ, et al. Adjuvant nivolumab in resected esophageal or gastroesophageal junction cancer (CheckMate 577). *N Engl J Med*. 2021;384:1191-1203. [doi:10.1056/NEJMoa2032125](https://doi.org/10.1056/NEJMoa2032125)
 5. Malfertheiner P, et al. Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report. *Gut*. 2022;71:1724-1762. [doi:10.1136/gutjnl-2022-327745](https://doi.org/10.1136/gutjnl-2022-327745)
 6. Bray F, et al. Global cancer statistics 2022: GLOBOCAN. *CA Cancer J Clin*. 2024;74:229-263. [doi:10.3322/caac.21834](https://doi.org/10.3322/caac.21834)
+
+**Guías y documentos recientes (2024-2026)**
+
+7. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+8. Al-Batran SE, et al., on behalf of the ESMO Guidelines Committee. Gastric and oesophageal cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2026. [esmo.org](https://esmo.org/guidelines/gastrointestinal-cancers/gastric-cancer)
+9. ESMO Guidelines Committee. ESMO Clinical Practice Guideline interim update on the management of oesophageal cancer. *ESMO Open*. 2025;10:104134. [esmo.org](https://esmo.org/guidelines/guidelines-by-topic/esmo-clinical-practice-guidelines-gastrointestinal-cancers/clinical-practice-guideline-oesophageal-cancer/eupdate-oesophageal-cancer)
+10. Immunotherapy and targeted therapy for advanced gastroesophageal cancer: ASCO guideline update. *J Clin Oncol*. 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41747202/)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

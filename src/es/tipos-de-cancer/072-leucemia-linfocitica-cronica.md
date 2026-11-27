@@ -7,6 +7,7 @@ img: t-leucemia-linfocitica-cronica.jpg
 img_alt: Leucemia linfocítica crónica: frotis de sangre al microscopio
 img_pie: Leucemia linfocítica crónica: frotis de sangre al microscopio.
 medicapedia: leucemia-linfatica-cronica
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -45,3 +46,10 @@ Ver también: [Leucemias](../leucemias/), [Linfomas](../linfomas/), [Tricoleucem
 1. Hallek M, et al. iwCLL guidelines for diagnosis, indications for treatment, response assessment, and supportive management of CLL. *Blood*. 2018;131:2745-2760. [doi:10.1182/blood-2017-09-806398](https://doi.org/10.1182/blood-2017-09-806398)
 2. Eichhorst B, et al. First-line venetoclax combinations in chronic lymphocytic leukemia (GAIA/CLL13). *N Engl J Med*. 2023;388:1739-1754. [doi:10.1056/NEJMoa2213093](https://doi.org/10.1056/NEJMoa2213093)
 3. Eichhorst B, et al. Chronic lymphocytic leukaemia: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2021;32:23-33. [doi:10.1016/j.annonc.2020.09.019](https://doi.org/10.1016/j.annonc.2020.09.019)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. Eichhorst B, et al. ESMO Clinical Practice Guideline interim update on new targeted therapies in the first line and at relapse of chronic lymphocytic leukaemia. *Ann Oncol*. 2024;35:762-768. [doi:10.1016/j.annonc.2024.06.016](https://doi.org/10.1016/j.annonc.2024.06.016)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

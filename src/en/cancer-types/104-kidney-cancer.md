@@ -8,7 +8,7 @@ health: si
 orden: 34.2
 grupo: Urological and adrenal
 medicapedia: carcinoma-renal
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 published: 2026-11-25
 ---
@@ -98,3 +98,10 @@ See also: [Clear cell kidney cancer](../clear-cell-kidney-cancer/), [Bladder can
 3. Motzer RJ, et al. Nivolumab plus ipilimumab versus sunitinib in advanced renal-cell carcinoma (CheckMate 214). *N Engl J Med*. 2018;378:1277-1290. [doi:10.1056/NEJMoa1712126](https://doi.org/10.1056/NEJMoa1712126)
 4. European Association of Urology. EAU Guidelines on renal cell carcinoma. [uroweb.org](https://uroweb.org/guidelines)
 5. Bray F, et al. Global cancer statistics 2022: GLOBOCAN. *CA Cancer J Clin*. 2024;74:229-263. [doi:10.3322/caac.21834](https://doi.org/10.3322/caac.21834)
+
+**Recent guidelines and documents (2024-2026)**
+
+6. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+7. Powles T, et al. Renal cell carcinoma: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2024;35:692-706. [doi:10.1016/j.annonc.2024.05.537](https://doi.org/10.1016/j.annonc.2024.05.537)
+
+*Sources reviewed and updated in November 2026.*

@@ -7,7 +7,7 @@ img: t-carcinoma-de-celulas-de-merkel.jpg
 img_alt: Carcinoma de células de Merkel al microscopio
 img_pie: Carcinoma de células de Merkel al microscopio.
 medicapedia: carcinoma-de-celulas-de-merkel
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -46,3 +46,10 @@ Ver también: [Melanoma](../melanoma-y-cancer-de-piel/), [Tumores neuroendocrino
 1. Gauci ML, et al. Diagnosis and treatment of Merkel cell carcinoma: European consensus-based interdisciplinary guideline – update 2022. *Eur J Cancer*. 2022;171:203-231.
 2. Nghiem PT, et al. PD-1 blockade with pembrolizumab in advanced Merkel-cell carcinoma. *N Engl J Med*. 2016;374:2542-2552. [doi:10.1056/NEJMoa1603702](https://doi.org/10.1056/NEJMoa1603702)
 3. Merkel Cell Carcinoma (University of Washington). [merkelcell.org](https://merkelcell.org)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. Lugowska I, et al. Merkel-cell carcinoma: ESMO-EURACAN Clinical Practice Guideline for diagnosis, treatment and follow-up. *ESMO Open*. 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38796285/)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

@@ -7,6 +7,7 @@ img: t-neoplasias-mieloproliferativas.jpg
 img_alt: Myeloproliferative neoplasms: special staining under the microscope
 img_pie: Myeloproliferative neoplasms: special staining under the microscope.
 medicapedia: sindrome-mieloproliferativo-cronico
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -38,3 +39,9 @@ See also: [Chronic myeloid leukaemia](../chronic-myeloid-leukaemia/), [Myelodysp
 1. Vannucchi AM, et al. Philadelphia chromosome-negative chronic myeloproliferative neoplasms: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2015;26(Suppl 5):v85-v99.
 2. Barbui T, et al. Philadelphia chromosome-negative classical myeloproliferative neoplasms: revised management recommendations from European LeukemiaNet. *Leukemia*. 2018;32:1057-1069. [doi:10.1038/s41375-018-0077-1](https://doi.org/10.1038/s41375-018-0077-1)
 3. MPN Voice. [mpnvoice.org.uk](https://www.mpnvoice.org.uk)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

@@ -7,6 +7,7 @@ img: t-cancer-de-prostata.jpg
 img_alt: Cáncer de próstata al microscopio
 img_pie: Cáncer de próstata al microscopio.
 medicapedia: cancer-de-prostata
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -120,3 +121,12 @@ Ver también: [Cáncer de testículo](../cancer-de-testiculo/), [Hormonoterapia]
 4. Sartor O, et al. Lutetium-177-PSMA-617 for metastatic castration-resistant prostate cancer (VISION). *N Engl J Med*. 2021;385:1091-1103. [doi:10.1056/NEJMoa2107322](https://doi.org/10.1056/NEJMoa2107322)
 5. Kasivisvanathan V, et al. MRI-targeted or standard biopsy for prostate-cancer diagnosis (PRECISION). *N Engl J Med*. 2018;378:1767-1777. [doi:10.1056/NEJMoa1801993](https://doi.org/10.1056/NEJMoa1801993)
 6. Consejo de la Unión Europea. Recomendación sobre el cribado del cáncer (2022/C 473/01). [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022H1214(01))
+
+**Guías y documentos recientes (2024-2026)**
+
+7. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+8. ESMO Guidelines Committee. Local and locoregional prostate cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2026. [doi:10.1016/j.annonc.2025.12.009](https://doi.org/10.1016/j.annonc.2025.12.009)
+9. ESMO Guidelines Committee. Advanced and metastatic prostate cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2026. [doi:10.1016/j.annonc.2026.01.015](https://doi.org/10.1016/j.annonc.2026.01.015)
+10. European Association of Urology. EAU Guidelines on Prostate Cancer, edición 2026. [uroweb.org](https://uroweb.org/guidelines/prostate-cancer/summary-of-changes/2026)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

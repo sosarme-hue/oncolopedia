@@ -4,6 +4,7 @@ desc: One of the rarest gynaecological cancers. It is almost always an HPV-relat
 health: si
 grupo: Breast and gynaecological
 medicapedia: cancer-de-vagina
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -49,3 +50,9 @@ See also: [Cervical cancer](../cervical-cancer/), [Vulval cancer](../vulval-canc
 1. NCI. Vaginal cancer treatment (PDQ). [cancer.gov/types/vaginal](https://www.cancer.gov/types/vaginal)
 2. Adams TS, Rogers LJ, Cuello MA. Cancer of the vagina: 2021 update. *Int J Gynaecol Obstet*. 2021;155(Suppl 1):19-27.
 3. Bray F, et al. Global cancer statistics 2022 (GLOBOCAN). *CA Cancer J Clin*. 2024;74:229-263. [doi:10.3322/caac.21834](https://doi.org/10.3322/caac.21834)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

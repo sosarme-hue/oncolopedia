@@ -7,6 +7,7 @@ img: t-linfomas-t.jpg
 img_alt: Linfomas T: frotis de sangre al microscopio
 img_pie: Linfomas T: frotis de sangre al microscopio.
 medicapedia: leucemia-linfoma-de-celulas-t-del-adulto
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -34,3 +35,10 @@ Ver también: [Linfomas](../linfomas/), [Linfomas cutáneos](../linfomas-cutaneo
 1. Horwitz S, et al. Brentuximab vedotin with chemotherapy for CD30-positive peripheral T-cell lymphoma (ECHELON-2). *Lancet*. 2019;393:229-240. [doi:10.1016/S0140-6736(18)32984-2](https://doi.org/10.1016/S0140-6736(18)32984-2)
 2. d'Amore F, et al. Peripheral T-cell lymphomas: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2015;26(Suppl 5):v108-v115.
 3. US Food and Drug Administration. Breast implant-associated anaplastic large cell lymphoma (BIA-ALCL). [fda.gov](https://www.fda.gov)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+5. ESMO Guidelines Committee. Lymphomas: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2025;36:1263-1284. [doi:10.1016/j.annonc.2025.07.014](https://doi.org/10.1016/j.annonc.2025.07.014)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

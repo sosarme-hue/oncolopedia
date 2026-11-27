@@ -7,6 +7,7 @@ img: t-enfermedad-trofoblastica-gestacional.jpg
 img_alt: Gestational trophoblastic disease under the microscope
 img_pie: Gestational trophoblastic disease under the microscope.
 medicapedia: coriocarcinoma
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -51,3 +52,9 @@ See also: [Ovarian germ cell and stromal tumours](../ovarian-germ-cell-and-strom
 1. Seckl MJ, et al. Gestational trophoblastic disease: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2013;24(Suppl 6):vi39-vi50. [doi:10.1093/annonc/mdt345](https://doi.org/10.1093/annonc/mdt345)
 2. NCI. Gestational trophoblastic disease treatment (PDQ). [cancer.gov/types/gestational-trophoblastic](https://www.cancer.gov/types/gestational-trophoblastic)
 3. Ngan HYS, et al. Diagnosis and management of gestational trophoblastic disease: 2021 update. *Int J Gynaecol Obstet*. 2021;155(Suppl 1):86-93.
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

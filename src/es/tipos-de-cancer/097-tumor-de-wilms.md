@@ -7,7 +7,7 @@ img: t-tumor-de-wilms.jpg
 img_alt: Tumor de Wilms al microscopio
 img_pie: Tumor de Wilms al microscopio.
 medicapedia: tumor-de-wilms
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -35,3 +35,10 @@ Ver también: [Cáncer infantil](../cancer-infantil/), [Neuroblastoma](../neurob
 
 1. van den Heuvel-Eibrink MM, et al. Position paper: rationale for the treatment of Wilms tumour in the UMBRELLA SIOP-RTSG 2016 protocol. *Nat Rev Urol*. 2017;14:743-752.
 2. NCI. Tumor de Wilms y otros tumores de riñón infantiles (PDQ). [cancer.gov/espanol/tipos/rinon](https://www.cancer.gov/espanol/tipos/rinon)
+
+**Guías y documentos recientes (2024-2026)**
+
+3. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+4. SIOP Europe y Childhood Cancer International Europe. European Standards of Care for Children and Adolescents with Cancer 2025. Viena; 2025. [ccieurope.eu](https://ccieurope.eu/wp-content/uploads/2025/09/European-Standards-of-Care-for-Children-and-Adolescents-with-Cancer-2025.pdf)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

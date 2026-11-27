@@ -7,7 +7,7 @@ img: t-tumor-del-estroma-gastrointestinal-gist.jpg
 img_alt: Tumor del estroma gastrointestinal (GIST): tinción especial al microscopio
 img_pie: Tumor del estroma gastrointestinal (GIST): tinción especial al microscopio.
 medicapedia: tumor-del-estroma-gastrointestinal
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -58,3 +58,9 @@ Ver también: [Sarcomas](../sarcomas/), [Cáncer de estómago y esófago](../can
 2. Joensuu H, et al. One vs three years of adjuvant imatinib for operable gastrointestinal stromal tumor (SSG XVIII). *JAMA*. 2012;307:1265-1272. [doi:10.1001/jama.2012.347](https://doi.org/10.1001/jama.2012.347)
 3. Demetri GD, et al. Efficacy and safety of imatinib mesylate in advanced gastrointestinal stromal tumors. *N Engl J Med*. 2002;347:472-480. [doi:10.1056/NEJMoa020461](https://doi.org/10.1056/NEJMoa020461)
 4. Grupo Español de Investigación en Sarcomas (GEIS). [grupogeis.org](https://www.grupogeis.org)
+
+**Guías y documentos recientes (2024-2026)**
+
+5. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

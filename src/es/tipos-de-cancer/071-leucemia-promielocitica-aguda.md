@@ -7,7 +7,7 @@ img: t-leucemia-promielocitica-aguda.jpg
 img_alt: Leucemia promielocítica aguda: frotis de sangre al microscopio
 img_pie: Leucemia promielocítica aguda: frotis de sangre al microscopio.
 medicapedia: leucemia-promielocitica-aguda
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -40,3 +40,9 @@ Ver también: [Leucemia mieloide aguda](../leucemia-mieloide-aguda/), [Leucemias
 
 1. Lo-Coco F, et al. Retinoic acid and arsenic trioxide for acute promyelocytic leukemia (APL0406). *N Engl J Med*. 2013;369:111-121. [doi:10.1056/NEJMoa1300874](https://doi.org/10.1056/NEJMoa1300874)
 2. Sanz MA, et al. Management of acute promyelocytic leukemia: updated recommendations from an expert panel of the European LeukemiaNet. *Blood*. 2019;133:1630-1643. [doi:10.1182/blood-2019-01-894980](https://doi.org/10.1182/blood-2019-01-894980)
+
+**Guías y documentos recientes (2024-2026)**
+
+3. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

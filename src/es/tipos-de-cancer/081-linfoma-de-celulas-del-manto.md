@@ -7,7 +7,7 @@ img: t-linfoma-de-celulas-del-manto.jpg
 img_alt: Linfoma de células del manto al microscopio
 img_pie: Linfoma de células del manto al microscopio.
 medicapedia: linfoma-de-celulas-de-manto
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -37,3 +37,10 @@ Ver también: [Linfomas](../linfomas/), [Leucemia linfocítica crónica](../leuc
 
 1. Dreyling M, et al. Efficacy and safety of ibrutinib combined with standard first-line treatment or as substitute for autologous stem-cell transplantation in younger patients with mantle cell lymphoma (TRIANGLE). *Lancet*. 2024;403:2293-2306.00184-3)
 2. Wang M, et al. KTE-X19 CAR T-cell therapy in relapsed or refractory mantle-cell lymphoma (ZUMA-2). *N Engl J Med*. 2020;382:1331-1342. [doi:10.1056/NEJMoa1914347](https://doi.org/10.1056/NEJMoa1914347)
+
+**Guías y documentos recientes (2024-2026)**
+
+3. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+4. ESMO Guidelines Committee. Lymphomas: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2025;36:1263-1284. [doi:10.1016/j.annonc.2025.07.014](https://doi.org/10.1016/j.annonc.2025.07.014)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

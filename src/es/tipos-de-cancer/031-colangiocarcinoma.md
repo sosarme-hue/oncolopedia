@@ -7,6 +7,7 @@ img: t-colangiocarcinoma.jpg
 img_alt: Colangiocarcinoma: tinción especial al microscopio
 img_pie: Colangiocarcinoma: tinción especial al microscopio.
 medicapedia: colangiocarcinoma
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -57,3 +58,10 @@ Ver también: [Cáncer de hígado](../cancer-de-higado/), [Cáncer de vesícula 
 2. Oh DY, et al. Durvalumab plus gemcitabine and cisplatin in advanced biliary tract cancer (TOPAZ-1). *NEJM Evid*. 2022;1(8). [doi:10.1056/EVIDoa2200015](https://doi.org/10.1056/EVIDoa2200015)
 3. Primrose JN, et al. Capecitabine compared with observation in resected biliary tract cancer (BILCAP). *Lancet Oncol*. 2019;20:663-673. [doi:10.1016/S1470-2045(18)30915-X](https://doi.org/10.1016/S1470-2045(18)30915-X)
 4. NCI. Cáncer de las vías biliares (PDQ). [cancer.gov/espanol/tipos/higado/paciente/tratamiento-vias-biliares-pdq](https://www.cancer.gov/espanol/tipos/higado/paciente/tratamiento-vias-biliares-pdq)
+
+**Guías y documentos recientes (2024-2026)**
+
+5. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+6. ESMO Guidelines Committee. ESMO Clinical Practice Guideline interim update on the management of biliary tract cancer. *ESMO Open*. 2025;10:104003. [esmo.org](https://esmo.org/guidelines/guidelines-by-topic/esmo-clinical-practice-guidelines-gastrointestinal-cancers/clinical-practice-guideline-biliary-tract-cancer/eupdate-biliary-tract-cancer-recommendations)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

@@ -7,6 +7,7 @@ img: t-cancer-de-pulmon-microcitico.jpg
 img_alt: Cáncer de pulmón microcítico al microscopio
 img_pie: Cáncer de pulmón microcítico al microscopio.
 medicapedia: cancer-de-pulmon-de-celulas-pequenas
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -60,3 +61,9 @@ Ver también: [Cáncer de pulmón](../cancer-de-pulmon/), [Tumores carcinoides d
 3. Horn L, et al. First-line atezolizumab plus chemotherapy in extensive-stage small-cell lung cancer (IMpower133). *N Engl J Med*. 2018;379:2220-2229. [doi:10.1056/NEJMoa1809064](https://doi.org/10.1056/NEJMoa1809064)
 4. Mountzios G, et al. Tarlatamab in small-cell lung cancer after platinum-based chemotherapy (DeLLphi-304). *N Engl J Med*. 2025.
 5. NCI. Cáncer de pulmón de células pequeñas (PDQ). [cancer.gov/espanol/tipos/pulmon](https://www.cancer.gov/espanol/tipos/pulmon)
+
+**Guías y documentos recientes (2024-2026)**
+
+6. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

@@ -7,7 +7,7 @@ img: t-leucemia-linfoblastica-aguda.jpg
 img_alt: Acute lymphoblastic leukaemia: blood smear under the microscope
 img_pie: Acute lymphoblastic leukaemia: blood smear under the microscope.
 medicapedia: leucemia-linfoide-aguda
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -44,3 +44,9 @@ See also: [Leukaemias](../leukaemias/), [Childhood cancer](../childhood-cancer/)
 2. Litzow MR, et al. Blinatumomab for MRD-negative acute lymphoblastic leukemia in adults (E1910). *N Engl J Med*. 2024;391:320-333.
 3. Gupta S, et al. Blinatumomab in standard-risk B-cell acute lymphoblastic leukemia in children (AALL1731). *N Engl J Med*. 2025.
 4. Maude SL, et al. Tisagenlecleucel in children and young adults with B-cell lymphoblastic leukemia. *N Engl J Med*. 2018;378:439-448. [doi:10.1056/NEJMoa1709866](https://doi.org/10.1056/NEJMoa1709866)
+
+**Recent guidelines and documents (2024-2026)**
+
+5. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

@@ -7,6 +7,7 @@ img: t-leucemia-mieloide-aguda.jpg
 img_alt: Acute myeloid leukaemia: blood smear under the microscope
 img_pie: Acute myeloid leukaemia: blood smear under the microscope.
 medicapedia: leucemia-mieloide-aguda
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -43,3 +44,10 @@ See also: [Leukaemias](../leukaemias/), [Acute promyelocytic leukaemia](../acute
 2. DiNardo CD, et al. Azacitidine and venetoclax in previously untreated acute myeloid leukemia (VIALE-A). *N Engl J Med*. 2020;383:617-629. [doi:10.1056/NEJMoa2012971](https://doi.org/10.1056/NEJMoa2012971)
 3. Stone RM, et al. Midostaurin plus chemotherapy for acute myeloid leukemia with a FLT3 mutation (RATIFY). *N Engl J Med*. 2017;377:454-464. [doi:10.1056/NEJMoa1614359](https://doi.org/10.1056/NEJMoa1614359)
 4. Issa GC, et al. The menin inhibitor revumenib in KMT2A-rearranged or NPM1-mutant leukaemia. *Nature*. 2023;615:920-924. [doi:10.1038/s41586-023-05812-3](https://doi.org/10.1038/s41586-023-05812-3)
+
+**Recent guidelines and documents (2024-2026)**
+
+5. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+6. Genetic risk classification for adults with AML receiving less-intensive therapies: the 2024 ELN recommendations. *Blood*. 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39133932/)
+
+*Sources reviewed and updated in November 2026.*

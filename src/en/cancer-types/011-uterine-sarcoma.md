@@ -7,6 +7,7 @@ img: t-sarcoma-uterino.jpg
 img_alt: Uterine sarcoma under the microscope
 img_pie: Uterine sarcoma under the microscope.
 medicapedia: sarcoma-uterino
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -55,3 +56,9 @@ See also: [Sarcomas](../sarcomas/), [Leiomyosarcoma](../leiomyosarcoma/), [Endom
 1. Gronchi A, et al. Soft tissue and visceral sarcomas: ESMO-EURACAN-GENTURIS Clinical Practice Guidelines. *Ann Oncol*. 2021;32:1348-1365. [doi:10.1016/j.annonc.2021.07.006](https://doi.org/10.1016/j.annonc.2021.07.006)
 2. NCI. Uterine sarcoma treatment (PDQ). [cancer.gov/types/uterine](https://www.cancer.gov/types/uterine/patient/uterine-sarcoma-treatment-pdq)
 3. US Food and Drug Administration. Laparoscopic power morcellators. [fda.gov](https://www.fda.gov/medical-devices/surgery-devices/laparoscopic-power-morcellators)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

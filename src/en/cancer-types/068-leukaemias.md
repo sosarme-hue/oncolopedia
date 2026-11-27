@@ -7,7 +7,7 @@ img: t-leucemias.jpg
 img_alt: Blood smear in acute leukaemia
 img_pie: Blood smear in acute leukaemia.
 medicapedia: leucemia
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -80,3 +80,12 @@ See also: [Lymphomas](../lymphomas/), [Multiple myeloma](../multiple-myeloma/), 
 2. Döhner H, et al. Diagnosis and management of AML in adults: 2022 recommendations from an international expert panel on behalf of the ELN. *Blood*. 2022;140:1345-1377. [doi:10.1182/blood.2022016867](https://doi.org/10.1182/blood.2022016867)
 3. Blood Cancer UK. [bloodcancer.org.uk](https://bloodcancer.org.uk)
 4. Leukaemia Care. [leukaemiacare.org.uk](https://www.leukaemiacare.org.uk)
+
+**Recent guidelines and documents (2024-2026)**
+
+5. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+6. Eichhorst B, et al. ESMO Clinical Practice Guideline interim update on new targeted therapies in the first line and at relapse of chronic lymphocytic leukaemia. *Ann Oncol*. 2024;35:762-768. [doi:10.1016/j.annonc.2024.06.016](https://doi.org/10.1016/j.annonc.2024.06.016)
+7. Apperley JF, et al. 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia. *Leukemia*. 2025;39:1797-1813. [doi:10.1038/s41375-025-02664-w](https://doi.org/10.1038/s41375-025-02664-w)
+8. Genetic risk classification for adults with AML receiving less-intensive therapies: the 2024 ELN recommendations. *Blood*. 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39133932/)
+
+*Sources reviewed and updated in November 2026.*

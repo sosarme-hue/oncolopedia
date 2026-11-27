@@ -3,6 +3,7 @@ title: Waldenström macroglobulinaemia
 desc: An indolent lymphoma that makes an IgM protein which thickens the blood. It almost always carries the MYD88 mutation and responds to BTK inhibitors.
 health: si
 grupo: Blood: leukaemias, lymphomas and myeloma
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -31,3 +32,9 @@ See also: [Multiple myeloma](../multiple-myeloma/), [Lymphomas](../lymphomas/).
 1. Kastritis E, et al. Waldenström's macroglobulinaemia: EHA-ESMO Clinical Practice Guideline. *Ann Oncol*. 2018;29(Suppl 4):iv41-iv50.
 2. Treon SP, et al. MYD88 L265P somatic mutation in Waldenström's macroglobulinemia. *N Engl J Med*. 2012;367:826-833. [doi:10.1056/NEJMoa1200710](https://doi.org/10.1056/NEJMoa1200710)
 3. International Waldenstrom's Macroglobulinemia Foundation. [iwmf.com](https://iwmf.com)
+
+**Recent guidelines and documents (2024-2026)**
+
+4. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Sources reviewed and updated in November 2026.*

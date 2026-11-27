@@ -7,6 +7,7 @@ img: t-condrosarcoma.jpg
 img_alt: Condrosarcoma al microscopio
 img_pie: Condrosarcoma al microscopio.
 medicapedia: condrosarcoma
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -30,3 +31,9 @@ Ver también: [Osteosarcoma](../osteosarcoma/), [Sarcomas](../sarcomas/).
 
 1. Strauss SJ, et al. Bone sarcomas: ESMO-EURACAN-GENTURIS-ERN PaedCan Clinical Practice Guideline. *Ann Oncol*. 2021;32:1520-1536.
 2. NCI. Chondrosarcoma. [cancer.gov](https://www.cancer.gov/pediatric-adult-rare-tumor/rare-tumors/rare-bone-tumors/chondrosarcoma)
+
+**Guías y documentos recientes (2024-2026)**
+
+3. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

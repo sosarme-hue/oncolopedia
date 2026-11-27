@@ -7,6 +7,7 @@ img: t-mesotelioma.jpg
 img_alt: Mesothelioma under the microscope
 img_pie: Mesothelioma under the microscope.
 medicapedia: mesotelioma
+updated: 2026-11-27
 ---
 ## At a glance
 
@@ -57,3 +58,10 @@ See also: [Lung cancer](../lung-cancer/), [Tobacco, alcohol and other risks](../
 2. Baas P, et al. First-line nivolumab plus ipilimumab in unresectable malignant pleural mesothelioma (CheckMate 743). *Lancet*. 2021;397:375-386. [doi:10.1016/S0140-6736(20)32714-8](https://doi.org/10.1016/S0140-6736(20)32714-8)
 3. IARC. Asbestos. Monographs Volume 100C. [monographs.iarc.who.int](https://monographs.iarc.who.int)
 4. Mesothelioma UK. [mesothelioma.uk.com](https://www.mesothelioma.uk.com)
+
+**Recent guidelines and documents (2024-2026)**
+
+5. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+6. Treatment of pleural mesothelioma: ASCO guideline clinical insights. *JCO Oncol Pract*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40053896/)
+
+*Sources reviewed and updated in November 2026.*

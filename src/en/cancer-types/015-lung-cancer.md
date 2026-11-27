@@ -7,7 +7,7 @@ img: t-cancer-de-pulmon.jpg
 img_alt: Lung cancer under the microscope
 img_pie: Lung cancer under the microscope.
 medicapedia: cancer-de-pulmon
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## At a glance
@@ -149,3 +149,10 @@ See also: [Small cell lung cancer](../small-cell-lung-cancer/), [Mesothelioma](.
 5. Saji H, et al. Segmentectomy versus lobectomy in small-sized peripheral NSCLC (JCOG0802/WJOG4607L). *Lancet*. 2022;399:1607-1617. [doi:10.1016/S0140-6736(21)02333-3](https://doi.org/10.1016/S0140-6736(21)02333-3)
 6. Bray F, et al. Global cancer statistics 2022: GLOBOCAN. *CA Cancer J Clin*. 2024;74:229-263. [doi:10.3322/caac.21834](https://doi.org/10.3322/caac.21834)
 7. NHS England. Lung cancer screening. [nhs.uk](https://www.nhs.uk/conditions/lung-cancer-screening/)
+
+**Recent guidelines and documents (2024-2026)**
+
+8. SEOM and REDECAN. Las cifras del cáncer en España 2026 (Cancer figures in Spain 2026). Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+9. ESMO Guidelines Committee. Early and locally advanced non-small-cell lung cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2025;36:1245-1262. [doi:10.1016/j.annonc.2025.08.003](https://doi.org/10.1016/j.annonc.2025.08.003)
+
+*Sources reviewed and updated in November 2026.*

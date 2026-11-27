@@ -7,6 +7,7 @@ img: t-timoma-y-carcinoma-timico.jpg
 img_alt: Timoma y carcinoma tímico al microscopio
 img_pie: Timoma y carcinoma tímico al microscopio.
 medicapedia: timoma
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -48,3 +49,9 @@ Ver también: [Mesotelioma](../mesotelioma/), [Tumores carcinoides de pulmón](.
 1. Girard N, et al. Thymic epithelial tumours: ESMO Clinical Practice Guidelines. *Ann Oncol*. 2015;26(Suppl 5):v40-v55. [doi:10.1093/annonc/mdv277](https://doi.org/10.1093/annonc/mdv277)
 2. NCI. Tratamiento del timoma y el carcinoma tímico (PDQ). [cancer.gov/espanol/tipos/timoma](https://www.cancer.gov/espanol/tipos/timoma)
 3. International Thymic Malignancy Interest Group (ITMIG). [itmig.org](https://www.itmig.org)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

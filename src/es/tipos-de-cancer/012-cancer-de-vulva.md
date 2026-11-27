@@ -4,6 +4,7 @@ desc: Cáncer poco frecuente de los genitales externos femeninos. El picor persi
 health: si
 grupo: Mama y ginecológicos
 medicapedia: cancer-vulvar
+updated: 2026-11-27
 ---
 ## En resumen
 
@@ -61,3 +62,9 @@ Ver también: [Cáncer de vagina](../cancer-de-vagina/), [Cáncer de cuello uter
 1. Oonk MHM, et al. European Society of Gynaecological Oncology guidelines for the management of patients with vulvar cancer – update 2023. *Int J Gynecol Cancer*. 2023;33:1023-1043.
 2. Van der Zee AGJ, et al. Sentinel node dissection is safe in the treatment of early-stage vulvar cancer (GROINSS-V). *J Clin Oncol*. 2008;26:884-889. [doi:10.1200/JCO.2007.14.0566](https://doi.org/10.1200/JCO.2007.14.0566)
 3. NCI. Cáncer de vulva. [cancer.gov/espanol/tipos/vulva](https://www.cancer.gov/espanol/tipos/vulva)
+
+**Guías y documentos recientes (2024-2026)**
+
+4. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

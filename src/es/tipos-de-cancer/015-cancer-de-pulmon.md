@@ -7,7 +7,7 @@ img: t-cancer-de-pulmon.jpg
 img_alt: Cáncer de pulmón al microscopio
 img_pie: Cáncer de pulmón al microscopio.
 medicapedia: cancer-de-pulmon
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -149,3 +149,10 @@ Ver también: [Cáncer de pulmón microcítico](../cancer-de-pulmon-microcitico/
 5. Saji H, et al. Segmentectomy versus lobectomy in small-sized peripheral NSCLC (JCOG0802/WJOG4607L). *Lancet*. 2022;399:1607-1617. [doi:10.1016/S0140-6736(21)02333-3](https://doi.org/10.1016/S0140-6736(21)02333-3)
 6. Bray F, et al. Global cancer statistics 2022: GLOBOCAN. *CA Cancer J Clin*. 2024;74:229-263. [doi:10.3322/caac.21834](https://doi.org/10.3322/caac.21834)
 7. SEOM. Las cifras del cáncer en España 2025. [seom.org](https://www.seom.org/images/LAS_CIFRAS_DMC2025.pdf)
+
+**Guías y documentos recientes (2024-2026)**
+
+8. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+9. ESMO Guidelines Committee. Early and locally advanced non-small-cell lung cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2025;36:1245-1262. [doi:10.1016/j.annonc.2025.08.003](https://doi.org/10.1016/j.annonc.2025.08.003)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

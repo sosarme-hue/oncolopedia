@@ -7,7 +7,7 @@ img: t-cancer-de-mama.jpg
 img_alt: Cáncer de mama al microscopio
 img_pie: Cáncer de mama al microscopio.
 medicapedia: cancer-de-mama
-updated: 2026-11-25
+updated: 2026-11-27
 revisado: 2026-11-25
 ---
 ## En resumen
@@ -179,3 +179,10 @@ Ver también: [Carcinoma ductal in situ](../carcinoma-ductal-in-situ/), [Cáncer
 6. Early Breast Cancer Trialists' Collaborative Group. Effect of radiotherapy after breast-conserving surgery on 10-year recurrence and 15-year breast cancer death. *Lancet*. 2011;378:1707-1716. [doi:10.1016/S0140-6736(11)61629-2](https://doi.org/10.1016/S0140-6736(11)61629-2)
 7. Ministerio de Sanidad. El Consejo Interterritorial aprueba ampliar el cribado de cáncer de mama a las mujeres de 45 a 74 años. Nota de prensa, 23 de octubre de 2026. [sanidad.gob.es](https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6990)
 8. National Cancer Institute. SEER Cancer Stat Facts: Female Breast Cancer (supervivencia relativa a cinco años por estadio, diagnósticos de 2015-2021, Estados Unidos). [seer.cancer.gov](https://seer.cancer.gov/statfacts/html/breast.html)
+
+**Guías y documentos recientes (2024-2026)**
+
+9. SEOM y REDECAN. Las cifras del cáncer en España 2026. Madrid: SEOM; 2026. [seom.org](https://seom.org/info-sobre-el-cancer)
+10. Loi S, Harbeck N, et al., on behalf of the ESMO Guidelines Committee. Metastatic breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. *Ann Oncol*. 2026. [doi:10.1016/j.annonc.2026.05.707](https://doi.org/10.1016/j.annonc.2026.05.707)
+
+*Fuentes revisadas y actualizadas en noviembre de 2026.*

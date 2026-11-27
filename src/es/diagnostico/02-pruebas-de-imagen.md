@@ -1,6 +1,9 @@
 ---
 title: Pruebas de imagen
 desc: Ecografía, TC, resonancia y PET: para qué sirve cada una en el cáncer, cuándo se piden y por qué no todas las pruebas están indicadas en todos los casos.
+img: a-pruebas-de-imagen.jpg
+img_alt: Preparación de un paciente para un TC
+img_pie: Preparación de un paciente para un TC.
 health: si
 ---
 ## Para qué sirven

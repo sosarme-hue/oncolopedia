@@ -1,6 +1,9 @@
 ---
 title: ¿Cómo acompañar a alguien con cáncer?
 desc: Qué decir y qué no, cómo ofrecer ayuda útil y cómo cuidarse uno mismo cuando un familiar o un amigo tiene cáncer.
+img: a-como-acompanar-a-alguien-con-cancer.jpg
+img_alt: Dos manos entrelazadas
+img_pie: Dos manos entrelazadas.
 health: si
 ---
 ## Estar, más que acertar

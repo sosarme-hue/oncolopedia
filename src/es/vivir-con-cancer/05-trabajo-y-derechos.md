@@ -1,6 +1,9 @@
 ---
 title: Trabajo y derechos
 desc: La baja laboral, la vuelta al trabajo, el grado de discapacidad y el derecho al olvido oncológico: lo que conviene saber en España.
+img: a-trabajo-y-derechos.jpg
+img_alt: Mujer trabajando con el ordenador
+img_pie: Mujer trabajando con el ordenador.
 health: si
 ---
 ## La baja laboral

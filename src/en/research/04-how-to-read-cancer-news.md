@@ -1,6 +1,9 @@
 ---
 title: How to read cancer news
 desc: "New drug cures cancer", "this food prevents tumours". Ten questions to tell real advances from empty promises.
+img: a-como-leer-una-noticia-sobre-cancer.jpg
+img_alt: Reading the newspaper at a café
+img_pie: Reading the newspaper at a café.
 health: si
 ---
 ## Why it matters

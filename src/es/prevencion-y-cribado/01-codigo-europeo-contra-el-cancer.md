@@ -1,6 +1,9 @@
 ---
 title: El Código Europeo contra el Cáncer
 desc: Recomendaciones sencillas, basadas en la evidencia, que cualquier persona puede seguir para reducir su riesgo de cáncer. Según la OMS, entre el 30 y el 50 % de los cánceres podrían prevenirse.
+img: a-codigo-europeo-contra-el-cancer.jpg
+img_alt: Clase de ejercicio físico
+img_pie: Clase de ejercicio físico.
 health: si
 ---
 ## Qué es

@@ -1,6 +1,9 @@
 ---
 title: Long-term survivors
 desc: More and more people live for many years after cancer. What follow-up they need, what late effects can appear and how to look after their health afterwards.
+img: a-largos-supervivientes.jpg
+img_alt: An older woman smiling
+img_pie: An older woman smiling.
 health: si
 ---
 ## More and more survivors

@@ -1,6 +1,9 @@
 ---
 title: Cómo entender el informe de anatomía patológica
 desc: El informe de anatomía patológica es el documento que confirma el diagnóstico y guía el tratamiento. Qué partes tiene, qué significan sus términos más habituales y qué preguntar.
+img: a-como-entender-el-informe-de-anatomia-patologica.jpg
+img_alt: Preparación histológica bajo el microscopio
+img_pie: Preparación histológica bajo el microscopio.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

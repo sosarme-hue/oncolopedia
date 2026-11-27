@@ -1,6 +1,9 @@
 ---
 title: Immunotherapy
 desc: Treatments that help the immune system recognise and destroy cancer. How checkpoint inhibitors work, which cancers they are used in and what effects they can have.
+img: a-inmunoterapia.jpg
+img_alt: How T cells recognise and attack tumour cells
+img_pie: How T cells recognise and attack tumour cells.
 health: si
 ---
 ## The idea

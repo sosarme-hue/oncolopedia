@@ -1,6 +1,9 @@
 ---
 title: Clinical trials
 desc: What a clinical trial is, what its phases mean, how to find out if there is one for you and what to ask before taking part.
+img: a-ensayos-clinicos.jpg
+img_alt: A clinical trial participant receiving an injection
+img_pie: A clinical trial participant receiving an injection.
 health: si
 ---
 ## What it is

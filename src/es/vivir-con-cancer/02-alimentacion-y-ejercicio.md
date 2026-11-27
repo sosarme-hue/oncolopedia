@@ -1,6 +1,9 @@
 ---
 title: Alimentación y ejercicio
 desc: Qué comer durante el tratamiento, por qué las dietas «anticáncer» no funcionan y cómo el ejercicio físico mejora el cansancio, la calidad de vida y, en algunos cánceres, el pronóstico.
+img: a-alimentacion-y-ejercicio.jpg
+img_alt: Frutas y verduras variadas
+img_pie: Frutas y verduras variadas.
 health: si
 ---
 ## Durante el tratamiento

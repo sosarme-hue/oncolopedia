@@ -1,6 +1,9 @@
 ---
 title: Cancer surgery
 desc: Surgery is still the treatment that cures the most solid cancers. What it is for, what margins and sentinel nodes are, and how it has moved towards less aggressive techniques.
+img: a-cirugia.jpg
+img_alt: A surgeon operating
+img_pie: A surgeon operating.
 health: si
 ---
 ## What it is for

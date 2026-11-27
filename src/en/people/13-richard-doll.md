@@ -1,6 +1,9 @@
 ---
 title: Richard Doll
 desc: The British epidemiologist who, with Austin Bradford Hill, showed that smoking causes lung cancer. His British doctors study lasted 50 years.
+img: p-richard-doll.jpg
+img_alt: Richard Doll
+img_pie: Richard Doll.
 vida: 1912-2005
 pais: United Kingdom
 campo: Epidemiology

@@ -1,6 +1,9 @@
 ---
 title: Theodor Boveri
 desc: El biólogo alemán que en 1914 propuso que el cáncer nace de células con cromosomas alterados. Una idea adelantada medio siglo a su tiempo.
+img: p-theodor-boveri.jpg
+img_alt: Theodor Boveri
+img_pie: Theodor Boveri.
 vida: 1862-1915
 pais: Alemania
 campo: Biología celular

@@ -1,6 +1,9 @@
 ---
 title: Cirugía oncológica
 desc: La cirugía sigue siendo el tratamiento que más cánceres sólidos cura. Para qué sirve, qué son los márgenes y el ganglio centinela, y cómo ha cambiado hacia técnicas menos agresivas.
+img: a-cirugia.jpg
+img_alt: Cirujano operando
+img_pie: Cirujano operando.
 health: si
 ---
 ## Para qué sirve

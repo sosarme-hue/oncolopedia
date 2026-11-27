@@ -1,6 +1,9 @@
 ---
 title: How can I support someone with cancer?
 desc: What to say and what not to, how to offer useful help and how to look after yourself when a relative or friend has cancer.
+img: a-como-acompanar-a-alguien-con-cancer.jpg
+img_alt: Two hands holding
+img_pie: Two hands holding.
 health: si
 ---
 ## Being there matters more than getting it right

@@ -1,6 +1,9 @@
 ---
 title: Kidney cancer
 desc: More than half are found by chance on an ultrasound or CT scan. Small tumours are often treated by removing only part of the kidney, and in advanced disease immunotherapy has lengthened survival for many patients.
+img: t-cancer-de-rinon.jpg
+img_alt: Clear cell renal cell carcinoma under the microscope
+img_pie: Clear cell renal cell carcinoma under the microscope.
 health: si
 orden: 34.2
 grupo: Urological and adrenal

@@ -1,6 +1,9 @@
 ---
 title: ¿El cáncer es hereditario?
 desc: Todos los cánceres son genéticos, pero muy pocos son hereditarios. Cuándo hay que pensar en una predisposición familiar.
+img: a-el-cancer-es-hereditario.jpg
+img_alt: Réplica del modelo de doble hélice del ADN
+img_pie: Réplica del modelo de doble hélice del ADN.
 health: si
 updated: 2026-11-25
 ---

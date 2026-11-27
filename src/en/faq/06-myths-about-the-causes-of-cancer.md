@@ -1,6 +1,9 @@
 ---
 title: Myths about the causes of cancer
 desc: Sugar, mobile phones, deodorants, stress, sweeteners or microwaves. What the evidence says about the most repeated worries.
+img: a-mitos-sobre-las-causas-del-cancer.jpg
+img_alt: A mobile phone mast
+img_pie: A mobile phone mast.
 health: si
 ---
 ## "Sugar feeds cancer"

@@ -1,6 +1,9 @@
 ---
 title: Ansiedad, depresión y miedo a la recaída
 desc: Cómo reconocer la ansiedad y la depresión durante y después del cáncer, qué es el miedo a la recaída y qué tratamientos psicológicos y farmacológicos han demostrado ayudar.
+img: a-ansiedad-depresion-y-miedo-a-la-recaida.jpg
+img_alt: Mujer angustiada tapándose la cara
+img_pie: Mujer angustiada tapándose la cara.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

@@ -1,6 +1,9 @@
 ---
 title: Theodor Boveri
 desc: The German biologist who proposed in 1914 that cancer arises from cells with abnormal chromosomes. An idea half a century ahead of its time.
+img: p-theodor-boveri.jpg
+img_alt: Theodor Boveri
+img_pie: Theodor Boveri.
 vida: 1862-1915
 pais: Germany
 campo: Cell biology

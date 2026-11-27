@@ -1,6 +1,9 @@
 ---
 title: Inmunoterapia
 desc: Tratamientos que ayudan al sistema inmunitario a reconocer y destruir el cáncer. Cómo funcionan los inhibidores de puntos de control, en qué cánceres se usan y qué efectos pueden tener.
+img: a-inmunoterapia.jpg
+img_alt: Cómo los linfocitos T reconocen y atacan a las células tumorales
+img_pie: Cómo los linfocitos T reconocen y atacan a las células tumorales.
 health: si
 ---
 ## La idea

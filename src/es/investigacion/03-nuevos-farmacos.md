@@ -1,6 +1,9 @@
 ---
 title: Nuevos fármacos contra el cáncer
 desc: Anticuerpos conjugados, biespecíficos, vacunas de ARNm, inhibidores de KRAS y terapias celulares: qué son las novedades que más se oyen en las noticias y en qué punto están.
+img: a-nuevos-farmacos.jpg
+img_alt: Investigación farmacéutica en el laboratorio
+img_pie: Investigación farmacéutica en el laboratorio.
 health: si
 ---
 ## Anticuerpos conjugados (ADC)

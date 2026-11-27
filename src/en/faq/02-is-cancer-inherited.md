@@ -1,6 +1,9 @@
 ---
 title: Is cancer inherited?
 desc: All cancers are genetic, but very few are inherited. When to think about a family predisposition.
+img: a-el-cancer-es-hereditario.jpg
+img_alt: Replica of the DNA double helix model
+img_pie: Replica of the DNA double helix model.
 health: si
 ---
 ## Genetic is not the same as inherited

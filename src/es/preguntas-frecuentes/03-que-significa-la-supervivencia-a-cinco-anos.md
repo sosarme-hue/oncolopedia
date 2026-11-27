@@ -1,6 +1,9 @@
 ---
 title: ¿Qué significa la supervivencia a cinco años?
 desc: Una cifra que aparece en todas partes y que a menudo asusta. Qué mide, qué no mide y por qué no es un plazo para nadie.
+img: a-que-significa-la-supervivencia-a-cinco-anos.jpg
+img_alt: Curvas de supervivencia de Kaplan-Meier
+img_pie: Curvas de supervivencia de Kaplan-Meier.
 health: si
 updated: 2026-11-25
 ---

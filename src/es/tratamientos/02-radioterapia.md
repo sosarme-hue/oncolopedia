@@ -1,6 +1,9 @@
 ---
 title: Radioterapia
 desc: Alrededor de la mitad de las personas con cáncer reciben radioterapia en algún momento. Cómo funciona, qué tipos hay y qué efectos secundarios puede tener.
+img: a-radioterapia.jpg
+img_alt: Acelerador lineal para radioterapia
+img_pie: Acelerador lineal para radioterapia.
 health: si
 ---
 ## Cómo funciona

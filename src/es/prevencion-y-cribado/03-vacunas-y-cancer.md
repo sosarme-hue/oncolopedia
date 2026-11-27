@@ -1,6 +1,9 @@
 ---
 title: Vacunas que previenen el cáncer
 desc: Dos vacunas del calendario, la de la hepatitis B y la del virus del papiloma humano, previenen cánceres. Cómo funcionan y quién debe recibirlas.
+img: a-vacunas-y-cancer.jpg
+img_alt: Vacunación contra el virus del papiloma humano
+img_pie: Vacunación contra el virus del papiloma humano.
 health: si
 updated: 2026-11-25
 ---

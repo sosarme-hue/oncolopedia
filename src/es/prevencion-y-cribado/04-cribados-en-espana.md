@@ -1,6 +1,9 @@
 ---
 title: Cribados de cáncer en España
 desc: Los programas de cribado de mama, colon y cuello uterino del Sistema Nacional de Salud: a quién se dirigen, cada cuánto se hacen y qué beneficios y límites tienen.
+img: a-cribados-en-espana.jpg
+img_alt: Mamografía de cribado
+img_pie: Mamografía de cribado.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

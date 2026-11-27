@@ -1,6 +1,9 @@
 ---
 title: Ensayos clínicos
 desc: Qué es un ensayo clínico, qué significan sus fases, cómo saber si hay uno para ti y qué preguntar antes de participar.
+img: a-ensayos-clinicos.jpg
+img_alt: Participante en un ensayo clínico recibiendo una inyección
+img_pie: Participante en un ensayo clínico recibiendo una inyección.
 health: si
 ---
 ## Qué es

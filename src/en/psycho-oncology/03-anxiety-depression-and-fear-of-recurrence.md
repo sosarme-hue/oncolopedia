@@ -1,6 +1,9 @@
 ---
 title: Anxiety, depression and fear of recurrence
 desc: How to recognise anxiety and depression during and after cancer, what fear of recurrence is, and which psychological and drug treatments have been shown to help.
+img: a-ansiedad-depresion-y-miedo-a-la-recaida.jpg
+img_alt: A distressed woman covering her face
+img_pie: A distressed woman covering her face.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

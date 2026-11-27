@@ -1,6 +1,9 @@
 ---
 title: ¿Puedo pedir una segunda opinión?
 desc: Sí. Pedir que otro especialista revise el diagnóstico o el plan de tratamiento es un derecho del paciente. Cuándo puede ser útil y cómo hacerlo.
+img: a-puedo-pedir-una-segunda-opinion.jpg
+img_alt: Médica revisando el caso de un paciente
+img_pie: Médica revisando el caso de un paciente.
 health: si
 ---
 ## Un derecho, no una desconfianza

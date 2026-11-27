@@ -1,6 +1,9 @@
 ---
 title: Understanding your pathology report
 desc: The pathology report confirms the diagnosis and guides treatment. What its sections are, what the most common terms mean and what to ask.
+img: a-como-entender-el-informe-de-anatomia-patologica.jpg
+img_alt: A histology slide under the microscope
+img_pie: A histology slide under the microscope.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

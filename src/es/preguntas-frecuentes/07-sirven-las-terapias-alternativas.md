@@ -1,6 +1,9 @@
 ---
 title: ¿Sirven las terapias alternativas?
 desc: La diferencia entre terapias complementarias, que pueden ayudar a sentirse mejor, y terapias alternativas, que sustituyen al tratamiento y ponen en riesgo la vida.
+img: a-sirven-las-terapias-alternativas.jpg
+img_alt: Estantería de remedios de herbolario
+img_pie: Estantería de remedios de herbolario.
 health: si
 ---
 ## Complementaria no es lo mismo que alternativa

@@ -1,6 +1,9 @@
 ---
 title: Targeted therapy
 desc: Drugs designed against a specific change in tumour cells. How they work, when they are used and why tumours often find a way round them.
+img: a-terapias-dirigidas.jpg
+img_alt: Structure of a monoclonal antibody (IgG1)
+img_pie: Structure of a monoclonal antibody (IgG1).
 health: si
 ---
 ## What it is

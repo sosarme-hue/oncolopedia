@@ -1,6 +1,9 @@
 ---
 title: Biomarcadores y perfil molecular
 desc: Qué son los biomarcadores, cómo se estudian las alteraciones genéticas de un tumor y por qué encontrar una diana no garantiza un tratamiento eficaz.
+img: a-biomarcadores-y-perfil-molecular.jpg
+img_alt: Análisis de ADN en un laboratorio
+img_pie: Análisis de ADN en un laboratorio.
 health: si
 ---
 ## Qué es un biomarcador

@@ -1,6 +1,9 @@
 ---
 title: Estadio y grado
 desc: Dos palabras que aparecen en casi todos los informes y que a menudo se confunden. El estadio dice hasta dónde ha llegado el cáncer; el grado, cómo son sus células.
+img: a-estadio-y-grado.jpg
+img_alt: Ilustración de la extensión de un tumor según el sistema TNM
+img_pie: Ilustración de la extensión de un tumor según el sistema TNM.
 health: si
 ---
 ## Dos conceptos distintos

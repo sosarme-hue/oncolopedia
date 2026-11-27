@@ -1,6 +1,9 @@
 ---
 title: Síntomas que no hay que ignorar
 desc: Qué síntomas piden atención inmediata, cuáles hay que consultar pronto aunque hayan pasado una sola vez y cuáles solo si persisten. La mayoría no se deben a un cáncer.
+img: a-sintomas-que-no-hay-que-ignorar.jpg
+img_alt: Médica hablando con una paciente
+img_pie: Médica hablando con una paciente.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

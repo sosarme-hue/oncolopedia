@@ -1,6 +1,9 @@
 ---
 title: ¿La biopsia o la cirugía extienden el cáncer?
 desc: Un miedo frecuente que retrasa diagnósticos. Lo que dicen los estudios sobre las biopsias, la cirugía y el «aire» que llega al tumor.
+img: a-la-biopsia-extiende-el-cancer.jpg
+img_alt: Biopsia guiada con precisión en el quirófano
+img_pie: Biopsia guiada con precisión en el quirófano.
 health: si
 ---
 ## La respuesta corta

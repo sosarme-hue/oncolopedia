@@ -1,6 +1,9 @@
 ---
 title: Efectos secundarios del tratamiento
 desc: Cansancio, náuseas, caída del pelo, defensas bajas o hormigueos: qué efectos son frecuentes, cómo se previenen y cuándo hay que consultar de urgencia.
+img: a-efectos-secundarios.jpg
+img_alt: Niña en tratamiento oncológico con su peluche
+img_pie: Niña en tratamiento oncológico con su peluche.
 health: si
 ---
 ## Lo primero: cuándo consultar sin esperar

@@ -1,6 +1,9 @@
 ---
 title: Vaccines that prevent cancer
 desc: Two routine vaccines, against hepatitis B and human papillomavirus, prevent cancer. How they work and who should have them.
+img: a-vacunas-y-cancer.jpg
+img_alt: Vaccination against human papillomavirus
+img_pie: Vaccination against human papillomavirus.
 health: si
 ---
 ## Vaccines against infections that cause cancer

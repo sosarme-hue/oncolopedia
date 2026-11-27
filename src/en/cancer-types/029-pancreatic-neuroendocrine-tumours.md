@@ -1,6 +1,9 @@
 ---
 title: Pancreatic neuroendocrine tumours
 desc: Tumours of the hormone-making cells of the pancreas. They are much less aggressive than ordinary pancreatic cancer; some produce hormones that cause striking symptoms.
+img: t-tumores-neuroendocrinos-de-pancreas.jpg
+img_alt: Well-differentiated pancreatic neuroendocrine tumour under the microscope
+img_pie: Well-differentiated pancreatic neuroendocrine tumour under the microscope.
 health: si
 grupo: Digestive system
 medicapedia: islet-cell-carcinoma

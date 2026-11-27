@@ -1,6 +1,9 @@
 ---
 title: Treatment side effects
 desc: Tiredness, nausea, hair loss, low immunity or tingling: which effects are common, how they are prevented and when to seek urgent help.
+img: a-efectos-secundarios.jpg
+img_alt: A young patient with her teddy bear during cancer treatment
+img_pie: A young patient with her teddy bear during cancer treatment.
 health: si
 ---
 ## First: when to get help straight away

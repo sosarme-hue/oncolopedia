@@ -1,6 +1,9 @@
 ---
 title: Riesgo hereditario y consejo genético
 desc: Entre el 5 y el 10 % de los cánceres se deben a una predisposición heredada. Cuándo sospecharla, qué es el consejo genético y qué se puede hacer con el resultado.
+img: a-riesgo-hereditario-y-consejo-genetico.jpg
+img_alt: Árbol genealógico de una familia con una enfermedad hereditaria
+img_pie: Árbol genealógico de una familia con una enfermedad hereditaria.
 health: si
 updated: 2026-11-25
 ---

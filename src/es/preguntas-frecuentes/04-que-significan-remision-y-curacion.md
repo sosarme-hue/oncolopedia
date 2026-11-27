@@ -1,6 +1,9 @@
 ---
 title: ¿Qué significan remisión y curación?
 desc: Remisión completa, parcial, enfermedad estable, curación: las palabras que se usan para describir la respuesta al tratamiento.
+img: a-que-significan-remision-y-curacion.jpg
+img_alt: Superviviente de cáncer en una carrera solidaria
+img_pie: Superviviente de cáncer en una carrera solidaria.
 health: si
 ---
 ## Respuesta al tratamiento

@@ -1,6 +1,9 @@
 ---
 title: Largos supervivientes
 desc: Cada vez más personas viven muchos años después de un cáncer. Qué seguimiento necesitan, qué efectos tardíos pueden aparecer y cómo cuidar la salud después.
+img: a-largos-supervivientes.jpg
+img_alt: Mujer mayor sonriendo
+img_pie: Mujer mayor sonriendo.
 health: si
 updated: 2026-11-25
 ---

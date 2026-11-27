@@ -1,6 +1,9 @@
 ---
 title: Imagen corporal, autoestima y pareja
 desc: Cicatrices, pérdida de pelo, una mastectomía o una ostomía cambian la forma en que una persona se ve. Cómo afectan estos cambios a la autoestima y a la pareja, y qué ayuda a recuperarse.
+img: a-imagen-corporal-autoestima-y-pareja.jpg
+img_alt: Pareja cogida de la mano
+img_pie: Pareja cogida de la mano.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

@@ -1,6 +1,9 @@
 ---
 title: Body image, self-esteem and relationships
 desc: Scars, hair loss, a mastectomy or an ostomy change the way people see themselves. How these changes affect self-esteem and relationships, and what helps recovery.
+img: a-imagen-corporal-autoestima-y-pareja.jpg
+img_alt: A couple holding hands
+img_pie: A couple holding hands.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

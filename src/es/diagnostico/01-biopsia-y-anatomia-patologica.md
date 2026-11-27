@@ -1,6 +1,9 @@
 ---
 title: Biopsia y anatomía patológica
 desc: La biopsia es la prueba que confirma la mayoría de los cánceres. Cómo se hace, qué estudia el patólogo y cómo leer las partes principales de un informe.
+img: a-biopsia-y-anatomia-patologica.jpg
+img_alt: Técnico de laboratorio examinando una muestra al microscopio
+img_pie: Técnico de laboratorio examinando una muestra al microscopio.
 health: si
 ---
 ## Por qué hace falta una biopsia

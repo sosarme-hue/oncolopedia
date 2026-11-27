@@ -1,6 +1,9 @@
 ---
 title: Work and rights
 desc: Sick leave, returning to work, disability protection and the "right to be forgotten" for cancer survivors: what to know.
+img: a-trabajo-y-derechos.jpg
+img_alt: A woman working on her laptop
+img_pie: A woman working on her laptop.
 health: si
 ---
 ## Time off work

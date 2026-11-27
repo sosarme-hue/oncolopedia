@@ -1,6 +1,9 @@
 ---
 title: El impacto emocional del diagnóstico
 desc: Qué se suele sentir al recibir un diagnóstico de cáncer, por qué las reacciones cambian con el tiempo, qué es normal y qué señales indican que conviene pedir ayuda especializada.
+img: a-el-impacto-emocional-del-diagnostico.jpg
+img_alt: Mujer preocupada
+img_pie: Mujer preocupada.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

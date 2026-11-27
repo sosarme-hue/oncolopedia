@@ -1,6 +1,9 @@
 ---
 title: ¿Qué es el cáncer?
 desc: Una explicación sencilla: qué ocurre en las células, por qué no es una sola enfermedad y cómo se extiende.
+img: a-que-es-el-cancer.jpg
+img_alt: Células HeLa, la primera línea celular de cáncer cultivada, al microscopio electrónico
+img_pie: Células HeLa, la primera línea celular de cáncer cultivada, al microscopio electrónico.
 health: si
 ---
 ## Células que pierden el control

@@ -1,6 +1,9 @@
 ---
 title: Precision medicine
 desc: Choosing treatment according to the molecular features of each tumour. What already works, its limits and why it does not mean tailor-made treatment for everyone.
+img: a-medicina-de-precision.jpg
+img_alt: DNA sequencers
+img_pie: DNA sequencers.
 health: si
 ---
 ## The idea

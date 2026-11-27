@@ -1,6 +1,9 @@
 ---
 title: Radiotherapy
 desc: About half of people with cancer receive radiotherapy at some point. How it works, the main types and the side effects it can cause.
+img: a-radioterapia.jpg
+img_alt: A linear accelerator for radiotherapy
+img_pie: A linear accelerator for radiotherapy.
 health: si
 ---
 ## How it works

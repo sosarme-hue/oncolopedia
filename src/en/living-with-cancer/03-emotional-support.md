@@ -1,6 +1,9 @@
 ---
 title: Emotional support
 desc: A cancer diagnosis affects the person and the whole family. Emotional reactions are normal, and asking for help is part of treatment.
+img: a-apoyo-emocional.jpg
+img_alt: A hug
+img_pie: A hug.
 health: si
 ---
 ## Normal reactions to an abnormal situation

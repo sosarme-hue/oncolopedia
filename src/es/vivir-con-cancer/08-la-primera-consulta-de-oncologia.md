@@ -1,6 +1,9 @@
 ---
 title: La primera consulta de oncología
 desc: Cómo preparar la primera visita con el oncólogo: qué documentos llevar, con quién ir, qué preguntas hacer y qué esperar de esa consulta y de las semanas siguientes.
+img: a-la-primera-consulta-de-oncologia.jpg
+img_alt: Médico conversando con una pareja en la consulta
+img_pie: Médico conversando con una pareja en la consulta.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

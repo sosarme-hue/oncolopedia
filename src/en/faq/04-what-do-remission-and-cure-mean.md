@@ -1,6 +1,9 @@
 ---
 title: What do remission and cure mean?
 desc: Complete remission, partial remission, stable disease, cure: the words used to describe response to treatment.
+img: a-que-significan-remision-y-curacion.jpg
+img_alt: A cancer survivor at a charity race
+img_pie: A cancer survivor at a charity race.
 health: si
 ---
 ## Response to treatment

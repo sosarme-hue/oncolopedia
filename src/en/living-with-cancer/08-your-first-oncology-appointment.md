@@ -1,6 +1,9 @@
 ---
 title: Your first oncology appointment
 desc: How to prepare for your first visit to the oncologist: what to bring, who to take with you, what to ask and what to expect from that appointment and the weeks after.
+img: a-la-primera-consulta-de-oncologia.jpg
+img_alt: A doctor talking with a couple during a consultation
+img_pie: A doctor talking with a couple during a consultation.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

@@ -1,6 +1,9 @@
 ---
 title: What does five-year survival mean?
 desc: A figure seen everywhere that often frightens people. What it measures, what it doesn't, and why it is nobody's deadline.
+img: a-que-significa-la-supervivencia-a-cinco-anos.jpg
+img_alt: Kaplan-Meier survival curves
+img_pie: Kaplan-Meier survival curves.
 health: si
 ---
 ## What it measures

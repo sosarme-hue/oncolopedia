@@ -1,6 +1,9 @@
 ---
 title: Cuidados paliativos
 desc: Los cuidados paliativos alivian el dolor y otros síntomas y apoyan a la persona y a su familia. No son solo para el final de la vida: pueden empezar desde el diagnóstico.
+img: a-cuidados-paliativos.jpg
+img_alt: Visita domiciliaria de un equipo de cuidados paliativos
+img_pie: Visita domiciliaria de un equipo de cuidados paliativos.
 health: si
 ---
 ## Qué son

@@ -1,6 +1,9 @@
 ---
 title: Tabaco, alcohol y otros riesgos
 desc: Los factores de riesgo de cáncer que se pueden evitar, ordenados por su importancia real. Y por qué no es lo mismo que algo sea cancerígeno que lo peligroso que es.
+img: a-tabaco-alcohol-y-otros-riesgos.jpg
+img_alt: Colillas de cigarrillo
+img_pie: Colillas de cigarrillo.
 health: si
 ---
 ## El tabaco, lo primero

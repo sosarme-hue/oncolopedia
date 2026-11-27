@@ -1,6 +1,9 @@
 ---
 title: Stem cell transplant and CAR-T
 desc: Blood stem cell transplants and CAR-T therapies are intensive treatments for some leukaemias, lymphomas and myelomas. What they are and how they work.
+img: a-trasplante-de-medula-y-car-t.jpg
+img_alt: Bone marrow collection
+img_pie: Bone marrow collection.
 health: si
 ---
 ## Blood stem cell transplant

@@ -1,6 +1,9 @@
 ---
 title: Quimioterapia
 desc: Los fármacos citotóxicos destruyen las células que se dividen deprisa. Para qué se usan, cómo se administran y cómo se previenen y tratan sus efectos secundarios.
+img: a-quimioterapia.jpg
+img_alt: Paciente recibiendo quimioterapia
+img_pie: Paciente recibiendo quimioterapia.
 health: si
 ---
 ## Qué es

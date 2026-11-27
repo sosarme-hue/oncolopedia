@@ -1,6 +1,9 @@
 ---
 title: Tumores neuroendocrinos de páncreas
 desc: Tumores de las células que fabrican hormonas en el páncreas. Son mucho menos agresivos que el cáncer de páncreas habitual; algunos producen hormonas que causan síntomas llamativos.
+img: t-tumores-neuroendocrinos-de-pancreas.jpg
+img_alt: Tumor neuroendocrino de páncreas bien diferenciado al microscopio
+img_pie: Tumor neuroendocrino de páncreas bien diferenciado al microscopio.
 health: si
 grupo: Aparato digestivo
 medicapedia: islet-cell-carcinoma

@@ -1,6 +1,9 @@
 ---
 title: Why is there more cancer than before?
 desc: The number of cases is rising, but the risk of dying from cancer at each age is falling. The reasons are ageing, earlier diagnosis and some habits.
+img: a-por-que-hay-mas-cancer-que-antes.jpg
+img_alt: An older person walking in a park
+img_pie: An older person walking in a park.
 health: si
 ---
 ## More cases, lower death rates by age

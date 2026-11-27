@@ -1,6 +1,9 @@
 ---
 title: Biopsy and pathology
 desc: A biopsy confirms most cancers. How it is done, what the pathologist looks at and how to read the main parts of a report.
+img: a-biopsia-y-anatomia-patologica.jpg
+img_alt: A laboratory technician examining a sample under the microscope
+img_pie: A laboratory technician examining a sample under the microscope.
 health: si
 ---
 ## Why a biopsy is needed

@@ -1,6 +1,9 @@
 ---
 title: Can I ask for a second opinion?
 desc: Yes. Asking another specialist to review the diagnosis or treatment plan is a patient's right. When it can help and how to do it.
+img: a-puedo-pedir-una-segunda-opinion.jpg
+img_alt: A doctor reviewing a patient's case
+img_pie: A doctor reviewing a patient's case.
 health: si
 ---
 ## A right, not a sign of distrust

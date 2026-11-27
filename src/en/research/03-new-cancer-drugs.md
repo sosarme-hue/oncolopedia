@@ -1,6 +1,9 @@
 ---
 title: New cancer drugs
 desc: Antibody-drug conjugates, bispecifics, mRNA vaccines, KRAS inhibitors and cell therapies: what the new treatments in the news are and where they stand.
+img: a-nuevos-farmacos.jpg
+img_alt: Pharmaceutical research in the laboratory
+img_pie: Pharmaceutical research in the laboratory.
 health: si
 ---
 ## Antibody-drug conjugates (ADCs)

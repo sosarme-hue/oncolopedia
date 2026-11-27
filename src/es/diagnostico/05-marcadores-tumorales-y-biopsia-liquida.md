@@ -1,6 +1,9 @@
 ---
 title: Marcadores tumorales y biopsia líquida
 desc: El PSA, el CEA o el CA-125 casi nunca sirven por sí solos para diagnosticar un cáncer. Qué miden los análisis de sangre en oncología y qué puede aportar la biopsia líquida.
+img: a-marcadores-tumorales-y-biopsia-liquida.jpg
+img_alt: Tubos de extracción de sangre en un laboratorio clínico
+img_pie: Tubos de extracción de sangre en un laboratorio clínico.
 health: si
 ---
 ## Qué son los marcadores tumorales

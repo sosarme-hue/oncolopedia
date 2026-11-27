@@ -1,6 +1,9 @@
 ---
 title: Do biopsies or surgery spread cancer?
 desc: A common fear that delays diagnosis. What studies say about biopsies, surgery and "air" reaching the tumour.
+img: a-la-biopsia-extiende-el-cancer.jpg
+img_alt: A precisely guided biopsy in the operating room
+img_pie: A precisely guided biopsy in the operating room.
 health: si
 ---
 ## The short answer

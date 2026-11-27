@@ -1,6 +1,9 @@
 ---
 title: Chemotherapy
 desc: Cytotoxic drugs destroy fast-dividing cells. What they are used for, how they are given and how their side effects are prevented and treated.
+img: a-quimioterapia.jpg
+img_alt: A patient receiving chemotherapy
+img_pie: A patient receiving chemotherapy.
 health: si
 ---
 ## What it is

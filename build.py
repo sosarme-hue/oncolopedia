@@ -231,7 +231,7 @@ def credit(fn, lang="es"):
         art = art[:len(art) // 2]
     art = re.sub(r"^Unknown author\s*Unknown author$", "Unknown author", art)
     if lang == "es":
-        art = art.replace("Unknown author", "Autor desconocido")
+        art = art.replace("Unknown author", "Autor desconocido").replace("Unknown photographer", "Fotógrafo desconocido")
     if lang == "en":
         art = art.replace("Autor desconocido", "Unknown author").replace("obra derivada", "derivative work").replace("artículo de", "article by").replace("Subido por", "Uploaded by")
         lic = lic.replace("Public domain", "Public domain")

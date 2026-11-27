@@ -1,6 +1,9 @@
 ---
 title: Medicina de precisión
 desc: Elegir el tratamiento según las características moleculares de cada tumor. Lo que ya funciona, sus límites y por qué no significa un tratamiento a medida para todos.
+img: a-medicina-de-precision.jpg
+img_alt: Secuenciadores de ADN
+img_pie: Secuenciadores de ADN.
 health: si
 ---
 ## La idea

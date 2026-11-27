@@ -1,6 +1,9 @@
 ---
 title: The European Code Against Cancer
 desc: Simple, evidence-based recommendations anyone can follow to reduce their cancer risk. According to the WHO, between 30 and 50% of cancers could be prevented.
+img: a-codigo-europeo-contra-el-cancer.jpg
+img_alt: An exercise class
+img_pie: An exercise class.
 health: si
 ---
 ## What it is

@@ -1,6 +1,9 @@
 ---
 title: Where to get psychological help
 desc: Resources for people with cancer and their families: the hospital's psycho-oncology unit, primary care, charities offering free support and crisis lines, in Spain, the UK and the US.
+img: a-donde-pedir-ayuda-psicologica.jpg
+img_alt: A patient talking with a health professional
+img_pie: A patient talking with a health professional.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

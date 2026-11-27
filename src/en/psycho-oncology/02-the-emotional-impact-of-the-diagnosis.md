@@ -1,6 +1,9 @@
 ---
 title: The emotional impact of the diagnosis
 desc: What people usually feel when they are diagnosed with cancer, why reactions change over time, what is normal and which signs suggest asking for specialist help.
+img: a-el-impacto-emocional-del-diagnostico.jpg
+img_alt: A worried woman
+img_pie: A worried woman.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

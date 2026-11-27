@@ -1,6 +1,9 @@
 ---
 title: Shared decisions and second opinions
 desc: How to take part in decisions about your treatment, what informed consent is, when a second opinion makes sense and how to ask for one.
+img: a-decisiones-compartidas-y-segunda-opinion.jpg
+img_alt: A couple consulting their doctor
+img_pie: A couple consulting their doctor.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

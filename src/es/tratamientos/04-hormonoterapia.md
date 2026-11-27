@@ -1,6 +1,9 @@
 ---
 title: Hormonoterapia
 desc: Algunos cánceres crecen estimulados por hormonas. Bloquearlas es uno de los tratamientos más eficaces en el cáncer de mama y de próstata.
+img: a-hormonoterapia.jpg
+img_alt: Comprimidos de tamoxifeno y raloxifeno
+img_pie: Comprimidos de tamoxifeno y raloxifeno.
 health: si
 ---
 ## Qué es

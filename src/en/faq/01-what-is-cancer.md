@@ -1,6 +1,9 @@
 ---
 title: What is cancer?
 desc: A simple explanation: what happens in cells, why it is not a single disease and how it spreads.
+img: a-que-es-el-cancer.jpg
+img_alt: HeLa cells, the first cultured cancer cell line, under the electron microscope
+img_pie: HeLa cells, the first cultured cancer cell line, under the electron microscope.
 health: si
 ---
 ## Cells that lose control

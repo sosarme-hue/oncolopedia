@@ -1,6 +1,9 @@
 ---
 title: Cuándo llamar a tu equipo durante el tratamiento
 desc: Qué síntomas durante la quimioterapia, la inmunoterapia o la radioterapia obligan a llamar o acudir a urgencias en el momento, cuáles hay que comentar en el día y cuáles pueden esperar a la próxima consulta.
+img: a-cuando-llamar-a-tu-equipo-durante-el-tratamiento.jpg
+img_alt: Termómetro digital
+img_pie: Termómetro digital.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

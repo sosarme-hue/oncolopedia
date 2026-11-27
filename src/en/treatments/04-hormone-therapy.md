@@ -1,6 +1,9 @@
 ---
 title: Hormone therapy
 desc: Some cancers are driven by hormones. Blocking them is one of the most effective treatments for breast and prostate cancer.
+img: a-hormonoterapia.jpg
+img_alt: Tamoxifen and raloxifene tablets
+img_pie: Tamoxifen and raloxifene tablets.
 health: si
 ---
 ## What it is

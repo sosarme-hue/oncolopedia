@@ -1,6 +1,9 @@
 ---
 title: Richard Doll
 desc: El epidemiólogo británico que, con Austin Bradford Hill, demostró que fumar causa cáncer de pulmón. Su estudio de médicos británicos duró 50 años.
+img: p-richard-doll.jpg
+img_alt: Richard Doll
+img_pie: Richard Doll.
 vida: 1912-2005
 pais: Reino Unido
 campo: Epidemiología

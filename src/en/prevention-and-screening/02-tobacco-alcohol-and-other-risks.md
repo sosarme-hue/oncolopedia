@@ -1,6 +1,9 @@
 ---
 title: Tobacco, alcohol and other risks
 desc: Avoidable cancer risk factors, ranked by how much they really matter. And why something being carcinogenic is not the same as how dangerous it is.
+img: a-tabaco-alcohol-y-otros-riesgos.jpg
+img_alt: Cigarette butts
+img_pie: Cigarette butts.
 health: si
 ---
 ## Tobacco comes first

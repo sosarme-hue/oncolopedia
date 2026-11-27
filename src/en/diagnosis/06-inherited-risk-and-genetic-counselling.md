@@ -1,6 +1,9 @@
 ---
 title: Inherited risk and genetic counselling
 desc: Between 5 and 10% of cancers are due to an inherited predisposition. When to suspect it, what genetic counselling is and what can be done with the result.
+img: a-riesgo-hereditario-y-consejo-genetico.jpg
+img_alt: Family pedigree of an inherited condition
+img_pie: Family pedigree of an inherited condition.
 health: si
 ---
 ## How many cancers are inherited

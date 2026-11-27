@@ -1,6 +1,9 @@
 ---
 title: Apoyo emocional
 desc: El diagnóstico de un cáncer afecta a la persona y a toda su familia. Las reacciones emocionales son normales, y pedir ayuda forma parte del tratamiento.
+img: a-apoyo-emocional.jpg
+img_alt: Un abrazo
+img_pie: Un abrazo.
 health: si
 updated: 2026-11-25
 ---

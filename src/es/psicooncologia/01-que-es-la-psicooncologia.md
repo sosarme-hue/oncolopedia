@@ -1,6 +1,9 @@
 ---
 title: Qué es la psicooncología
 desc: La especialidad que atiende el impacto emocional del cáncer en el paciente y en su familia, y estudia cómo influyen los factores psicológicos y sociales en la enfermedad. Quién la hace y cuándo pedirla.
+img: a-que-es-la-psicooncologia.jpg
+img_alt: Sesión de terapia de grupo
+img_pie: Sesión de terapia de grupo.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

@@ -1,6 +1,9 @@
 ---
 title: Do alternative therapies work?
 desc: The difference between complementary therapies, which can help people feel better, and alternative therapies, which replace treatment and put lives at risk.
+img: a-sirven-las-terapias-alternativas.jpg
+img_alt: Shelves of herbal remedies
+img_pie: Shelves of herbal remedies.
 health: si
 ---
 ## Complementary is not the same as alternative

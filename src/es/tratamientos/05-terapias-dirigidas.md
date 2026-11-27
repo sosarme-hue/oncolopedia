@@ -1,6 +1,9 @@
 ---
 title: Terapias dirigidas
 desc: Fármacos diseñados contra una alteración concreta de las células tumorales. Cómo funcionan, cuándo se usan y por qué el tumor acaba a menudo encontrando una salida.
+img: a-terapias-dirigidas.jpg
+img_alt: Estructura de un anticuerpo monoclonal (IgG1)
+img_pie: Estructura de un anticuerpo monoclonal (IgG1).
 health: si
 ---
 ## Qué son

@@ -1,6 +1,9 @@
 ---
 title: What is psycho-oncology
 desc: The specialty that cares for the emotional impact of cancer on patients and their families, and studies how psychological and social factors influence the illness. Who provides it and when to ask for it.
+img: a-que-es-la-psicooncologia.jpg
+img_alt: A group therapy session
+img_pie: A group therapy session.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

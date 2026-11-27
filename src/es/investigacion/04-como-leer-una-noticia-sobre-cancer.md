@@ -1,6 +1,9 @@
 ---
 title: Cómo leer una noticia sobre cáncer
 desc: «Un nuevo fármaco cura el cáncer», «este alimento previene tumores». Diez preguntas para separar los avances reales de las promesas vacías.
+img: a-como-leer-una-noticia-sobre-cancer.jpg
+img_alt: Lectura del periódico en una terraza
+img_pie: Lectura del periódico en una terraza.
 health: si
 ---
 ## Por qué hace falta

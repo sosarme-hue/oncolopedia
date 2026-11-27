@@ -1,6 +1,9 @@
 ---
 title: Trasplante de médula y CAR-T
 desc: El trasplante de progenitores hematopoyéticos y las terapias CAR-T son tratamientos intensivos para algunas leucemias, linfomas y mielomas. Qué son y cómo funcionan.
+img: a-trasplante-de-medula-y-car-t.jpg
+img_alt: Extracción de médula ósea
+img_pie: Extracción de médula ósea.
 health: si
 ---
 ## Trasplante de progenitores hematopoyéticos

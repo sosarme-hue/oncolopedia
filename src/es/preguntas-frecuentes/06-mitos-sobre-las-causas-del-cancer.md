@@ -1,6 +1,9 @@
 ---
 title: Mitos sobre las causas del cáncer
 desc: El azúcar, los móviles, los desodorantes, el estrés, los edulcorantes o el microondas. Qué dice la evidencia sobre las preocupaciones más repetidas.
+img: a-mitos-sobre-las-causas-del-cancer.jpg
+img_alt: Antena de telefonía móvil
+img_pie: Antena de telefonía móvil.
 health: si
 ---
 ## «El azúcar alimenta el cáncer»

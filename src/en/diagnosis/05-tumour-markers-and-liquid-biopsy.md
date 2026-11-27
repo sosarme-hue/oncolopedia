@@ -1,6 +1,9 @@
 ---
 title: Tumour markers and liquid biopsy
 desc: PSA, CEA or CA-125 almost never diagnose cancer on their own. What blood tests measure in oncology and what liquid biopsy can add.
+img: a-marcadores-tumorales-y-biopsia-liquida.jpg
+img_alt: Blood collection tubes in a clinical laboratory
+img_pie: Blood collection tubes in a clinical laboratory.
 health: si
 ---
 ## What tumour markers are

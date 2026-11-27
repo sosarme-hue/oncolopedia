@@ -1,6 +1,9 @@
 ---
 title: When to call your team during treatment
 desc: Which symptoms during chemotherapy, immunotherapy or radiotherapy mean you should call or go to the emergency department straight away, which to report the same day and which can wait for your next appointment.
+img: a-cuando-llamar-a-tu-equipo-durante-el-tratamiento.jpg
+img_alt: A digital thermometer
+img_pie: A digital thermometer.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

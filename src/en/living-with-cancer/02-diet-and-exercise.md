@@ -1,6 +1,9 @@
 ---
 title: Diet and exercise
 desc: What to eat during treatment, why "anti-cancer" diets do not work, and how exercise improves fatigue, quality of life and, in some cancers, the outlook.
+img: a-alimentacion-y-ejercicio.jpg
+img_alt: A variety of fruit and vegetables
+img_pie: A variety of fruit and vegetables.
 health: si
 ---
 ## During treatment

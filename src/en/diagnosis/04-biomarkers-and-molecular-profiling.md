@@ -1,6 +1,9 @@
 ---
 title: Biomarkers and molecular profiling
 desc: What biomarkers are, how a tumour's genetic changes are studied and why finding a target does not guarantee an effective treatment.
+img: a-biomarcadores-y-perfil-molecular.jpg
+img_alt: DNA analysis in a laboratory
+img_pie: DNA analysis in a laboratory.
 health: si
 ---
 ## What a biomarker is

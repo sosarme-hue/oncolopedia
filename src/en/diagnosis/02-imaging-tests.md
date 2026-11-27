@@ -1,6 +1,9 @@
 ---
 title: Imaging tests
 desc: Ultrasound, CT, MRI and PET: what each is for in cancer, when they are used and why not every test is right in every case.
+img: a-pruebas-de-imagen.jpg
+img_alt: Positioning a patient for a CT scan
+img_pie: Positioning a patient for a CT scan.
 health: si
 ---
 ## What they are for

@@ -1,6 +1,9 @@
 ---
 title: ¿Por qué hay más cáncer que antes?
 desc: El número de casos aumenta, pero el riesgo de morir por cáncer a cada edad disminuye. Las razones son el envejecimiento, el diagnóstico precoz y algunos hábitos.
+img: a-por-que-hay-mas-cancer-que-antes.jpg
+img_alt: Persona mayor paseando por un parque
+img_pie: Persona mayor paseando por un parque.
 health: si
 updated: 2026-11-25
 ---

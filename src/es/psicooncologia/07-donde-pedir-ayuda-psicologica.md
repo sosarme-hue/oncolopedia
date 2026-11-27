@@ -1,6 +1,9 @@
 ---
 title: Dónde pedir ayuda psicológica
 desc: Recursos en España para pacientes con cáncer y familiares: la unidad de psicooncología del hospital, la atención primaria, las asociaciones con atención gratuita y los teléfonos de crisis.
+img: a-donde-pedir-ayuda-psicologica.jpg
+img_alt: Paciente hablando con un profesional sanitario
+img_pie: Paciente hablando con un profesional sanitario.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

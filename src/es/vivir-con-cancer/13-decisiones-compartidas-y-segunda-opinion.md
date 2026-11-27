@@ -1,6 +1,9 @@
 ---
 title: Decisiones compartidas y segunda opinión
 desc: Cómo participar en las decisiones sobre tu tratamiento, qué es el consentimiento informado, cuándo tiene sentido pedir una segunda opinión y cómo hacerlo en España.
+img: a-decisiones-compartidas-y-segunda-opinion.jpg
+img_alt: Pareja consultando con su médico
+img_pie: Pareja consultando con su médico.
 health: si
 updated: 2026-11-25
 revisado: 2026-11-25

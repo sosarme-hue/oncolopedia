@@ -1,6 +1,9 @@
 ---
 title: Palliative care
 desc: Palliative care relieves pain and other symptoms and supports the person and their family. It is not only for the end of life: it can start at diagnosis.
+img: a-cuidados-paliativos.jpg
+img_alt: A home visit by a palliative care team
+img_pie: A home visit by a palliative care team.
 health: si
 ---
 ## What it is

@@ -1,6 +1,9 @@
 ---
 title: Stage and grade
 desc: Two words found in almost every report, and often confused. Stage tells you how far the cancer has spread; grade, what its cells look like.
+img: a-estadio-y-grado.jpg
+img_alt: Illustration of tumour spread according to the TNM system
+img_pie: Illustration of tumour spread according to the TNM system.
 health: si
 ---
 ## Two different ideas
